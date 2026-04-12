@@ -1,0 +1,742 @@
+date,home_team,away_team,home_score,away_score,season
+2021-11-09,Gonzaga Bulldogs,Utah Tech Trailblazers,97,63,2022
+2021-11-09,UCLA Bruins,Cal State Bakersfield Roadrunners,95,58,2022
+2021-11-09,Villanova Wildcats,Mount St. Mary's Mountaineers,91,51,2022
+2021-11-09,Texas Longhorns,Houston Christian Huskies,92,48,2022
+2021-11-09,Purdue Boilermakers,Bellarmine Knights,96,67,2022
+2021-11-09,Illinois Fighting Illini,Jackson State Tigers,71,47,2022
+2021-11-09,Memphis Tigers,Tennessee Tech Golden Eagles,89,65,2022
+2021-11-09,Oregon Ducks,Texas Southern Tigers,83,66,2022
+2021-11-09,Alabama Crimson Tide,Louisiana Tech Bulldogs,93,64,2022
+2021-11-09,Houston Cougars,Hofstra Pride,83,75,2022
+2021-11-09,Arkansas Razorbacks,Mercer Bears,74,61,2022
+2021-11-09,Ohio State Buckeyes,Akron Zips,67,66,2022
+2021-11-09,Tennessee Volunteers,UT Martin Skyhawks,90,62,2022
+2021-11-09,North Carolina Tar Heels,Loyola Maryland Greyhounds,83,67,2022
+2021-11-09,Maryland Terrapins,Quinnipiac Bobcats,83,69,2022
+2021-11-09,Auburn Tigers,Morehead State Eagles,77,54,2022
+2021-11-09,St. Bonaventure Bonnies,Siena Saints,75,47,2022
+2021-11-09,UConn Huskies,Central Connecticut Blue Devils,99,48,2022
+2021-11-09,Virginia Cavaliers,Navy Midshipmen,58,66,2022
+2021-11-10,Michigan Wolverines,Buffalo Bulls,88,76,2022
+2021-11-10,Florida State Seminoles,Pennsylvania Quakers,105,70,2022
+2021-11-11,Maryland Terrapins,George Washington Revolutionaries,71,64,2022
+2021-11-12,UCLA Bruins,Villanova Wildcats,86,77,2022
+2021-11-12,Kansas Jayhawks,Tarleton State Texans,88,62,2022
+2021-11-12,Purdue Boilermakers,Indiana State Sycamores,92,67,2022
+2021-11-12,Baylor Bears,Incarnate Word Cardinals,87,60,2022
+2021-11-12,Illinois Fighting Illini,Arkansas State Red Wolves,92,53,2022
+2021-11-12,Oregon Ducks,SMU Mustangs,86,63,2022
+2021-11-12,Alabama Crimson Tide,South Dakota State Jackrabbits,104,88,2022
+2021-11-12,Houston Cougars,Rice Owls,79,46,2022
+2021-11-12,Ohio State Buckeyes,Niagara Purple Eagles,84,74,2022
+2021-11-12,North Carolina Tar Heels,Brown Bears,94,87,2022
+2021-11-12,Auburn Tigers,UL Monroe Warhawks,93,65,2022
+2021-11-12,Virginia Cavaliers,Radford Highlanders,73,52,2022
+2021-11-13,Gonzaga Bulldogs,Texas Longhorns,86,74,2022
+2021-11-13,Memphis Tigers,North Carolina Central Eagles,90,51,2022
+2021-11-13,Arkansas Razorbacks,Gardner-Webb Runnin' Bulldogs,86,69,2022
+2021-11-13,UConn Huskies,Coppin State Eagles,89,54,2022
+2021-11-14,Tennessee Volunteers,East Tennessee State Buccaneers,94,62,2022
+2021-11-14,Florida Gators,Florida State Seminoles,71,55,2022
+2021-11-14,St. Bonaventure Bonnies,Canisius Golden Griffins,69,60,2022
+2021-11-15,Gonzaga Bulldogs,Alcorn State Braves,84,57,2022
+2021-11-15,UCLA Bruins,Long Beach State Beach,100,79,2022
+2021-11-15,Baylor Bears,Nicholls Colonels,89,60,2022
+2021-11-15,Ohio State Buckeyes,Bowling Green Falcons,89,58,2022
+2021-11-16,Villanova Wildcats,Howard Bison,100,81,2022
+2021-11-16,Purdue Boilermakers,Wright State Raiders,96,52,2022
+2021-11-16,Duke Blue Devils,Gardner-Webb Runnin' Bulldogs,92,52,2022
+2021-11-16,Memphis Tigers,Saint Louis Billikens,90,74,2022
+2021-11-16,Alabama Crimson Tide,South Alabama Jaguars,73,68,2022
+2021-11-16,Houston Cougars,Virginia Cavaliers,67,47,2022
+2021-11-16,Charleston Cougars,North Carolina Tar Heels,83,94,2022
+2021-11-17,UCLA Bruins,North Florida Ospreys,98,63,2022
+2021-11-17,Baylor Bears,Central Arkansas Bears,92,47,2022
+2021-11-17,Arkansas Razorbacks,Northern Iowa Panthers,93,80,2022
+2021-11-17,Maryland Terrapins,George Mason Patriots,66,71,2022
+2021-11-17,UConn Huskies,Long Island University Sharks,93,40,2022
+2021-11-18,Kansas Jayhawks,Stony Brook Seawolves,88,59,2022
+2021-11-18,Florida Gators,Milwaukee Panthers,81,45,2022
+2021-11-19,Duke Blue Devils,Lafayette Leopards,88,55,2022
+2021-11-19,Memphis Tigers,Western Kentucky Hilltoppers,74,62,2022
+2021-11-19,Alabama Crimson Tide,Oakland Golden Grizzlies,86,59,2022
+2021-11-19,Maryland Terrapins,Hofstra Pride,69,67,2022
+2021-11-19,South Florida Bulls,Auburn Tigers,52,58,2022
+2021-11-20,Baylor Bears,Stanford Cardinal,86,48,2022
+2021-11-20,UConn Huskies,Binghamton Bearcats,87,63,2022
+2021-11-21,Xavier Musketeers,Norfolk State Spartans,88,48,2022
+2021-11-21,High Point Panthers,Georgia State Panthers,66,74,2022
+2021-11-21,South Dakota Coyotes,Tennessee State Tigers,83,66,2022
+2021-11-21,Oregon State Beavers,Princeton Tigers,80,81,2022
+2021-11-21,Furman Paladins,Navy Midshipmen,66,77,2022
+2021-11-21,UAB Blazers,Alabama A&M Bulldogs,86,41,2022
+2021-11-21,Mississippi State Bulldogs,Morehead State Eagles,66,46,2022
+2021-11-21,Southern Miss Golden Eagles,Lamar Cardinals,82,75,2022
+2021-11-21,Youngstown State Penguins,Niagara Purple Eagles,53,58,2022
+2021-11-21,UTSA Roadrunners,Texas A&M-Corpus Christi Islanders,58,77,2022
+2021-11-21,Longwood Lancers,Western Carolina Catamounts,53,64,2022
+2021-11-21,Marshall Thundering Herd,Jackson State Tigers,80,66,2022
+2021-11-21,Nebraska Cornhuskers,Southern Jaguars,82,59,2022
+2021-11-21,Virginia Tech Hokies,Merrimack Warriors,72,43,2022
+2021-11-21,Denver Pioneers,Houston Christian Huskies,74,61,2022
+2021-11-21,Wofford Terriers,Georgia Southern Eagles,70,52,2022
+2021-11-21,Florida Gulf Coast Eagles,Eckerd Tritons,99,59,2022
+2021-11-21,Iowa State Cyclones,Grambling Tigers,82,47,2022
+2021-11-21,NC State Wolfpack,Texas Southern Tigers,65,57,2022
+2021-11-21,Indiana Hoosiers,Louisiana Ragin' Cajuns,76,44,2022
+2021-11-21,Miami Hurricanes,Florida A&M Rattlers,86,59,2022
+2021-11-21,California Baptist Lancers,Northern Colorado Bears,74,70,2022
+2021-11-22,Duke Blue Devils,The Citadel Bulldogs,107,81,2022
+2021-11-22,Kentucky Wildcats,UAlbany Great Danes,86,61,2022
+2021-11-22,USC Trojans,Utah Tech Trailblazers,98,71,2022
+2021-11-23,Chattanooga Mocs,Covenant Fighting Scots,100,39,2022
+2021-11-23,Towson Tigers,Pennsylvania Quakers,76,61,2022
+2021-11-23,New Hampshire Wildcats,Quinnipiac Bobcats,84,69,2022
+2021-11-23,Miami (OH) RedHawks,Defiance Yellow Jackets,99,47,2022
+2021-11-23,Norfolk State Spartans,Regent Royals,95,20,2022
+2021-11-23,Merrimack Warriors,Hartford Hawks,75,60,2022
+2021-11-23,North Carolina Central Eagles,Warren Wilson Owls,110,32,2022
+2021-11-23,Tennessee Tech Golden Eagles,Lipscomb Bisons,88,77,2022
+2021-11-23,IU Indianapolis Jaguars,Spalding Pelicans,61,41,2022
+2021-11-23,South Carolina State Bulldogs,South Carolina Upstate Spartans,78,82,2022
+2021-11-23,UMBC Retrievers,American University Eagles,98,67,2022
+2021-11-23,Marshall Thundering Herd,Louisiana Ragin' Cajuns,93,79,2022
+2021-11-23,Maine Black Bears,Central Connecticut Blue Devils,56,64,2022
+2021-11-23,Indiana Hoosiers,Jackson State Tigers,70,35,2022
+2021-11-23,St. John's Red Storm,St. Francis Brooklyn Terriers,76,70,2022
+2021-11-23,South Carolina Gamecocks,Wofford Terriers,85,74,2022
+2021-11-23,Lehigh Mountain Hawks,Columbia Lions,79,72,2022
+2021-11-23,North Carolina Tar Heels,UNC Asheville Bulldogs,72,53,2022
+2021-11-23,Florida Gulf Coast Eagles,Rhode Island Rams,67,66,2022
+2021-11-23,Saint Peter's Peacocks,Long Island University Sharks,64,62,2022
+2021-11-23,Southern Jaguars,Ecclesia Royals,109,53,2022
+2021-11-23,South Dakota Coyotes,Presentation College Saints,99,58,2022
+2021-11-23,Oral Roberts Golden Eagles,Rogers State Hillcats,91,31,2022
+2021-11-23,Wake Forest Demon Deacons,Kennesaw State Owls,92,61,2022
+2021-11-23,Texas Tech Red Raiders,Omaha Mavericks,96,40,2022
+2021-11-23,North Alabama Lions,Oakwood Ambassadors,105,50,2022
+2021-11-23,Nebraska Cornhuskers,Tennessee State Tigers,79,73,2022
+2021-11-23,Seattle U Redhawks,Pacific Lutheran Lutes,89,40,2022
+2021-11-23,Stanford Cardinal,North Carolina A&T Aggies,79,65,2022
+2021-11-23,San José State Spartans,Northern Colorado Bears,75,74,2022
+2021-11-23,Portland State Vikings,Portland Pilots,54,69,2022
+2021-11-23,Sacramento State Hornets,UC Davis Aggies,75,63,2022
+2021-11-24,BYU Cougars,Texas Southern Tigers,81,64,2022
+2021-11-24,Michigan Wolverines,Tarleton State Texans,65,54,2022
+2021-11-25,New Orleans Privateers,Presbyterian Blue Hose,66,68,2022
+2021-11-26,Purdue Boilermakers,Omaha Mavericks,97,40,2022
+2021-11-26,Kentucky Wildcats,North Florida Ospreys,86,52,2022
+2021-11-26,Illinois Fighting Illini,UT Rio Grande Valley Vaqueros,94,85,2022
+2021-11-26,Tennessee Volunteers,Tennessee Tech Golden Eagles,80,69,2022
+2021-11-27,UNLV Rebels,UCLA Bruins,51,73,2022
+2021-11-27,St. Bonaventure Bonnies,Northern Iowa Panthers,80,90,2022
+2021-11-27,Arizona Wildcats,Sacramento State Hornets,105,59,2022
+2021-11-27,Utah Utes,BYU Cougars,64,75,2022
+2021-11-28,Arkansas Razorbacks,Pennsylvania Quakers,76,60,2022
+2021-11-28,Seton Hall Pirates,Bethune-Cookman Wildcats,84,70,2022
+2021-11-28,Florida Gators,Troy Trojans,84,45,2022
+2021-11-29,Gonzaga Bulldogs,Tarleton State Texans,64,55,2022
+2021-11-29,Kentucky Wildcats,Central Michigan Chippewas,85,57,2022
+2021-11-30,Tennessee Volunteers,Presbyterian Blue Hose,86,44,2022
+2021-11-30,Houston Cougars,Northwestern State Demons,99,58,2022
+2021-11-30,UConn Huskies,Maryland Eastern Shore Hawks,72,63,2022
+2021-12-01,UCLA Bruins,Colorado Buffaloes,73,61,2022
+2021-12-01,Pennsylvania Quakers,Villanova Wildcats,56,71,2022
+2021-12-01,Arkansas Razorbacks,Central Arkansas Bears,97,60,2022
+2021-12-01,Oklahoma Sooners,Florida Gators,74,67,2022
+2021-12-01,Georgia Bulldogs,Memphis Tigers,82,79,2022
+2021-12-01,Iowa State Cyclones,Arkansas-Pine Bluff Golden Lions,83,64,2022
+2021-12-01,USC Trojans,Utah Utes,93,73,2022
+2021-12-01,Auburn Tigers,UCF Knights,85,68,2022
+2021-12-01,Seton Hall Pirates,Wagner Seahawks,85,63,2022
+2021-12-03,Purdue Boilermakers,Iowa Hawkeyes,77,70,2022
+2021-12-03,Texas Longhorns,UT Rio Grande Valley Vaqueros,88,58,2022
+2021-12-03,Houston Cougars,Bryant Bulldogs,111,44,2022
+2021-12-04,Baylor Bears,Arkansas-Pine Bluff Golden Lions,99,54,2022
+2021-12-04,Villanova Wildcats,Saint Joseph's Hawks,81,52,2022
+2021-12-04,Arkansas Razorbacks,Little Rock Trojans,93,78,2022
+2021-12-04,Missouri State Bears,BYU Cougars,68,74,2022
+2021-12-04,Colorado Buffaloes,Tennessee Volunteers,54,69,2022
+2021-12-04,UConn Huskies,Grambling Tigers,88,59,2022
+2021-12-04,Ole Miss Rebels,Memphis Tigers,67,63,2022
+2021-12-04,Washington State Cougars,USC Trojans,61,63,2022
+2021-12-04,Auburn Tigers,Yale Bulldogs,86,64,2022
+2021-12-04,Michigan State Spartans,Toledo Rockets,81,68,2022
+2021-12-04,Wisconsin Badgers,Marquette Golden Eagles,89,76,2022
+2021-12-04,Michigan Wolverines,San Diego State Aztecs,72,58,2022
+2021-12-04,Seton Hall Pirates,Alliance University Warriors,113,67,2022
+2021-12-05,Oregon State Beavers,Arizona Wildcats,65,90,2022
+2021-12-06,Houston Cougars,Alcorn State Braves,77,45,2022
+2021-12-06,Florida Gators,Texas Southern Tigers,54,69,2022
+2021-12-07,Kansas Jayhawks,UTEP Miners,78,52,2022
+2021-12-07,Kentucky Wildcats,Southern Jaguars,76,64,2022
+2021-12-07,Arkansas Razorbacks,Charlotte 49ers,86,66,2022
+2021-12-07,USC Trojans,Eastern Kentucky Colonels,80,68,2022
+2021-12-08,Arizona Wildcats,Wyoming Cowboys,94,65,2022
+2021-12-08,Minnesota Golden Gophers,Michigan State Spartans,67,75,2022
+2021-12-08,Florida Gators,North Florida Ospreys,85,55,2022
+2021-12-08,Ohio State Buckeyes,Towson Tigers,85,74,2022
+2021-12-08,Wisconsin Badgers,Indiana Hoosiers,64,59,2022
+2021-12-08,BYU Cougars,Utah State Aggies,82,71,2022
+2021-12-09,Rutgers Scarlet Knights,Purdue Boilermakers,70,68,2022
+2021-12-09,Gonzaga Bulldogs,Merrimack Warriors,80,55,2022
+2021-12-09,Iowa State Cyclones,Iowa Hawkeyes,73,53,2022
+2021-12-10,Montana Grizzlies,Yellowstone Christian College Centurions,104,43,2022
+2021-12-10,Furman Paladins,App State Mountaineers,73,65,2022
+2021-12-10,Tennessee State Tigers,IU Indianapolis Jaguars,70,44,2022
+2021-12-10,Delaware Blue Hens,Moravian Greyhounds,94,55,2022
+2021-12-10,Brown Bears,Vermont Catamounts,65,70,2022
+2021-12-10,NJIT Highlanders,Army Black Knights,49,66,2022
+2021-12-10,Bellarmine Knights,Midway University Eagles,89,39,2022
+2021-12-10,Kansas City Roos,Green Bay Phoenix,64,55,2022
+2021-12-10,Memphis Tigers,Murray State Racers,72,74,2022
+2021-12-10,Vanderbilt Commodores,Loyola Chicago Ramblers,58,69,2022
+2021-12-10,Louisville Cardinals,DePaul Blue Demons,55,62,2022
+2021-12-10,North Dakota State Bison,Cal State Northridge Matadors,68,54,2022
+2021-12-10,Boise State Broncos,Prairie View A&M Panthers,97,60,2022
+2021-12-10,Colorado Buffaloes,Milwaukee Panthers,65,54,2022
+2021-12-11,Marquette Golden Eagles,UCLA Bruins,56,67,2022
+2021-12-11,Kansas Jayhawks,Missouri Tigers,102,65,2022
+2021-12-11,Alabama Crimson Tide,Houston Cougars,83,82,2022
+2021-12-11,Notre Dame Fighting Irish,Kentucky Wildcats,66,62,2022
+2021-12-11,Illinois Fighting Illini,Arizona Wildcats,79,83,2022
+2021-12-11,Tennessee Volunteers,UNC Greensboro Spartans,76,36,2022
+2021-12-11,Michigan State Spartans,Penn State Nittany Lions,80,64,2022
+2021-12-11,Ohio State Buckeyes,Wisconsin Badgers,73,55,2022
+2021-12-12,USC Trojans,Long Beach State Beach,73,62,2022
+2021-12-12,Iowa State Cyclones,Jackson State Tigers,47,37,2022
+2021-12-13,Chicago State Cougars,Northern Illinois Huskies,59,70,2022
+2021-12-13,Princeton Tigers,UMBC Retrievers,89,77,2022
+2021-12-13,App State Mountaineers,Erskine Flying Fleet,69,44,2022
+2021-12-13,Stetson Hatters,Johnson University Florida Suns,104,58,2022
+2021-12-13,Nicholls Colonels,Blue Mountain Christian Toppers,87,69,2022
+2021-12-13,Long Island University Sharks,Merchant Marine Academy Mariners,106,48,2022
+2021-12-13,George Washington Revolutionaries,Radford Highlanders,67,58,2022
+2021-12-13,New Hampshire Wildcats,Keene St Owls,92,54,2022
+2021-12-13,Liberty Flames,Carver College Cougars,95,36,2022
+2021-12-13,Jacksonville State Gamecocks,LaGrange Panthers,110,80,2022
+2021-12-13,Oklahoma State Cowboys,Cleveland State Vikings,98,93,2022
+2021-12-13,Milwaukee Panthers,Rhode Island Rams,58,82,2022
+2021-12-13,Columbia Lions,Sacred Heart Pioneers,69,79,2022
+2021-12-13,Boston College Eagles,UAlbany Great Danes,57,61,2022
+2021-12-13,North Dakota State Bison,Indiana State Sycamores,77,70,2022
+2021-12-13,Montana Grizzlies,Nelson Lions,118,49,2022
+2021-12-13,Portland Pilots,Cal Poly Mustangs,78,77,2022
+2021-12-14,Duke Blue Devils,South Carolina State Bulldogs,103,62,2022
+2021-12-14,Memphis Tigers,Alabama Crimson Tide,92,78,2022
+2021-12-14,Auburn Tigers,North Alabama Lions,70,44,2022
+2021-12-14,Houston Cougars,Louisiana Ragin' Cajuns,71,56,2022
+2021-12-14,Tennessee Volunteers,South Carolina Upstate Spartans,96,52,2022
+2021-12-14,LSU Tigers,Northwestern State Demons,89,49,2022
+2021-12-14,Texas Tech Red Raiders,Arkansas State Red Wolves,75,62,2022
+2021-12-15,Arizona Wildcats,Northern Colorado Bears,101,76,2022
+2021-12-15,USC Trojans,UC Irvine Anteaters,66,61,2022
+2021-12-15,Xavier Musketeers,Morehead State Eagles,86,63,2022
+2021-12-16,Duke Blue Devils,App State Mountaineers,92,67,2022
+2021-12-17,Creighton Bluejays,Villanova Wildcats,79,59,2022
+2021-12-18,Oregon Ducks,Baylor Bears,70,78,2022
+2021-12-18,Duke Blue Devils,Elon Phoenix,87,56,2022
+2021-12-18,Alabama Crimson Tide,Jacksonville State Gamecocks,65,59,2022
+2021-12-18,Kansas Jayhawks,Stephen F. Austin Lumberjacks,80,72,2022
+2021-12-18,Arizona Wildcats,California Baptist Lancers,84,60,2022
+2021-12-18,Saint Louis Billikens,Auburn Tigers,70,74,2022
+2021-12-18,UConn Huskies,Providence Friars,53,57,2022
+2021-12-18,Xavier Musketeers,Marquette Golden Eagles,80,71,2022
+2021-12-19,Iowa State Cyclones,SE Louisiana Lions,77,54,2022
+2021-12-20,Baylor Bears,Alcorn State Braves,94,57,2022
+2021-12-20,Purdue Boilermakers,Incarnate Word Cardinals,79,59,2022
+2021-12-20,Gonzaga Bulldogs,Northern Arizona Lumberjacks,95,49,2022
+2021-12-21,Iowa State Cyclones,Chicago State Cougars,79,48,2022
+2021-12-21,Villanova Wildcats,Xavier Musketeers,71,58,2022
+2021-12-22,Duke Blue Devils,Virginia Tech Hokies,76,65,2022
+2021-12-22,Tennessee Volunteers,Arizona Wildcats,77,73,2022
+2021-12-22,Auburn Tigers,Murray State Racers,71,58,2022
+2021-12-22,Houston Cougars,Texas State Bobcats,80,47,2022
+2021-12-22,Texas Longhorns,Alabama State Hornets,68,48,2022
+2021-12-22,LSU Tigers,Lipscomb Bisons,95,60,2022
+2021-12-22,Kentucky Wildcats,Western Kentucky Hilltoppers,95,60,2022
+2021-12-22,Texas Tech Red Raiders,Eastern Washington Eagles,78,46,2022
+2021-12-27,Syracuse Orange,Brown Bears,93,62,2022
+2021-12-27,Texas A&M Aggies,Dallas Christian Crusaders,102,52,2022
+2021-12-28,Baylor Bears,Northwestern State Demons,104,68,2022
+2021-12-28,Gonzaga Bulldogs,North Alabama Lions,93,63,2022
+2021-12-28,Texas Longhorns,Incarnate Word Cardinals,78,33,2022
+2021-12-28,Texas Tech Red Raiders,Alabama State Hornets,75,53,2022
+2021-12-29,Purdue Boilermakers,Nicholls Colonels,104,90,2022
+2021-12-29,Kansas Jayhawks,Nevada Wolf Pack,88,61,2022
+2021-12-29,Michigan State Spartans,High Point Panthers,81,68,2022
+2021-12-29,Auburn Tigers,LSU Tigers,70,55,2022
+2021-12-29,Alabama Crimson Tide,Tennessee Volunteers,73,68,2022
+2021-12-29,Providence Friars,Seton Hall Pirates,70,65,2022
+2021-12-29,Kentucky Wildcats,Missouri Tigers,83,56,2022
+2021-12-29,Wisconsin Badgers,Illinois State Redbirds,89,85,2022
+2021-12-31,Kentucky Wildcats,High Point Panthers,92,48,2022
+2022-01-01,Iowa State Cyclones,Baylor Bears,72,77,2022
+2022-01-01,Kansas Jayhawks,George Mason Patriots,76,67,2022
+2022-01-01,Seton Hall Pirates,Villanova Wildcats,67,73,2022
+2022-01-01,Texas Longhorns,West Virginia Mountaineers,74,59,2022
+2022-01-01,DePaul Blue Demons,Providence Friars,53,70,2022
+2022-01-02,Northwestern Wildcats,Michigan State Spartans,67,73,2022
+2022-01-02,Temple Owls,Houston Cougars,61,66,2022
+2022-01-02,Nebraska Cornhuskers,Ohio State Buckeyes,79,87,2022
+2022-01-03,Purdue Boilermakers,Wisconsin Badgers,69,74,2022
+2022-01-03,Arizona Wildcats,Washington Huskies,95,79,2022
+2022-01-04,Baylor Bears,Oklahoma Sooners,84,74,2022
+2022-01-04,Duke Blue Devils,Georgia Tech Yellow Jackets,69,57,2022
+2022-01-04,Oklahoma State Cowboys,Kansas Jayhawks,63,74,2022
+2022-01-04,South Carolina Gamecocks,Auburn Tigers,66,81,2022
+2022-01-04,Kansas State Wildcats,Texas Longhorns,57,70,2022
+2022-01-04,LSU Tigers,Kentucky Wildcats,65,60,2022
+2022-01-04,Marquette Golden Eagles,Providence Friars,88,56,2022
+2022-01-04,Colorado State Rams,Air Force Falcons,67,59,2022
+2022-01-04,Butler Bulldogs,Seton Hall Pirates,56,71,2022
+2022-01-05,Michigan State Spartans,Nebraska Cornhuskers,79,67,2022
+2022-01-05,Iowa State Cyclones,Texas Tech Red Raiders,51,47,2022
+2022-01-05,South Florida Bulls,Houston Cougars,66,83,2022
+2022-01-05,Florida Gators,Alabama Crimson Tide,70,83,2022
+2022-01-05,Tennessee Volunteers,Ole Miss Rebels,66,60,2022
+2022-01-05,Villanova Wildcats,Creighton Bluejays,75,41,2022
+2022-01-06,UCLA Bruins,Long Beach State Beach,96,78,2022
+2022-01-06,California Golden Bears,USC Trojans,63,77,2022
+2022-01-06,Indiana Hoosiers,Ohio State Buckeyes,67,51,2022
+2022-01-06,Wisconsin Badgers,Iowa Hawkeyes,87,78,2022
+2022-01-07,Butler Bulldogs,Xavier Musketeers,72,87,2022
+2022-01-08,TCU Horned Frogs,Baylor Bears,64,76,2022
+2022-01-08,Duke Blue Devils,Miami Hurricanes,74,76,2022
+2022-01-08,Penn State Nittany Lions,Purdue Boilermakers,67,74,2022
+2022-01-08,Gonzaga Bulldogs,Pepperdine Waves,117,83,2022
+2022-01-08,California Golden Bears,UCLA Bruins,52,60,2022
+2022-01-08,Auburn Tigers,Florida Gators,85,73,2022
+2022-01-08,Oklahoma Sooners,Iowa State Cyclones,79,66,2022
+2022-01-08,Houston Cougars,Wichita State Shockers,76,66,2022
+2022-01-08,Oklahoma State Cowboys,Texas Longhorns,64,51,2022
+2022-01-08,Missouri Tigers,Alabama Crimson Tide,92,86,2022
+2022-01-08,Providence Friars,St. John's Red Storm,83,73,2022
+2022-01-08,Kentucky Wildcats,Georgia Bulldogs,92,77,2022
+2022-01-08,LSU Tigers,Tennessee Volunteers,79,67,2022
+2022-01-08,DePaul Blue Demons,Villanova Wildcats,64,79,2022
+2022-01-08,San Diego State Aztecs,Colorado State Rams,79,49,2022
+2022-01-08,Seton Hall Pirates,UConn Huskies,90,87,2022
+2022-01-09,Ohio State Buckeyes,Northwestern Wildcats,95,87,2022
+2022-01-09,Maryland Terrapins,Wisconsin Badgers,69,70,2022
+2022-01-10,Winthrop Eagles,Campbell Fighting Camels,74,72,2022
+2022-01-10,UNC Greensboro Spartans,Wofford Terriers,58,54,2022
+2022-01-10,Colgate Raiders,Army Black Knights,76,57,2022
+2022-01-10,South Carolina State Bulldogs,Morgan State Bears,81,88,2022
+2022-01-10,East Tennessee State Buccaneers,Western Carolina Catamounts,87,69,2022
+2022-01-10,Loyola Maryland Greyhounds,Bucknell Bison,71,67,2022
+2022-01-10,Lehigh Mountain Hawks,Holy Cross Crusaders,77,69,2022
+2022-01-10,American University Eagles,Boston University Terriers,53,79,2022
+2022-01-10,Lafayette Leopards,Navy Midshipmen,55,69,2022
+2022-01-10,IU Indianapolis Jaguars,UIC Flames,65,67,2022
+2022-01-10,Bethune-Cookman Wildcats,Southern Jaguars,59,69,2022
+2022-01-10,Florida A&M Rattlers,Grambling Tigers,75,66,2022
+2022-01-10,Kansas City Roos,Omaha Mavericks,64,61,2022
+2022-01-10,North Dakota Fighting Hawks,South Dakota Coyotes,68,75,2022
+2022-01-10,Alabama A&M Bulldogs,Jackson State Tigers,60,58,2022
+2022-01-10,Texas Southern Tigers,Mississippi Valley State Delta Devils,95,58,2022
+2022-01-10,Prairie View A&M Panthers,Arkansas-Pine Bluff Golden Lions,75,58,2022
+2022-01-10,Alabama State Hornets,Alcorn State Braves,60,70,2022
+2022-01-10,Denver Pioneers,North Dakota State Bison,69,87,2022
+2022-01-10,Oregon State Beavers,Oregon Ducks,76,78,2022
+2022-01-10,Pepperdine Waves,San Diego Toreros,62,72,2022
+2022-01-11,Baylor Bears,Texas Tech Red Raiders,62,65,2022
+2022-01-11,Alabama Crimson Tide,Auburn Tigers,77,81,2022
+2022-01-11,Stanford Cardinal,USC Trojans,75,69,2022
+2022-01-11,Kansas Jayhawks,Iowa State Cyclones,62,61,2022
+2022-01-11,Vanderbilt Commodores,Kentucky Wildcats,66,78,2022
+2022-01-11,Texas Longhorns,Oklahoma Sooners,66,52,2022
+2022-01-11,Tennessee Volunteers,South Carolina Gamecocks,66,46,2022
+2022-01-11,Nebraska Cornhuskers,Illinois Fighting Illini,71,81,2022
+2022-01-12,Wake Forest Demon Deacons,Duke Blue Devils,64,76,2022
+2022-01-12,Michigan State Spartans,Minnesota Golden Gophers,71,69,2022
+2022-01-12,Florida Gators,LSU Tigers,58,64,2022
+2022-01-12,Xavier Musketeers,Villanova Wildcats,60,64,2022
+2022-01-13,Gonzaga Bulldogs,BYU Cougars,110,84,2022
+2022-01-13,UCLA Bruins,Oregon Ducks,81,84,2022
+2022-01-13,USC Trojans,Oregon State Beavers,81,71,2022
+2022-01-13,Arizona Wildcats,Colorado Buffaloes,76,55,2022
+2022-01-13,Wisconsin Badgers,Ohio State Buckeyes,78,68,2022
+2022-01-13,Texas Tech Red Raiders,Oklahoma State Cowboys,78,57,2022
+2022-01-13,DePaul Blue Demons,Seton Hall Pirates,96,92,2022
+2022-01-14,Purdue Boilermakers,Nebraska Cornhuskers,92,65,2022
+2022-01-14,Illinois Fighting Illini,Michigan Wolverines,68,53,2022
+2022-01-15,Baylor Bears,Oklahoma State Cowboys,54,61,2022
+2022-01-15,Santa Clara Broncos,Gonzaga Bulldogs,83,115,2022
+2022-01-15,UCLA Bruins,Oregon State Beavers,81,65,2022
+2022-01-15,Ole Miss Rebels,Auburn Tigers,71,80,2022
+2022-01-15,USC Trojans,Oregon Ducks,69,79,2022
+2022-01-15,Arizona Wildcats,Utah Utes,82,64,2022
+2022-01-15,Duke Blue Devils,NC State Wolfpack,88,73,2022
+2022-01-15,Kansas Jayhawks,West Virginia Mountaineers,85,59,2022
+2022-01-15,Michigan State Spartans,Northwestern Wildcats,62,64,2022
+2022-01-15,Tulsa Golden Hurricane,Houston Cougars,64,66,2022
+2022-01-15,LSU Tigers,Arkansas Razorbacks,58,65,2022
+2022-01-15,Iowa State Cyclones,Texas Longhorns,79,70,2022
+2022-01-15,Xavier Musketeers,Creighton Bluejays,80,73,2022
+2022-01-15,Kentucky Wildcats,Tennessee Volunteers,107,79,2022
+2022-01-15,Kansas State Wildcats,Texas Tech Red Raiders,62,51,2022
+2022-01-15,Marquette Golden Eagles,Seton Hall Pirates,73,72,2022
+2022-01-15,Mississippi State Bulldogs,Alabama Crimson Tide,78,76,2022
+2022-01-16,Villanova Wildcats,Butler Bulldogs,82,42,2022
+2022-01-16,Ohio State Buckeyes,Penn State Nittany Lions,61,56,2022
+2022-01-17,Illinois Fighting Illini,Purdue Boilermakers,88,96,2022
+2022-01-18,West Virginia Mountaineers,Baylor Bears,68,77,2022
+2022-01-18,Florida State Seminoles,Duke Blue Devils,79,78,2022
+2022-01-18,Oklahoma Sooners,Kansas Jayhawks,64,67,2022
+2022-01-18,Northwestern Wildcats,Wisconsin Badgers,76,82,2022
+2022-01-18,Houston Cougars,South Florida Bulls,74,55,2022
+2022-01-18,Texas Tech Red Raiders,Iowa State Cyclones,72,60,2022
+2022-01-18,Ohio State Buckeyes,IU Indianapolis Jaguars,83,37,2022
+2022-01-18,Evansville Purple Aces,Loyola Chicago Ramblers,48,77,2022
+2022-01-18,Texas Longhorns,Kansas State Wildcats,65,66,2022
+2022-01-18,Vanderbilt Commodores,Tennessee Volunteers,60,68,2022
+2022-01-18,UConn Huskies,Butler Bulldogs,76,59,2022
+2022-01-19,Auburn Tigers,Georgia Bulldogs,83,60,2022
+2022-01-19,Villanova Wildcats,Marquette Golden Eagles,54,57,2022
+2022-01-19,Texas A&M Aggies,Kentucky Wildcats,58,64,2022
+2022-01-19,Alabama Crimson Tide,LSU Tigers,70,67,2022
+2022-01-19,DePaul Blue Demons,Xavier Musketeers,67,68,2022
+2022-01-20,Gonzaga Bulldogs,San Francisco Dons,78,62,2022
+2022-01-20,Stanford Cardinal,Arizona Wildcats,57,85,2022
+2022-01-20,Indiana Hoosiers,Purdue Boilermakers,68,65,2022
+2022-01-20,Utah Utes,UCLA Bruins,58,63,2022
+2022-01-20,Colorado Buffaloes,USC Trojans,58,61,2022
+2022-01-20,Providence Friars,Georgetown Hoyas,83,75,2022
+2022-01-20,Butler Bulldogs,UConn Huskies,56,75,2022
+2022-01-21,Wisconsin Badgers,Michigan State Spartans,74,86,2022
+2022-01-21,Maryland Terrapins,Illinois Fighting Illini,81,65,2022
+2022-01-22,Auburn Tigers,Kentucky Wildcats,80,71,2022
+2022-01-22,Oklahoma Sooners,Baylor Bears,51,65,2022
+2022-01-22,Duke Blue Devils,Syracuse Orange,79,59,2022
+2022-01-22,Kansas State Wildcats,Kansas Jayhawks,75,78,2022
+2022-01-22,Colorado Buffaloes,UCLA Bruins,65,71,2022
+2022-01-22,Houston Cougars,East Carolina Pirates,79,36,2022
+2022-01-22,Georgetown Hoyas,Villanova Wildcats,74,85,2022
+2022-01-22,Tennessee Volunteers,LSU Tigers,64,50,2022
+2022-01-22,Iowa State Cyclones,TCU Horned Frogs,44,59,2022
+2022-01-22,Utah Utes,USC Trojans,67,79,2022
+2022-01-22,Texas Tech Red Raiders,West Virginia Mountaineers,78,65,2022
+2022-01-22,Loyola Chicago Ramblers,Missouri State Bears,69,79,2022
+2022-01-22,Texas Longhorns,Oklahoma State Cowboys,56,51,2022
+2022-01-23,California Golden Bears,Arizona Wildcats,71,96,2022
+2022-01-23,Purdue Boilermakers,Northwestern Wildcats,80,60,2022
+2022-01-23,Marquette Golden Eagles,Xavier Musketeers,75,64,2022
+2022-01-23,Providence Friars,Butler Bulldogs,69,62,2022
+2022-01-24,Kansas Jayhawks,Texas Tech Red Raiders,94,91,2022
+2022-01-24,USC Trojans,Arizona State Sun Devils,78,56,2022
+2022-01-25,Missouri Tigers,Auburn Tigers,54,55,2022
+2022-01-25,UCLA Bruins,Arizona Wildcats,75,59,2022
+2022-01-25,Baylor Bears,Kansas State Wildcats,74,49,2022
+2022-01-25,Duke Blue Devils,Clemson Tigers,71,69,2022
+2022-01-25,Illinois Fighting Illini,Michigan State Spartans,56,55,2022
+2022-01-25,Kentucky Wildcats,Mississippi State Bulldogs,82,74,2022
+2022-01-25,Villanova Wildcats,DePaul Blue Demons,67,43,2022
+2022-01-25,UConn Huskies,Georgetown Hoyas,96,73,2022
+2022-01-26,Xavier Musketeers,Providence Friars,62,65,2022
+2022-01-26,Tennessee Volunteers,Florida Gators,78,71,2022
+2022-01-26,LSU Tigers,Texas A&M Aggies,70,64,2022
+2022-01-26,Seton Hall Pirates,Marquette Golden Eagles,63,73,2022
+2022-01-26,Oklahoma State Cowboys,Iowa State Cyclones,81,84,2022
+2022-01-26,Davidson Wildcats,VCU Rams,68,70,2022
+2022-01-27,Gonzaga Bulldogs,Loyola Marymount Lions,89,55,2022
+2022-01-27,Iowa Hawkeyes,Purdue Boilermakers,73,83,2022
+2022-01-27,UCLA Bruins,California Golden Bears,81,57,2022
+2022-01-27,Nebraska Cornhuskers,Wisconsin Badgers,65,73,2022
+2022-01-27,USC Trojans,Stanford Cardinal,61,64,2022
+2022-01-27,Minnesota Golden Gophers,Ohio State Buckeyes,64,75,2022
+2022-01-28,Boston University Terriers,Colgate Raiders,76,72,2022
+2022-01-28,Holy Cross Crusaders,Lehigh Mountain Hawks,67,65,2022
+2022-01-28,Harvard Crimson,Pennsylvania Quakers,74,78,2022
+2022-01-28,New Hampshire Wildcats,Stony Brook Seawolves,69,76,2022
+2022-01-28,Monmouth Hawks,Canisius Golden Griffins,72,67,2022
+2022-01-28,Air Force Falcons,Wyoming Cowboys,61,63,2022
+2022-01-28,Northern Kentucky Norse,Purdue Fort Wayne Mastodons,59,49,2022
+2022-01-28,Dayton Flyers,Rhode Island Rams,53,51,2022
+2022-01-28,Rider Broncs,Fairfield Stags,65,76,2022
+2022-01-28,Saint Peter's Peacocks,Manhattan Jaspers,77,51,2022
+2022-01-28,Siena Saints,Niagara Purple Eagles,60,56,2022
+2022-01-28,Buffalo Bulls,Ohio Bobcats,53,74,2022
+2022-01-28,Toledo Rockets,Akron Zips,84,76,2022
+2022-01-28,Quinnipiac Bobcats,Marist Red Foxes,94,87,2022
+2022-01-28,Wright State Raiders,Cleveland State Vikings,67,71,2022
+2022-01-28,Colorado State Rams,UNLV Rebels,74,88,2022
+2022-01-28,New Mexico Lobos,San José State Spartans,86,70,2022
+2022-01-28,Fresno State Bulldogs,Boise State Broncos,63,68,2022
+2022-01-29,Gonzaga Bulldogs,Portland Pilots,104,72,2022
+2022-01-29,Arizona Wildcats,Arizona State Sun Devils,67,56,2022
+2022-01-29,UCF Knights,Houston Cougars,49,63,2022
+2022-01-29,UCLA Bruins,Stanford Cardinal,66,43,2022
+2022-01-29,Louisville Cardinals,Duke Blue Devils,65,74,2022
+2022-01-29,Michigan State Spartans,Michigan Wolverines,83,67,2022
+2022-01-29,Villanova Wildcats,St. John's Red Storm,73,62,2022
+2022-01-29,USC Trojans,California Golden Bears,79,72,2022
+2022-01-29,DePaul Blue Demons,UConn Huskies,50,57,2022
+2022-01-29,Creighton Bluejays,Xavier Musketeers,64,74,2022
+2022-01-29,Northwestern Wildcats,Illinois Fighting Illini,56,59,2022
+2022-01-29,Davidson Wildcats,La Salle Explorers,77,69,2022
+2022-01-30,Purdue Boilermakers,Ohio State Buckeyes,81,78,2022
+2022-01-30,Wisconsin Badgers,Minnesota Golden Gophers,66,60,2022
+2022-01-30,Providence Friars,Marquette Golden Eagles,65,63,2022
+2022-01-31,Baylor Bears,West Virginia Mountaineers,81,77,2022
+2022-01-31,Notre Dame Fighting Irish,Duke Blue Devils,43,57,2022
+2022-02-01,Auburn Tigers,Alabama Crimson Tide,100,81,2022
+2022-02-01,Iowa State Cyclones,Kansas Jayhawks,61,70,2022
+2022-02-01,Maryland Terrapins,Michigan State Spartans,63,65,2022
+2022-02-01,Texas Tech Red Raiders,Texas Longhorns,77,64,2022
+2022-02-01,St. John's Red Storm,Providence Friars,82,86,2022
+2022-02-01,UConn Huskies,Creighton Bluejays,55,59,2022
+2022-02-01,Tennessee Volunteers,Texas A&M Aggies,90,80,2022
+2022-02-01,LSU Tigers,Ole Miss Rebels,72,76,2022
+2022-02-02,Minnesota Golden Gophers,Purdue Boilermakers,73,88,2022
+2022-02-02,Houston Cougars,Tulane Green Wave,73,62,2022
+2022-02-02,Illinois Fighting Illini,Wisconsin Badgers,80,67,2022
+2022-02-02,Marquette Golden Eagles,Villanova Wildcats,83,73,2022
+2022-02-02,Xavier Musketeers,Butler Bulldogs,68,66,2022
+2022-02-03,San Diego Toreros,Gonzaga Bulldogs,62,92,2022
+2022-02-03,Arizona Wildcats,UCLA Bruins,76,66,2022
+2022-02-03,Arizona State Sun Devils,USC Trojans,53,58,2022
+2022-02-04,Yale Bulldogs,Dartmouth Big Green,72,69,2022
+2022-02-04,Richmond Spiders,St. Bonaventure Bonnies,71,61,2022
+2022-02-04,VMI Keydets,Western Carolina Catamounts,76,69,2022
+2022-02-04,Akron Zips,Miami (OH) RedHawks,66,55,2022
+2022-02-04,Northern Kentucky Norse,Oakland Golden Grizzlies,87,78,2022
+2022-02-04,Wright State Raiders,Detroit Mercy Titans,90,59,2022
+2022-02-04,Seton Hall Pirates,Creighton Bluejays,74,55,2022
+2022-02-04,Cornell Big Red,Princeton Tigers,88,83,2022
+2022-02-04,Columbia Lions,Pennsylvania Quakers,66,81,2022
+2022-02-04,Brown Bears,Harvard Crimson,50,65,2022
+2022-02-04,Purdue Fort Wayne Mastodons,Milwaukee Panthers,70,60,2022
+2022-02-04,Cleveland State Vikings,Green Bay Phoenix,85,69,2022
+2022-02-04,Saint Peter's Peacocks,Quinnipiac Bobcats,83,74,2022
+2022-02-04,Siena Saints,Rider Broncs,60,74,2022
+2022-02-04,Canisius Golden Griffins,Iona Gaels,62,70,2022
+2022-02-04,Niagara Purple Eagles,Manhattan Jaspers,80,74,2022
+2022-02-04,Monmouth Hawks,Fairfield Stags,59,56,2022
+2022-02-04,Ball State Cardinals,Toledo Rockets,93,83,2022
+2022-02-04,Colorado State Rams,San Diego State Aztecs,58,57,2022
+2022-02-04,Fresno State Bulldogs,Nevada Wolf Pack,73,56,2022
+2022-02-05,Georgia Bulldogs,Auburn Tigers,72,74,2022
+2022-02-05,BYU Cougars,Gonzaga Bulldogs,57,90,2022
+2022-02-05,Arizona State Sun Devils,UCLA Bruins,87,84,2022
+2022-02-05,Purdue Boilermakers,Michigan Wolverines,82,76,2022
+2022-02-05,Alabama Crimson Tide,Kentucky Wildcats,55,66,2022
+2022-02-05,Arizona Wildcats,USC Trojans,72,63,2022
+2022-02-05,Kansas Jayhawks,Baylor Bears,83,59,2022
+2022-02-05,North Carolina Tar Heels,Duke Blue Devils,67,87,2022
+2022-02-05,Wisconsin Badgers,Penn State Nittany Lions,51,49,2022
+2022-02-05,Villanova Wildcats,UConn Huskies,85,74,2022
+2022-02-05,Rutgers Scarlet Knights,Michigan State Spartans,84,63,2022
+2022-02-05,West Virginia Mountaineers,Texas Tech Red Raiders,53,60,2022
+2022-02-05,Indiana Hoosiers,Illinois Fighting Illini,57,74,2022
+2022-02-05,Texas Longhorns,Iowa State Cyclones,63,41,2022
+2022-02-05,Xavier Musketeers,DePaul Blue Demons,65,69,2022
+2022-02-05,South Carolina Gamecocks,Tennessee Volunteers,57,81,2022
+2022-02-05,Vanderbilt Commodores,LSU Tigers,75,66,2022
+2022-02-06,Cincinnati Bearcats,Houston Cougars,58,80,2022
+2022-02-06,Georgetown Hoyas,Providence Friars,52,71,2022
+2022-02-06,Ohio State Buckeyes,Maryland Terrapins,82,67,2022
+2022-02-07,Arizona State Sun Devils,Arizona Wildcats,79,91,2022
+2022-02-07,Duke Blue Devils,Virginia Cavaliers,68,69,2022
+2022-02-07,Texas Longhorns,Kansas Jayhawks,79,76,2022
+2022-02-08,Arkansas Razorbacks,Auburn Tigers,80,76,2022
+2022-02-08,Purdue Boilermakers,Illinois Fighting Illini,84,68,2022
+2022-02-08,South Carolina Gamecocks,Kentucky Wildcats,76,86,2022
+2022-02-08,Stanford Cardinal,UCLA Bruins,70,79,2022
+2022-02-08,Michigan State Spartans,Wisconsin Badgers,62,70,2022
+2022-02-08,UConn Huskies,Marquette Golden Eagles,80,72,2022
+2022-02-08,USC Trojans,Pacific Tigers,74,68,2022
+2022-02-08,Santa Clara Broncos,Saint Mary's Gaels,77,72,2022
+2022-02-09,SMU Mustangs,Houston Cougars,85,83,2022
+2022-02-09,Oklahoma Sooners,Texas Tech Red Raiders,70,55,2022
+2022-02-09,Kansas State Wildcats,Baylor Bears,60,75,2022
+2022-02-09,Rutgers Scarlet Knights,Ohio State Buckeyes,66,64,2022
+2022-02-09,Mississippi State Bulldogs,Tennessee Volunteers,63,72,2022
+2022-02-09,Seton Hall Pirates,Xavier Musketeers,73,71,2022
+2022-02-10,Gonzaga Bulldogs,Pacific Tigers,89,51,2022
+2022-02-10,Michigan Wolverines,Purdue Boilermakers,82,58,2022
+2022-02-10,Washington State Cougars,Arizona Wildcats,60,72,2022
+2022-02-10,Clemson Tigers,Duke Blue Devils,64,82,2022
+2022-02-10,Saint Mary's Gaels,San Diego Toreros,86,57,2022
+2022-02-10,Tennessee State Tigers,Murray State Racers,62,73,2022
+2022-02-11,Xavier Musketeers,UConn Huskies,74,68,2022
+2022-02-12,Auburn Tigers,Texas A&M Aggies,75,58,2022
+2022-02-12,Gonzaga Bulldogs,Saint Mary's Gaels,74,58,2022
+2022-02-12,Washington Huskies,Arizona Wildcats,68,92,2022
+2022-02-12,Kentucky Wildcats,Florida Gators,78,57,2022
+2022-02-12,Houston Cougars,Memphis Tigers,59,69,2022
+2022-02-12,Boston College Eagles,Duke Blue Devils,61,72,2022
+2022-02-12,Kansas Jayhawks,Oklahoma Sooners,71,69,2022
+2022-02-12,Texas Tech Red Raiders,TCU Horned Frogs,82,69,2022
+2022-02-12,Providence Friars,DePaul Blue Demons,76,73,2022
+2022-02-12,USC Trojans,UCLA Bruins,67,64,2022
+2022-02-12,Wisconsin Badgers,Rutgers Scarlet Knights,65,73,2022
+2022-02-12,Villanova Wildcats,Seton Hall Pirates,73,67,2022
+2022-02-12,Michigan Wolverines,Ohio State Buckeyes,57,68,2022
+2022-02-12,Michigan State Spartans,Indiana Hoosiers,76,61,2022
+2022-02-12,Butler Bulldogs,Marquette Golden Eagles,85,79,2022
+2022-02-12,Tennessee Volunteers,Vanderbilt Commodores,73,64,2022
+2022-02-12,Morehead State Eagles,Murray State Racers,53,57,2022
+2022-02-13,Purdue Boilermakers,Maryland Terrapins,62,61,2022
+2022-02-13,Illinois Fighting Illini,Northwestern Wildcats,73,66,2022
+2022-02-13,St. John's Red Storm,UConn Huskies,60,63,2022
+2022-02-14,Kansas Jayhawks,Oklahoma State Cowboys,76,62,2022
+2022-02-15,Tennessee Volunteers,Kentucky Wildcats,76,63,2022
+2022-02-15,Providence Friars,Villanova Wildcats,84,89,2022
+2022-02-15,Duke Blue Devils,Wake Forest Demon Deacons,76,74,2022
+2022-02-15,Indiana Hoosiers,Wisconsin Badgers,69,74,2022
+2022-02-15,Ohio State Buckeyes,Minnesota Golden Gophers,70,45,2022
+2022-02-15,Penn State Nittany Lions,Michigan State Spartans,62,58,2022
+2022-02-15,Oklahoma Sooners,Texas Longhorns,78,80,2022
+2022-02-15,New Mexico Lobos,Wyoming Cowboys,75,66,2022
+2022-02-15,Missouri Tigers,Arkansas Razorbacks,57,76,2022
+2022-02-16,Pepperdine Waves,Gonzaga Bulldogs,66,86,2022
+2022-02-16,Auburn Tigers,Vanderbilt Commodores,94,80,2022
+2022-02-16,Northwestern Wildcats,Purdue Boilermakers,64,70,2022
+2022-02-16,Texas Tech Red Raiders,Baylor Bears,83,73,2022
+2022-02-16,Rutgers Scarlet Knights,Illinois Fighting Illini,70,59,2022
+2022-02-16,UConn Huskies,Seton Hall Pirates,70,65,2022
+2022-02-16,Alabama Crimson Tide,Mississippi State Bulldogs,80,75,2022
+2022-02-17,Arizona Wildcats,Oregon State Beavers,83,69,2022
+2022-02-17,UCLA Bruins,Washington State Cougars,76,56,2022
+2022-02-17,Houston Cougars,UCF Knights,70,52,2022
+2022-02-17,USC Trojans,Washington Huskies,79,69,2022
+2022-02-17,Murray State Racers,Austin Peay Governors,91,56,2022
+2022-02-18,St. John's Red Storm,Butler Bulldogs,91,57,2022
+2022-02-18,Brown Bears,Princeton Tigers,50,69,2022
+2022-02-18,Yale Bulldogs,Pennsylvania Quakers,81,72,2022
+2022-02-18,Dartmouth Big Green,Cornell Big Red,71,59,2022
+2022-02-18,Harvard Crimson,Columbia Lions,62,54,2022
+2022-02-18,Detroit Mercy Titans,Northern Kentucky Norse,60,52,2022
+2022-02-18,VCU Rams,Richmond Spiders,77,57,2022
+2022-02-18,Siena Saints,Marist Red Foxes,53,62,2022
+2022-02-18,Fairfield Stags,Saint Peter's Peacocks,59,70,2022
+2022-02-18,Monmouth Hawks,Rider Broncs,60,58,2022
+2022-02-18,Kent State Golden Flashes,Ohio Bobcats,75,52,2022
+2022-02-18,Green Bay Phoenix,Purdue Fort Wayne Mastodons,55,74,2022
+2022-02-18,Milwaukee Panthers,Cleveland State Vikings,61,78,2022
+2022-02-18,Oakland Golden Grizzlies,Wright State Raiders,74,78,2022
+2022-02-18,Nebraska Cornhuskers,Maryland Terrapins,74,90,2022
+2022-02-18,Mississippi State Bulldogs,Missouri Tigers,68,49,2022
+2022-02-19,Gonzaga Bulldogs,Santa Clara Broncos,81,69,2022
+2022-02-19,Florida Gators,Auburn Tigers,63,62,2022
+2022-02-19,Arizona Wildcats,Oregon Ducks,84,81,2022
+2022-02-19,Kentucky Wildcats,Alabama Crimson Tide,90,81,2022
+2022-02-19,West Virginia Mountaineers,Kansas Jayhawks,58,71,2022
+2022-02-19,Baylor Bears,TCU Horned Frogs,72,62,2022
+2022-02-19,Villanova Wildcats,Georgetown Hoyas,74,66,2022
+2022-02-19,Texas Longhorns,Texas Tech Red Raiders,55,61,2022
+2022-02-19,Michigan State Spartans,Illinois Fighting Illini,74,79,2022
+2022-02-19,UCLA Bruins,Washington Huskies,76,50,2022
+2022-02-19,Arkansas Razorbacks,Tennessee Volunteers,58,48,2022
+2022-02-19,Ohio State Buckeyes,Iowa Hawkeyes,62,75,2022
+2022-02-19,UT Martin Skyhawks,Murray State Racers,60,62,2022
+2022-02-19,Wyoming Cowboys,Air Force Falcons,75,67,2022
+2022-02-19,UConn Huskies,Xavier Musketeers,72,61,2022
+2022-02-20,Purdue Boilermakers,Rutgers Scarlet Knights,84,72,2022
+2022-02-20,Butler Bulldogs,Providence Friars,70,71,2022
+2022-02-20,Wichita State Shockers,Houston Cougars,74,76,2022
+2022-02-20,Wisconsin Badgers,Michigan Wolverines,77,63,2022
+2022-02-20,USC Trojans,Washington State Cougars,62,60,2022
+2022-02-21,Oklahoma State Cowboys,Baylor Bears,64,66,2022
+2022-02-21,UCLA Bruins,Arizona State Sun Devils,66,52,2022
+2022-02-21,Ohio State Buckeyes,Indiana Hoosiers,80,69,2022
+2022-02-22,Kansas Jayhawks,Kansas State Wildcats,102,83,2022
+2022-02-22,UConn Huskies,Villanova Wildcats,71,69,2022
+2022-02-22,Texas Tech Red Raiders,Oklahoma Sooners,66,42,2022
+2022-02-22,Missouri Tigers,Tennessee Volunteers,61,80,2022
+2022-02-22,Florida Gators,Arkansas Razorbacks,74,82,2022
+2022-02-22,Vanderbilt Commodores,Alabama Crimson Tide,72,74,2022
+2022-02-22,Iowa Hawkeyes,Michigan State Spartans,86,60,2022
+2022-02-23,Auburn Tigers,Ole Miss Rebels,77,64,2022
+2022-02-23,Kentucky Wildcats,LSU Tigers,71,66,2022
+2022-02-23,Virginia Cavaliers,Duke Blue Devils,61,65,2022
+2022-02-23,Providence Friars,Xavier Musketeers,99,92,2022
+2022-02-23,Minnesota Golden Gophers,Wisconsin Badgers,67,68,2022
+2022-02-23,Tulane Green Wave,Houston Cougars,67,81,2022
+2022-02-23,Texas Longhorns,TCU Horned Frogs,75,66,2022
+2022-02-24,San Francisco Dons,Gonzaga Bulldogs,73,89,2022
+2022-02-24,Utah Utes,Arizona Wildcats,77,97,2022
+2022-02-24,Oregon Ducks,UCLA Bruins,68,63,2022
+2022-02-24,Illinois Fighting Illini,Ohio State Buckeyes,83,86,2022
+2022-02-24,Oregon State Beavers,USC Trojans,91,94,2022
+2022-02-24,Murray State Racers,Belmont Bruins,76,43,2022
+2022-02-24,San Diego Toreros,Saint Mary's Gaels,46,60,2022
+2022-02-25,Nebraska Cornhuskers,Iowa Hawkeyes,78,88,2022
+2022-02-26,Saint Mary's Gaels,Gonzaga Bulldogs,67,57,2022
+2022-02-26,Colorado Buffaloes,Arizona Wildcats,79,63,2022
+2022-02-26,Tennessee Volunteers,Auburn Tigers,67,62,2022
+2022-02-26,Michigan State Spartans,Purdue Boilermakers,68,65,2022
+2022-02-26,Baylor Bears,Kansas Jayhawks,80,70,2022
+2022-02-26,Arkansas Razorbacks,Kentucky Wildcats,75,73,2022
+2022-02-26,Syracuse Orange,Duke Blue Devils,72,97,2022
+2022-02-26,TCU Horned Frogs,Texas Tech Red Raiders,69,66,2022
+2022-02-26,Providence Friars,Creighton Bluejays,72,51,2022
+2022-02-26,Oregon State Beavers,UCLA Bruins,55,94,2022
+2022-02-26,Rutgers Scarlet Knights,Wisconsin Badgers,61,66,2022
+2022-02-26,Oregon Ducks,USC Trojans,69,70,2022
+2022-02-26,Southeast Missouri State Redhawks,Murray State Racers,68,70,2022
+2022-02-26,West Virginia Mountaineers,Texas Longhorns,81,82,2022
+2022-02-26,Alabama Crimson Tide,South Carolina Gamecocks,90,71,2022
+2022-02-27,Houston Cougars,SMU Mustangs,75,61,2022
+2022-02-27,Michigan Wolverines,Illinois Fighting Illini,85,93,2022
+2022-02-27,Georgetown Hoyas,UConn Huskies,77,86,2022
+2022-02-27,Maryland Terrapins,Ohio State Buckeyes,75,60,2022
+2022-02-28,Texas Longhorns,Baylor Bears,61,68,2022
+2022-02-28,Texas Tech Red Raiders,Kansas State Wildcats,73,68,2022
+2022-02-28,Washington Huskies,UCLA Bruins,66,77,2022
+2022-02-28,Iowa Hawkeyes,Northwestern Wildcats,82,61,2022
+2022-03-01,USC Trojans,Arizona Wildcats,71,91,2022
+2022-03-01,Pittsburgh Panthers,Duke Blue Devils,56,86,2022
+2022-03-01,TCU Horned Frogs,Kansas Jayhawks,74,64,2022
+2022-03-01,Kentucky Wildcats,Ole Miss Rebels,83,72,2022
+2022-03-01,Wisconsin Badgers,Purdue Boilermakers,70,67,2022
+2022-03-01,Villanova Wildcats,Providence Friars,76,74,2022
+2022-03-01,Georgia Bulldogs,Tennessee Volunteers,68,75,2022
+2022-03-01,Houston Cougars,Cincinnati Bearcats,71,53,2022
+2022-03-01,Ohio State Buckeyes,Nebraska Cornhuskers,70,78,2022
+2022-03-02,Mississippi State Bulldogs,Auburn Tigers,68,81,2022
+2022-03-02,Arkansas Razorbacks,LSU Tigers,77,76,2022
+2022-03-02,Creighton Bluejays,UConn Huskies,64,62,2022
+2022-03-02,Alabama Crimson Tide,Texas A&M Aggies,71,87,2022
+2022-03-03,Arizona Wildcats,Stanford Cardinal,81,69,2022
+2022-03-03,Kansas Jayhawks,TCU Horned Frogs,72,68,2022
+2022-03-03,Houston Cougars,Temple Owls,84,46,2022
+2022-03-03,Illinois Fighting Illini,Penn State Nittany Lions,60,55,2022
+2022-03-03,Ohio State Buckeyes,Michigan State Spartans,80,69,2022
+2022-03-03,Michigan Wolverines,Iowa Hawkeyes,71,82,2022
+2022-03-04,Western Michigan Broncos,Ball State Cardinals,63,64,2022
+2022-03-04,Kent State Golden Flashes,Buffalo Bulls,70,65,2022
+2022-03-04,Toledo Rockets,Bowling Green Falcons,96,56,2022
+2022-03-04,St. Bonaventure Bonnies,Richmond Spiders,72,65,2022
+2022-03-04,Miami (OH) RedHawks,Eastern Michigan Eagles,76,63,2022
+2022-03-04,Akron Zips,Central Michigan Chippewas,57,56,2022
+2022-03-04,Northern Illinois Huskies,Ohio Bobcats,58,57,2022
+2022-03-04,San José State Spartans,Utah State Aggies,52,75,2022
+2022-03-05,Arizona Wildcats,California Golden Bears,89,61,2022
+2022-03-05,Baylor Bears,Iowa State Cyclones,75,68,2022
+2022-03-05,Duke Blue Devils,North Carolina Tar Heels,81,94,2022
+2022-03-05,Auburn Tigers,South Carolina Gamecocks,82,71,2022
+2022-03-05,Kansas Jayhawks,Texas Longhorns,70,63,2022
+2022-03-05,Florida Gators,Kentucky Wildcats,63,71,2022
+2022-03-05,Purdue Boilermakers,Indiana Hoosiers,69,67,2022
+2022-03-05,Butler Bulldogs,Villanova Wildcats,59,78,2022
+2022-03-05,Oklahoma State Cowboys,Texas Tech Red Raiders,52,51,2022
+2022-03-05,UCLA Bruins,USC Trojans,75,68,2022
+2022-03-05,UConn Huskies,DePaul Blue Demons,75,68,2022
+2022-03-05,LSU Tigers,Alabama Crimson Tide,80,77,2022
+2022-03-06,Wisconsin Badgers,Nebraska Cornhuskers,73,74,2022
+2022-03-06,Memphis Tigers,Houston Cougars,75,61,2022
+2022-03-06,Illinois Fighting Illini,Iowa Hawkeyes,74,72,2022
+2022-03-06,Ohio State Buckeyes,Michigan Wolverines,69,75,2022
+2022-03-08,Bellarmine Knights,Jacksonville Dolphins,77,72,2022
+2022-03-08,Bryant Bulldogs,Wagner Seahawks,70,43,2022
+2022-03-09,UMBC Retrievers,Hartford Hawks,80,60,2022
+2022-03-09,Vermont Catamounts,Binghamton Bearcats,74,42,2022
+2022-03-09,Colgate Raiders,Navy Midshipmen,74,58,2022
+2022-03-09,St. John's Red Storm,DePaul Blue Demons,92,73,2022
+2022-03-10,Kansas Jayhawks,West Virginia Mountaineers,87,63,2022
+2022-03-11,Kansas Jayhawks,TCU Horned Frogs,75,62,2022
+2022-03-12,Vermont Catamounts,UMBC Retrievers,82,43,2022
+2022-03-12,Kansas Jayhawks,Texas Tech Red Raiders,74,65,2022

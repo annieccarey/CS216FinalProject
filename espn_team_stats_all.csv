@@ -1,0 +1,670 @@
+season,team,games,off_eff,def_eff,pace
+2017,Akron Zips,8,104.09,105.9,71.36
+2017,Alabama State Hornets,5,93.43,110.54,69.31
+2017,App State Mountaineers,5,97.2,120.99,74.14
+2017,Arizona State Sun Devils,7,108.6,124.76,79.3
+2017,Arizona Wildcats,24,110.68,93.27,69.3
+2017,Baylor Bears,21,105.07,90.01,66.29
+2017,Boston College Eagles,6,107.59,131.29,81.17
+2017,Brown Bears,7,108.18,121.24,77.96
+2017,Butler Bulldogs,23,112.33,100.22,72.23
+2017,California Golden Bears,8,97.02,94.84,65.19
+2017,Canisius Golden Griffins,8,111.16,111.89,75.79
+2017,Cincinnati Bearcats,24,106.93,87.89,66.2
+2017,Clemson Tigers,9,101.39,116.7,74.11
+2017,Colorado Buffaloes,5,109.38,121.28,78.38
+2017,Columbia Lions,7,105.07,104.45,71.2
+2017,Cornell Big Red,7,93.47,105.69,67.68
+2017,Creighton Bluejays,23,118.39,103.95,75.55
+2017,Dartmouth Big Green,6,92.6,106.63,67.7
+2017,Dayton Flyers,6,102.27,96.71,67.62
+2017,DePaul Blue Demons,7,92.64,112.53,69.72
+2017,Detroit Mercy Titans,8,114.42,123.85,80.97
+2017,Duke Blue Devils,22,117.38,104.19,75.29
+2017,Fairfield Stags,5,109.67,120.41,78.18
+2017,Florida Gators,20,114.53,98.36,72.34
+2017,Florida State Seminoles,21,115.78,105.56,75.21
+2017,Georgetown Hoyas,9,110.25,106.55,73.67
+2017,Georgia Bulldogs,5,107.06,116.35,75.92
+2017,Georgia Tech Yellow Jackets,7,89.32,99.48,64.15
+2017,Gonzaga Bulldogs,22,124.89,86.98,71.99
+2017,Green Bay Phoenix,6,112.19,107.59,74.68
+2017,Harvard Crimson,6,110.98,102.03,72.38
+2017,Illinois Fighting Illini,5,95.75,119.54,73.15
+2017,Indiana Hoosiers,11,120.67,99.7,74.88
+2017,Iona Gaels,7,123.52,115.02,81.06
+2017,Iowa State Cyclones,11,121.6,102.34,76.09
+2017,Jackson State Tigers,5,87.33,89.65,60.14
+2017,Kansas City Roos,5,104.74,136.37,81.93
+2017,Kansas Jayhawks,21,118.96,104.31,75.87
+2017,Kansas State Wildcats,7,102.17,107.97,71.41
+2017,Kentucky Wildcats,17,119.3,105.99,76.55
+2017,Louisville Cardinals,23,114.29,96.88,71.76
+2017,Loyola Marymount Lions,5,85.01,111.7,66.85
+2017,Manhattan Jaspers,6,99.62,111.22,71.64
+2017,Marquette Golden Eagles,5,119.54,126.5,83.61
+2017,Maryland Terrapins,14,108.91,102.38,71.8
+2017,Miami Hurricanes,9,88.01,91.72,61.07
+2017,Michigan State Spartans,5,115.19,96.33,71.87
+2017,Michigan Wolverines,5,98.65,98.07,66.85
+2017,Milwaukee Panthers,5,109.67,109.38,74.44
+2017,Minnesota Golden Gophers,8,100.46,104.81,69.75
+2017,Mississippi Valley State Delta Devils,6,99.13,127.42,76.98
+2017,Monmouth Hawks,9,113.64,103.81,73.89
+2017,Mount St. Mary's Mountaineers,5,85.59,103.87,64.38
+2017,NC State Wolfpack,9,108.32,122.34,78.38
+2017,North Carolina Tar Heels,23,125.58,101.93,77.31
+2017,North Florida Ospreys,5,123.89,119.83,82.82
+2017,Northern Kentucky Norse,5,116.35,116.64,79.17
+2017,Northwestern Wildcats,6,100.34,104.21,69.51
+2017,Notre Dame Fighting Irish,20,108.0,101.33,71.13
+2017,Oakland Golden Grizzlies,8,116.06,112.43,77.64
+2017,Ohio State Buckeyes,7,105.69,106.32,72.04
+2017,Oklahoma Sooners,7,92.43,109.42,68.59
+2017,Oklahoma State Cowboys,7,110.05,116.68,77.04
+2017,Oregon Ducks,23,116.06,93.22,71.11
+2017,Oregon State Beavers,8,82.51,110.07,65.44
+2017,Pacific Tigers,6,93.81,114.85,70.9
+2017,Penn State Nittany Lions,6,90.91,104.93,66.55
+2017,Pennsylvania Quakers,7,97.2,96.99,65.99
+2017,Pittsburgh Panthers,9,101.07,115.25,73.51
+2017,Portland Pilots,5,79.79,105.32,62.9
+2017,Princeton Tigers,5,107.35,83.27,64.77
+2017,Providence Friars,7,91.19,99.06,64.65
+2017,Purdue Boilermakers,21,115.92,96.09,72.04
+2017,Quinnipiac Bobcats,7,111.91,122.27,79.58
+2017,Rhode Island Rams,7,102.79,95.95,67.54
+2017,Rider Broncs,5,112.86,116.06,77.79
+2017,SMU Mustangs,9,107.84,89.46,67.04
+2017,Saint Mary's Gaels,28,104.14,80.98,62.9
+2017,Saint Peter's Peacocks,5,92.85,87.62,61.32
+2017,Samford Bulldogs,5,105.61,100.68,70.1
+2017,San Diego Toreros,5,68.47,117.8,63.3
+2017,San Francisco Dons,5,91.97,116.64,70.89
+2017,Santa Clara Broncos,5,90.52,107.06,67.14
+2017,Seton Hall Pirates,7,101.13,111.08,72.11
+2017,South Carolina Gamecocks,15,105.8,98.65,69.47
+2017,South Florida Bulls,5,92.26,112.86,69.7
+2017,Southern Jaguars,5,91.39,101.84,65.66
+2017,St. John's Red Storm,9,105.9,125.41,78.6
+2017,Stanford Cardinal,10,94.59,108.51,69.01
+2017,Syracuse Orange,9,107.67,104.45,72.08
+2017,TCU Horned Frogs,5,96.04,105.32,68.42
+2017,Tennessee Volunteers,5,108.22,114.9,75.82
+2017,Texas Longhorns,7,94.09,107.56,68.52
+2017,Texas Southern Tigers,8,101.19,118.6,74.68
+2017,Texas Tech Red Raiders,7,105.49,110.25,73.31
+2017,UAlbany Great Danes,5,95.75,90.23,63.2
+2017,UCF Knights,5,80.08,90.23,57.87
+2017,UCLA Bruins,27,133.79,109.5,82.67
+2017,UConn Huskies,6,92.6,100.58,65.65
+2017,UIC Flames,5,104.74,115.48,74.83
+2017,USC Trojans,11,104.06,113.95,74.08
+2017,UT Arlington Mavericks,5,110.83,92.85,69.21
+2017,Utah Utes,7,103.62,96.99,68.17
+2017,Valparaiso Beacons,9,106.06,105.42,71.86
+2017,Vanderbilt Commodores,6,104.45,104.93,71.15
+2017,Vermont Catamounts,7,104.87,94.5,67.75
+2017,Villanova Wildcats,23,112.84,90.57,69.12
+2017,Virginia Cavaliers,22,96.08,83.35,60.97
+2017,Virginia Tech Hokies,10,109.38,119.54,77.79
+2017,Wake Forest Demon Deacons,6,117.51,126.94,83.06
+2017,Washington Huskies,6,96.23,130.32,76.98
+2017,West Virginia Mountaineers,24,119.32,98.77,74.11
+2017,William & Mary Tribe,5,124.47,108.8,79.27
+2017,Wisconsin Badgers,22,106.76,88.76,66.44
+2017,Wright State Raiders,5,125.34,105.32,78.38
+2017,Xavier Musketeers,18,112.35,101.87,72.79
+2017,Yale Bulldogs,9,101.55,102.03,69.18
+2018,Alabama Crimson Tide,6,104.45,96.71,68.36
+2018,Arizona State Sun Devils,17,116.91,107.69,76.32
+2018,Arizona Wildcats,23,117.7,101.68,74.54
+2018,Arkansas Razorbacks,6,127.42,119.68,83.97
+2018,Auburn Tigers,18,119.04,107.19,76.87
+2018,Baylor Bears,16,111.34,101.37,72.28
+2018,Boston College Eagles,5,103.0,111.12,72.76
+2018,Butler Bulldogs,7,124.97,128.7,86.2
+2018,Cincinnati Bearcats,26,108.91,81.8,64.8
+2018,Clemson Tigers,17,100.44,97.79,67.36
+2018,Colorado Buffaloes,6,117.99,125.0,82.57
+2018,Creighton Bluejays,12,121.74,109.53,78.59
+2018,DePaul Blue Demons,6,96.96,105.66,68.85
+2018,Duke Blue Devils,25,121.63,97.78,74.55
+2018,Florida Gators,12,107.47,100.58,70.7
+2018,Florida State Seminoles,12,113.52,108.56,75.46
+2018,Georgetown Hoyas,5,103.87,128.82,79.07
+2018,Georgia Bulldogs,7,94.71,96.99,65.14
+2018,Georgia Tech Yellow Jackets,7,90.77,101.55,65.35
+2018,Gonzaga Bulldogs,27,122.99,95.1,74.11
+2018,Houston Cougars,8,111.89,101.19,72.4
+2018,Indiana Hoosiers,5,92.26,108.22,68.13
+2018,Iowa State Cyclones,8,110.07,114.61,76.35
+2018,Kansas Jayhawks,22,117.38,107.48,76.41
+2018,Kansas State Wildcats,8,93.03,106.26,67.72
+2018,Kentucky Wildcats,18,106.79,105.26,72.05
+2018,Louisville Cardinals,12,108.08,104.09,72.1
+2018,Marquette Golden Eagles,6,119.92,126.45,83.72
+2018,Maryland Terrapins,5,94.01,114.03,70.69
+2018,Miami Hurricanes,15,108.71,96.81,69.84
+2018,Michigan State Spartans,23,118.58,94.23,72.31
+2018,Michigan Wolverines,13,101.77,94.41,66.66
+2018,Minnesota Golden Gophers,11,110.78,112.1,75.74
+2018,NC State Wolfpack,7,120.62,119.16,81.48
+2018,Nebraska Cornhuskers,6,97.2,101.55,67.54
+2018,Nevada Wolf Pack,10,124.33,115.04,81.34
+2018,North Carolina Tar Heels,22,119.42,109.26,77.71
+2018,Northwestern Wildcats,8,99.55,96.83,66.73
+2018,Notre Dame Fighting Irish,10,106.19,100.68,70.3
+2018,Ohio State Buckeyes,12,104.33,97.08,68.44
+2018,Oklahoma Sooners,17,124.16,123.74,84.24
+2018,Oklahoma State Cowboys,9,116.06,117.18,79.26
+2018,Ole Miss Rebels,5,99.81,123.89,76.01
+2018,Oregon Ducks,6,118.47,112.19,78.38
+2018,Penn State Nittany Lions,7,107.56,102.79,71.48
+2018,Pittsburgh Panthers,6,74.71,113.4,63.92
+2018,Providence Friars,6,105.18,111.95,73.78
+2018,Purdue Boilermakers,22,118.5,93.11,71.9
+2018,Rhode Island Rams,11,108.28,100.23,70.85
+2018,Rutgers Scarlet Knights,8,87.22,106.63,65.87
+2018,SMU Mustangs,7,99.27,110.25,71.2
+2018,Saint Mary's Gaels,15,108.61,89.46,67.31
+2018,San Francisco Dons,6,92.36,105.18,67.12
+2018,Seton Hall Pirates,14,112.22,108.39,74.96
+2018,South Carolina Gamecocks,6,105.66,104.93,71.56
+2018,St. John's Red Storm,6,109.04,112.67,75.34
+2018,Stanford Cardinal,5,107.64,111.12,74.34
+2018,Syracuse Orange,6,88.98,101.07,64.58
+2018,TCU Horned Frogs,16,119.96,114.61,79.71
+2018,Temple Owls,5,95.46,112.86,70.79
+2018,Tennessee Volunteers,22,106.1,98.25,69.44
+2018,Texas A&M Aggies,14,109.84,101.55,71.83
+2018,Texas Longhorns,8,106.63,110.25,73.7
+2018,Texas Southern Tigers,5,106.48,126.79,79.27
+2018,Texas Tech Red Raiders,22,107.68,95.02,68.88
+2018,UCF Knights,5,80.08,99.81,61.13
+2018,UConn Huskies,7,90.15,112.74,68.94
+2018,USC Trojans,7,107.97,100.93,70.99
+2018,Vanderbilt Commodores,7,109.42,119.79,77.89
+2018,Villanova Wildcats,24,126.82,104.99,78.77
+2018,Virginia Cavaliers,23,96.5,77.71,59.2
+2018,Virginia Tech Hokies,7,95.33,102.59,67.25
+2018,Wake Forest Demon Deacons,7,105.07,114.61,74.65
+2018,West Virginia Mountaineers,24,117.39,99.25,73.62
+2018,Wichita State Shockers,27,121.16,102.62,76.04
+2018,Wisconsin Badgers,5,84.43,98.36,62.11
+2018,Xavier Musketeers,26,121.36,108.91,78.25
+2019,Akron Zips,5,100.97,94.3,66.35
+2019,Alabama Crimson Tide,6,105.18,102.03,70.41
+2019,Arkansas Razorbacks,5,111.12,122.15,79.27
+2019,Arkansas-Pine Bluff Golden Lions,5,84.72,107.93,65.46
+2019,Auburn Tigers,16,122.86,100.73,75.98
+2019,Baylor Bears,7,96.99,101.96,67.61
+2019,Boston College Eagles,6,99.37,114.61,72.71
+2019,Buffalo Bulls,26,123.98,103.73,77.38
+2019,Cincinnati Bearcats,9,99.29,90.43,64.47
+2019,Clemson Tigers,7,98.23,93.47,65.14
+2019,Creighton Bluejays,7,118.34,113.36,78.73
+2019,DePaul Blue Demons,6,110.98,116.06,77.15
+2019,Duke Blue Devils,24,121.32,94.66,73.39
+2019,Eastern Michigan Eagles,6,75.19,107.84,62.19
+2019,Florida Gators,9,100.42,104.13,69.51
+2019,Florida State Seminoles,22,109.79,97.72,70.52
+2019,Furman Paladins,6,112.19,92.36,69.51
+2019,Georgia Bulldogs,7,102.79,116.06,74.37
+2019,Georgia Tech Yellow Jackets,8,76.89,99.01,59.77
+2019,Gonzaga Bulldogs,24,130.87,90.79,75.32
+2019,Houston Cougars,25,111.01,90.76,68.56
+2019,Illinois Fighting Illini,9,105.9,106.55,72.19
+2019,Indiana Hoosiers,15,100.87,103.0,69.28
+2019,Iowa Hawkeyes,22,113.22,108.08,75.2
+2019,Iowa State Cyclones,13,107.69,102.0,71.25
+2019,Kansas Jayhawks,28,108.65,100.93,71.21
+2019,Kansas State Wildcats,18,95.26,85.75,61.51
+2019,Kentucky Wildcats,23,109.56,90.39,67.94
+2019,LSU Tigers,19,117.89,106.82,76.36
+2019,Louisville Cardinals,15,101.55,98.65,68.03
+2019,Marquette Golden Eagles,25,112.98,100.27,72.46
+2019,Maryland Terrapins,17,97.37,93.1,64.72
+2019,Memphis Tigers,5,111.7,116.06,77.39
+2019,Miami Hurricanes,7,99.06,115.02,72.75
+2019,Michigan State Spartans,27,114.93,94.4,71.13
+2019,Michigan Wolverines,24,100.82,87.28,63.92
+2019,Minnesota Golden Gophers,11,94.16,101.55,66.5
+2019,Mississippi State Bulldogs,18,114.93,107.76,75.67
+2019,Missouri Tigers,5,104.45,112.57,73.75
+2019,NC State Wolfpack,15,109.38,112.09,75.26
+2019,Nebraska Cornhuskers,13,100.77,107.24,70.68
+2019,Nevada Wolf Pack,26,116.61,94.97,71.9
+2019,North Carolina Tar Heels,24,125.79,105.12,78.46
+2019,Northwestern Wildcats,8,92.3,102.27,66.12
+2019,Notre Dame Fighting Irish,10,96.18,105.76,68.62
+2019,Ohio State Buckeyes,15,98.84,100.2,67.63
+2019,Oklahoma Sooners,12,98.53,99.25,67.21
+2019,Oklahoma State Cowboys,7,93.05,110.88,69.3
+2019,Ole Miss Rebels,7,105.49,110.88,73.52
+2019,Penn State Nittany Lions,11,96.41,104.58,68.3
+2019,Pittsburgh Panthers,7,93.47,104.66,67.32
+2019,Providence Friars,5,98.65,109.67,70.79
+2019,Purdue Boilermakers,18,107.92,93.65,68.49
+2019,Rutgers Scarlet Knights,8,97.56,97.02,66.12
+2019,SMU Mustangs,6,102.76,95.02,67.21
+2019,Samford Bulldogs,5,109.38,112.28,75.32
+2019,South Carolina Gamecocks,6,99.13,116.3,73.2
+2019,Southern Jaguars,5,99.81,118.09,74.04
+2019,St. John's Red Storm,8,108.8,106.45,73.14
+2019,Syracuse Orange,9,97.68,110.25,70.66
+2019,TCU Horned Frogs,12,103.36,106.87,71.44
+2019,Temple Owls,5,99.81,101.55,68.42
+2019,Tennessee Volunteers,24,121.01,97.74,74.33
+2019,Texas A&M Aggies,6,96.47,119.68,73.45
+2019,Texas Longhorns,9,93.33,99.29,65.45
+2019,Texas Southern Tigers,5,113.15,110.83,76.11
+2019,Texas Tech Red Raiders,22,104.91,86.51,65.05
+2019,Tulsa Golden Hurricane,5,95.17,96.62,65.17
+2019,UCF Knights,5,94.88,94.88,64.48
+2019,UNC Greensboro Spartans,5,119.54,100.97,74.93
+2019,Vanderbilt Commodores,8,104.45,109.17,72.59
+2019,Villanova Wildcats,21,109.84,99.48,71.13
+2019,Virginia Cavaliers,24,104.27,80.21,62.69
+2019,Virginia Tech Hokies,25,106.13,88.67,66.19
+2019,Wake Forest Demon Deacons,11,91.13,113.02,69.37
+2019,Washington Huskies,5,105.32,105.9,71.77
+2019,West Virginia Mountaineers,8,93.21,114.24,70.49
+2019,Wisconsin Badgers,21,98.65,89.46,63.92
+2019,Wofford Terriers,6,103.97,106.63,71.56
+2020,Alabama Crimson Tide,5,117.51,118.09,80.06
+2020,Alabama State Hornets,7,81.65,113.57,66.34
+2020,Arizona State Sun Devils,5,92.85,103.87,66.85
+2020,Arizona Wildcats,17,111.79,91.91,69.22
+2020,Auburn Tigers,24,110.37,104.15,72.9
+2020,BYU Cougars,5,114.32,110.54,76.41
+2020,Baylor Bears,24,100.76,85.65,63.35
+2020,Boston College Eagles,7,88.91,107.35,66.69
+2020,Brown Bears,5,97.2,93.43,64.77
+2020,Buffalo Bulls,5,125.05,119.54,83.11
+2020,Butler Bulldogs,20,97.49,95.09,65.44
+2020,California Golden Bears,5,89.65,101.55,64.97
+2020,Canisius Golden Griffins,5,107.35,113.15,74.93
+2020,Cincinnati Bearcats,6,92.85,91.15,62.52
+2020,Clemson Tigers,7,99.89,96.37,66.69
+2020,Colorado Buffaloes,23,100.41,91.58,65.24
+2020,Columbia Lions,6,88.49,116.78,69.75
+2020,Cornell Big Red,7,93.67,106.32,67.96
+2020,Creighton Bluejays,14,111.19,104.14,73.17
+2020,Dayton Flyers,23,113.79,90.26,69.34
+2020,DePaul Blue Demons,5,100.39,114.03,72.86
+2020,Duke Blue Devils,24,119.08,100.76,74.7
+2020,Fairfield Stags,5,84.43,88.49,58.76
+2020,Florida Gators,9,93.97,91.88,63.15
+2020,Florida State Seminoles,23,110.38,96.0,70.13
+2020,Georgetown Hoyas,7,104.04,110.67,72.96
+2020,Georgia Bulldogs,6,101.55,107.35,70.99
+2020,Georgia Tech Yellow Jackets,8,93.57,96.65,64.64
+2020,Gonzaga Bulldogs,27,129.86,97.09,77.12
+2020,Houston Cougars,15,98.26,86.17,62.67
+2020,Illinois Fighting Illini,16,97.56,98.1,66.49
+2020,Indiana Hoosiers,9,98.16,94.13,65.34
+2020,Iona Gaels,5,102.13,105.61,70.59
+2020,Iowa Hawkeyes,19,112.16,106.28,74.23
+2020,Iowa State Cyclones,8,88.67,109.35,67.29
+2020,Kansas Jayhawks,25,106.95,85.88,65.52
+2020,Kansas State Wildcats,7,94.3,106.11,68.1
+2020,Kentucky Wildcats,23,108.3,96.06,69.44
+2020,LSU Tigers,10,120.12,116.35,80.35
+2020,Louisville Cardinals,25,108.11,93.89,68.64
+2020,Marquette Golden Eagles,7,107.56,108.39,73.38
+2020,Maryland Terrapins,26,102.55,93.51,66.63
+2020,Memphis Tigers,17,100.78,91.82,65.45
+2020,Miami Hurricanes,7,94.71,118.75,72.54
+2020,Michigan State Spartans,22,109.07,92.32,68.43
+2020,Michigan Wolverines,15,110.06,106.19,73.48
+2020,Minnesota Golden Gophers,10,91.83,100.39,65.32
+2020,Missouri Tigers,5,101.55,98.94,68.13
+2020,NC State Wolfpack,6,104.45,106.63,71.73
+2020,Nebraska Cornhuskers,7,94.92,115.23,71.41
+2020,North Carolina Tar Heels,11,103.4,104.32,70.58
+2020,Northwestern Wildcats,7,92.85,107.14,67.96
+2020,Notre Dame Fighting Irish,5,99.81,114.61,72.86
+2020,Ohio State Buckeyes,18,108.08,95.91,69.32
+2020,Oklahoma Sooners,7,91.19,93.47,62.75
+2020,Oklahoma State Cowboys,8,82.87,104.45,63.65
+2020,Ole Miss Rebels,7,95.95,107.35,69.08
+2020,Oregon Ducks,27,110.31,95.37,69.89
+2020,Oregon State Beavers,6,93.57,99.62,65.65
+2020,Penn State Nittany Lions,19,105.29,101.17,70.16
+2020,Pennsylvania Quakers,5,99.81,103.58,69.11
+2020,Princeton Tigers,5,94.3,95.75,64.58
+2020,Providence Friars,9,98.33,96.55,66.22
+2020,Purdue Boilermakers,10,105.32,99.08,69.46
+2020,Rider Broncs,5,104.16,107.93,72.07
+2020,Rutgers Scarlet Knights,12,100.7,95.14,66.55
+2020,Saint Louis Billikens,5,102.71,101.26,69.31
+2020,Saint Mary's Gaels,6,105.42,101.79,70.41
+2020,Saint Peter's Peacocks,5,106.19,97.2,69.11
+2020,San Diego State Aztecs,19,108.34,86.89,66.34
+2020,San Diego Toreros,5,81.24,119.83,68.32
+2020,Seton Hall Pirates,20,109.31,100.17,71.18
+2020,Siena Saints,6,113.4,109.53,75.75
+2020,St. John's Red Storm,8,104.45,108.98,72.53
+2020,Stanford Cardinal,5,98.36,103.58,68.62
+2020,Syracuse Orange,6,96.71,102.27,67.62
+2020,TCU Horned Frogs,9,87.85,99.94,63.81
+2020,Tennessee Volunteers,9,98.33,92.52,64.85
+2020,Texas Longhorns,8,84.87,95.02,61.13
+2020,Texas Tech Red Raiders,19,101.63,90.25,65.2
+2020,UCLA Bruins,5,96.33,92.55,64.18
+2020,UConn Huskies,5,98.36,99.52,67.24
+2020,Utah State Aggies,10,114.17,91.97,70.05
+2020,VCU Rams,10,101.4,100.53,68.62
+2020,Vanderbilt Commodores,5,114.32,114.32,77.69
+2020,Villanova Wildcats,25,104.62,94.35,67.61
+2020,Virginia Cavaliers,16,82.24,73.53,52.93
+2020,Virginia Tech Hokies,6,92.12,105.42,67.12
+2020,Wake Forest Demon Deacons,6,111.22,121.13,78.96
+2020,Washington Huskies,10,106.48,92.99,67.78
+2020,West Virginia Mountaineers,19,98.42,90.55,64.21
+2020,Wichita State Shockers,8,93.39,97.2,64.76
+2020,Wisconsin Badgers,9,90.27,86.4,60.03
+2020,Xavier Musketeers,9,99.62,89.62,64.3
+2020,Yale Bulldogs,5,125.92,103.29,77.89
+2021,Alabama Crimson Tide,13,115.72,101.88,73.94
+2021,Arizona State Sun Devils,6,106.63,109.53,73.45
+2021,Arkansas Razorbacks,7,117.92,107.35,76.55
+2021,Baylor Bears,16,121.68,94.57,73.48
+2021,Clemson Tigers,6,92.12,105.18,67.04
+2021,Cleveland State Vikings,5,103.0,101.55,69.51
+2021,Creighton Bluejays,22,113.88,100.43,72.82
+2021,Drake Bulldogs,6,101.07,97.92,67.62
+2021,Florida State Seminoles,16,114.06,101.64,73.3
+2021,Georgia Tech Yellow Jackets,7,98.44,91.39,64.51
+2021,Gonzaga Bulldogs,19,133.85,96.36,78.22
+2021,Green Bay Phoenix,5,94.3,115.19,71.18
+2021,Houston Cougars,21,114.4,83.31,67.18
+2021,Illinois Fighting Illini,24,117.63,98.59,73.47
+2021,Indiana Hoosiers,8,95.38,104.45,67.9
+2021,Iowa Hawkeyes,24,121.98,102.82,76.39
+2021,Iowa State Cyclones,11,97.07,116.06,72.42
+2021,Kansas Jayhawks,18,104.05,93.17,67.01
+2021,Kansas State Wildcats,11,89.55,110.78,68.07
+2021,LSU Tigers,5,111.41,108.51,74.73
+2021,Louisville Cardinals,5,95.75,97.49,65.66
+2021,Loyola Chicago Ramblers,7,95.95,83.73,61.06
+2021,Marquette Golden Eagles,5,103.29,116.35,74.63
+2021,Maryland Terrapins,11,91.39,100.1,65.07
+2021,Miami Hurricanes,7,102.17,111.7,72.68
+2021,Michigan State Spartans,18,105.34,105.58,71.67
+2021,Michigan Wolverines,18,110.17,95.34,69.84
+2021,Minnesota Golden Gophers,13,100.32,108.13,70.83
+2021,Mississippi State Bulldogs,5,96.04,91.39,63.69
+2021,Missouri Tigers,15,101.94,102.23,69.38
+2021,Nebraska Cornhuskers,9,93.65,120.09,72.63
+2021,North Carolina Tar Heels,5,102.71,97.49,68.03
+2021,Northwestern Wildcats,12,93.93,110.37,69.42
+2021,Notre Dame Fighting Irish,6,94.78,105.9,68.19
+2021,Oakland Golden Grizzlies,6,109.53,125.97,80.02
+2021,Ohio State Buckeyes,24,110.68,100.52,71.77
+2021,Oklahoma Sooners,15,101.94,103.87,69.93
+2021,Oklahoma State Cowboys,13,110.59,110.7,75.2
+2021,Oregon Ducks,6,103.48,102.52,70.0
+2021,Penn State Nittany Lions,8,102.82,112.25,73.08
+2021,Providence Friars,5,99.81,101.55,68.42
+2021,Purdue Boilermakers,13,95.41,95.63,64.92
+2021,Rutgers Scarlet Knights,14,103.83,101.76,69.86
+2021,San Diego State Aztecs,8,103.0,89.58,65.44
+2021,Seton Hall Pirates,5,106.19,114.32,74.93
+2021,South Carolina Gamecocks,7,105.9,122.69,77.68
+2021,St. John's Red Storm,5,103.58,116.35,74.73
+2021,TCU Horned Frogs,8,84.32,105.9,64.64
+2021,Tennessee Volunteers,20,105.1,92.41,67.12
+2021,Texas Longhorns,20,110.33,100.24,71.55
+2021,Texas Tech Red Raiders,22,107.29,90.01,67.04
+2021,UConn Huskies,5,95.75,100.1,66.55
+2021,USC Trojans,7,103.83,99.48,69.08
+2021,Villanova Wildcats,16,109.17,96.65,69.94
+2021,Virginia Cavaliers,20,98.0,84.79,62.11
+2021,Virginia Tech Hokies,14,102.59,94.3,66.9
+2021,Wake Forest Demon Deacons,7,92.85,112.12,69.65
+2021,West Virginia Mountaineers,19,111.32,103.23,72.91
+2021,Wisconsin Badgers,26,100.54,93.79,66.04
+2022,Alabama Crimson Tide,21,114.4,111.15,76.64
+2022,Arizona State Sun Devils,6,92.6,107.35,67.95
+2022,Arizona Wildcats,26,121.69,99.37,75.12
+2022,Arkansas Razorbacks,14,115.85,96.99,72.32
+2022,Auburn Tigers,26,112.26,95.19,70.49
+2022,BYU Cougars,6,109.53,112.91,75.59
+2022,Baylor Bears,25,112.98,92.61,69.86
+2022,Brown Bears,5,91.1,113.45,69.51
+2022,Butler Bulldogs,11,90.21,111.7,68.61
+2022,California Golden Bears,6,90.91,116.54,70.49
+2022,Colorado Buffaloes,7,90.57,96.78,63.66
+2022,Creighton Bluejays,8,88.13,99.92,63.9
+2022,DePaul Blue Demons,11,94.69,104.98,67.85
+2022,Duke Blue Devils,25,117.51,95.22,72.29
+2022,Florida Gators,14,100.62,98.03,67.5
+2022,Georgetown Hoyas,6,100.82,119.68,74.93
+2022,Georgia Bulldogs,5,104.16,116.93,75.13
+2022,Gonzaga Bulldogs,21,129.18,93.81,75.77
+2022,Houston Cougars,27,111.17,85.97,66.99
+2022,Illinois Fighting Illini,20,108.51,101.26,71.28
+2022,Indiana Hoosiers,10,96.18,91.68,63.84
+2022,Iowa Hawkeyes,10,110.11,105.32,73.2
+2022,Iowa State Cyclones,17,96.26,90.29,63.39
+2022,Kansas Jayhawks,27,113.96,96.55,71.53
+2022,Kansas State Wildcats,8,94.3,106.63,68.27
+2022,Kentucky Wildcats,24,114.85,95.75,71.56
+2022,LSU Tigers,15,101.74,97.0,67.54
+2022,Marquette Golden Eagles,12,104.69,102.52,70.41
+2022,Maryland Terrapins,11,104.85,98.78,69.19
+2022,Memphis Tigers,10,115.04,97.63,72.27
+2022,Michigan State Spartans,20,103.07,100.17,69.06
+2022,Michigan Wolverines,12,103.24,104.93,70.74
+2022,Milwaukee Panthers,5,80.66,109.09,64.48
+2022,Minnesota Golden Gophers,7,92.22,106.32,67.46
+2022,Mississippi State Bulldogs,7,101.96,100.72,68.87
+2022,Missouri Tigers,7,89.94,113.98,69.3
+2022,Murray State Racers,8,101.73,87.95,64.45
+2022,Nebraska Cornhuskers,11,107.09,114.08,75.15
+2022,North Carolina Tar Heels,6,121.86,110.74,79.04
+2022,Northwestern Wildcats,9,96.87,108.96,69.95
+2022,Ohio State Buckeyes,24,108.02,98.83,70.29
+2022,Oklahoma Sooners,10,94.73,99.66,66.06
+2022,Oklahoma State Cowboys,10,94.73,99.08,65.86
+2022,Ole Miss Rebels,6,99.13,106.63,69.92
+2022,Oregon Ducks,9,112.51,104.77,73.83
+2022,Oregon State Beavers,8,103.73,123.67,77.27
+2022,Penn State Nittany Lions,6,85.35,92.85,60.55
+2022,Pennsylvania Quakers,7,99.06,113.78,72.32
+2022,Providence Friars,17,106.75,100.61,70.46
+2022,Purdue Boilermakers,26,115.94,99.82,73.32
+2022,Rutgers Scarlet Knights,7,102.79,97.2,67.96
+2022,Saint Mary's Gaels,5,99.52,90.23,64.48
+2022,Seton Hall Pirates,14,112.02,103.31,73.17
+2022,South Carolina Gamecocks,7,97.82,116.06,72.68
+2022,St. Bonaventure Bonnies,5,103.58,96.62,68.03
+2022,St. John's Red Storm,7,111.08,104.66,73.31
+2022,Stanford Cardinal,8,91.58,107.35,67.6
+2022,TCU Horned Frogs,9,95.59,100.9,66.77
+2022,Tennessee Volunteers,25,109.44,91.34,68.23
+2022,Texas A&M Aggies,6,108.56,102.03,71.56
+2022,Texas Longhorns,21,101.83,91.12,65.56
+2022,Texas Southern Tigers,5,101.84,98.94,68.23
+2022,Texas Tech Red Raiders,22,101.88,88.43,64.67
+2022,UCLA Bruins,27,112.08,92.47,69.51
+2022,UConn Huskies,23,110.25,92.47,68.89
+2022,USC Trojans,25,106.37,99.4,69.92
+2022,Utah Utes,6,97.44,118.23,73.29
+2022,Vanderbilt Commodores,7,98.44,108.18,70.21
+2022,Villanova Wildcats,24,109.95,93.75,69.22
+2022,Virginia Cavaliers,5,89.36,92.26,61.72
+2022,Washington Huskies,5,96.33,121.57,74.04
+2022,West Virginia Mountaineers,9,93.97,112.03,70.0
+2022,Wisconsin Badgers,22,104.32,100.82,69.71
+2022,Xavier Musketeers,17,105.65,100.7,70.12
+2023,Alabama Crimson Tide,26,120.41,95.41,73.34
+2023,Arizona State Sun Devils,6,99.62,110.25,71.31
+2023,Arizona Wildcats,26,118.51,102.33,75.04
+2023,Arkansas Razorbacks,18,106.95,97.76,69.56
+2023,Auburn Tigers,21,104.87,94.16,67.63
+2023,Baylor Bears,23,114.48,100.35,73.0
+2023,Boston College Eagles,8,92.3,102.09,66.06
+2023,Butler Bulldogs,7,83.52,105.69,64.3
+2023,Canisius Golden Griffins,5,103.58,104.74,70.79
+2023,Charleston Cougars,10,116.64,101.26,74.04
+2023,Chicago State Cougars,5,105.03,104.16,71.08
+2023,Clemson Tigers,8,97.74,97.38,66.3
+2023,Creighton Bluejays,17,108.29,98.56,70.29
+2023,Dayton Flyers,6,93.09,80.51,58.99
+2023,DePaul Blue Demons,8,101.19,120.77,75.42
+2023,Duke Blue Devils,14,106.42,92.74,67.68
+2023,Florida Atlantic Owls,8,107.9,95.57,69.14
+2023,Florida Gators,5,93.14,101.84,66.25
+2023,Florida State Seminoles,6,99.37,112.91,72.14
+2023,Georgetown Hoyas,9,113.15,120.41,79.37
+2023,Gonzaga Bulldogs,24,129.35,106.14,80.02
+2023,Houston Cougars,27,110.52,83.6,65.97
+2023,Illinois Fighting Illini,12,110.5,91.76,68.73
+2023,Indiana Hoosiers,20,106.05,99.23,69.75
+2023,Iowa State Cyclones,20,97.2,90.52,63.79
+2023,Kansas Jayhawks,25,110.66,99.34,71.36
+2023,Kansas State Wildcats,18,111.54,108.72,74.85
+2023,Kent State Golden Flashes,5,106.19,94.3,68.13
+2023,Kentucky Wildcats,15,112.09,94.49,70.2
+2023,LSU Tigers,7,90.15,103.83,65.92
+2023,Louisville Cardinals,6,97.68,110.01,70.58
+2023,Manhattan Jaspers,5,98.65,106.19,69.61
+2023,Marist Red Foxes,7,93.47,106.11,67.82
+2023,Marquette Golden Eagles,16,114.7,105.63,74.87
+2023,Maryland Eastern Shore Hawks,5,99.23,95.46,66.15
+2023,Maryland Terrapins,11,99.57,96.67,66.68
+2023,Miami Hurricanes,19,116.97,107.43,76.25
+2023,Michigan State Spartans,6,98.16,96.23,66.06
+2023,Michigan Wolverines,5,101.26,96.91,67.34
+2023,Mississippi State Bulldogs,8,92.66,99.55,65.32
+2023,Missouri Tigers,9,107.35,117.18,76.3
+2023,NC State Wolfpack,6,110.74,99.13,71.31
+2023,New Mexico Lobos,12,117.63,111.58,77.89
+2023,Nicholls Colonels,5,111.41,106.77,74.14
+2023,Norfolk State Spartans,6,104.93,105.9,71.64
+2023,North Carolina Tar Heels,10,107.21,103.44,71.58
+2023,Northwestern Wildcats,6,97.44,98.41,66.55
+2023,Ohio State Buckeyes,6,104.69,101.55,70.08
+2023,Oklahoma Sooners,12,97.8,103.73,68.48
+2023,Oklahoma State Cowboys,11,97.07,105.64,68.88
+2023,Ole Miss Rebels,5,90.52,106.48,66.94
+2023,Oregon Ducks,6,95.26,103.73,67.62
+2023,Pittsburgh Panthers,7,108.6,105.9,72.89
+2023,Providence Friars,18,113.24,108.08,75.2
+2023,Purdue Boilermakers,23,105.14,90.83,66.59
+2023,Rider Broncs,7,95.95,96.78,65.49
+2023,Rutgers Scarlet Knights,8,94.3,89.76,62.54
+2023,SMU Mustangs,5,89.65,108.8,67.44
+2023,Saint Mary's Gaels,8,106.08,95.02,68.34
+2023,San Diego State Aztecs,17,103.17,90.71,65.88
+2023,San Francisco Dons,5,108.8,107.93,73.65
+2023,Seton Hall Pirates,8,97.56,93.39,64.89
+2023,Siena Saints,5,103.29,91.39,66.15
+2023,South Carolina Gamecocks,5,89.65,117.8,70.49
+2023,St. John's Red Storm,9,110.74,115.25,76.79
+2023,Stanford Cardinal,6,105.18,105.9,71.73
+2023,TCU Horned Frogs,25,108.86,99.58,70.83
+2023,Tennessee Volunteers,25,105.38,82.28,63.77
+2023,Texas A&M Aggies,6,103.24,92.12,66.38
+2023,Texas Longhorns,21,113.64,104.66,74.18
+2023,Texas Tech Red Raiders,14,99.68,101.45,68.35
+2023,UCLA Bruins,27,106.98,85.91,65.55
+2023,UConn Huskies,25,114.14,96.09,71.44
+2023,USC Trojans,5,103.29,105.32,70.89
+2023,Utah Tech Trailblazers,5,103.87,107.93,71.97
+2023,Utah Utes,5,96.91,108.8,69.9
+2023,Vanderbilt Commodores,7,101.76,115.23,73.73
+2023,Villanova Wildcats,11,99.04,102.34,68.43
+2023,Virginia Cavaliers,25,97.6,86.11,62.43
+2023,Virginia Tech Hokies,8,102.27,100.64,68.95
+2023,Washington Huskies,6,89.46,113.64,69.01
+2023,West Virginia Mountaineers,10,103.15,111.56,72.96
+2023,Wisconsin Badgers,8,94.48,93.39,63.84
+2023,Xavier Musketeers,19,118.96,110.02,77.81
+2024,Alabama Crimson Tide,19,132.78,120.87,86.19
+2024,Arizona Wildcats,27,130.72,104.13,79.8
+2024,Arkansas Razorbacks,10,112.86,115.77,77.69
+2024,Arkansas-Pine Bluff Golden Lions,5,120.99,138.4,88.14
+2024,Auburn Tigers,19,120.1,101.24,75.21
+2024,BYU Cougars,24,114.55,104.33,74.38
+2024,Baylor Bears,26,118.46,100.82,74.51
+2024,Boise State Broncos,6,106.14,106.14,72.14
+2024,Butler Bulldogs,7,102.38,113.98,73.52
+2024,Cincinnati Bearcats,10,97.63,100.1,67.19
+2024,Clemson Tigers,11,116.72,109.86,76.99
+2024,Colorado Buffaloes,5,116.93,125.05,82.23
+2024,Colorado State Rams,13,109.25,101.44,71.59
+2024,Creighton Bluejays,27,119.66,101.01,74.98
+2024,Dayton Flyers,16,111.61,98.29,71.32
+2024,DePaul Blue Demons,9,90.91,126.53,73.89
+2024,Duke Blue Devils,29,116.76,97.5,72.8
+2024,Florida Atlantic Owls,19,120.18,103.69,76.07
+2024,Florida Gators,9,122.5,118.15,81.78
+2024,Georgetown Hoyas,6,88.25,122.1,71.48
+2024,Georgia Bulldogs,5,117.51,134.63,85.68
+2024,Gonzaga Bulldogs,14,127.87,99.79,77.36
+2024,Houston Cougars,27,108.53,82.1,64.78
+2024,Illinois Fighting Illini,28,120.36,106.06,76.94
+2024,Indiana Hoosiers,6,99.37,112.19,71.89
+2024,Iowa Hawkeyes,9,110.74,123.47,79.59
+2024,Iowa State Cyclones,18,100.82,95.02,66.55
+2024,Jacksonville Dolphins,5,96.62,107.64,69.41
+2024,James Madison Dukes,11,123.31,98.12,75.24
+2024,Kansas Jayhawks,26,109.92,99.65,71.21
+2024,Kansas State Wildcats,9,96.39,105.26,68.52
+2024,Kentucky Wildcats,28,130.72,114.76,83.42
+2024,LSU Tigers,6,112.67,122.58,79.94
+2024,Manhattan Jaspers,6,87.77,112.67,68.11
+2024,Marquette Golden Eagles,28,115.85,101.45,73.84
+2024,Memphis Tigers,12,120.17,111.7,78.79
+2024,Miami Hurricanes,11,116.58,105.24,75.38
+2024,Michigan State Spartans,10,106.92,98.21,69.7
+2024,Michigan Wolverines,5,103.29,126.5,78.08
+2024,Mississippi State Bulldogs,10,104.16,111.56,73.3
+2024,Missouri Tigers,5,103.29,121.57,76.41
+2024,Morgan State Bears,5,92.85,130.85,76.01
+2024,Nebraska Cornhuskers,6,111.22,121.38,79.04
+2024,Nevada Wolf Pack,6,101.31,98.89,68.03
+2024,New Mexico Lobos,12,116.78,109.65,76.94
+2024,North Carolina Tar Heels,25,117.86,98.94,73.67
+2024,Northwestern Wildcats,7,112.33,118.54,78.45
+2024,Notre Dame Fighting Irish,5,78.63,105.03,62.41
+2024,Ohio State Buckeyes,5,95.17,105.03,68.03
+2024,Oklahoma Sooners,19,105.75,99.64,69.79
+2024,Oklahoma State Cowboys,7,99.89,118.96,74.37
+2024,Ole Miss Rebels,10,105.03,116.2,75.18
+2024,Pennsylvania Quakers,5,95.75,111.99,70.59
+2024,Providence Friars,8,95.2,106.08,68.4
+2024,Purdue Boilermakers,26,122.98,100.54,75.95
+2024,Rider Broncs,5,100.97,98.94,67.93
+2024,Rutgers Scarlet Knights,5,94.88,110.83,69.9
+2024,Saint Mary's Gaels,9,112.99,84.14,66.99
+2024,San Diego State Aztecs,16,105.81,99.46,69.75
+2024,San José State Spartans,6,99.37,121.86,75.18
+2024,Seton Hall Pirates,8,99.74,112.07,71.97
+2024,South Carolina Gamecocks,12,103.0,101.67,69.55
+2024,South Florida Bulls,6,115.09,106.63,75.34
+2024,Southern Jaguars,5,91.1,114.61,69.9
+2024,St. John's Red Storm,7,105.9,110.25,73.45
+2024,TCU Horned Frogs,12,107.96,108.56,73.57
+2024,Tennessee Volunteers,27,118.64,98.49,73.78
+2024,Texas A&M Aggies,13,105.57,103.89,71.18
+2024,Texas Longhorns,22,108.41,99.37,70.6
+2024,Texas Tech Red Raiders,13,107.69,107.13,73.0
+2024,UCF Knights,12,95.14,97.08,65.32
+2024,UConn Huskies,28,118.6,93.57,72.1
+2024,USC Trojans,6,107.11,101.79,70.99
+2024,Utah State Aggies,15,115.28,105.71,75.09
+2024,Vanderbilt Commodores,9,94.62,121.7,73.51
+2024,Villanova Wildcats,13,104.79,99.09,69.28
+2024,Virginia Cavaliers,8,81.96,85.23,56.81
+2024,Wake Forest Demon Deacons,5,101.84,101.26,69.01
+2024,Washington State Cougars,6,104.21,103.48,70.58
+2024,West Virginia Mountaineers,7,104.24,119.16,75.92
+2024,Wisconsin Badgers,22,108.01,104.58,72.24
+2024,Wyoming Cowboys,5,99.23,124.76,76.11
+2024,Xavier Musketeers,8,100.64,120.59,75.18
+2024,Yale Bulldogs,5,105.61,94.01,67.83
