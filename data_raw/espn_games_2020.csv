@@ -1,0 +1,763 @@
+date,home_team,away_team,home_score,away_score,season
+2019-11-05,Miami Hurricanes,Louisville Cardinals,74,87,2020
+2019-11-05,Florida Gators,North Florida Ospreys,74,59,2020
+2019-11-05,Maryland Terrapins,Holy Cross Crusaders,95,71,2020
+2019-11-05,Gonzaga Bulldogs,Alabama State Hornets,95,64,2020
+2019-11-05,Villanova Wildcats,Army Black Knights,97,54,2020
+2019-11-05,Seton Hall Pirates,Wagner Seahawks,105,71,2020
+2019-11-05,Texas Tech Red Raiders,Eastern Illinois Panthers,85,60,2020
+2019-11-05,Memphis Tigers,South Carolina State Bulldogs,97,64,2020
+2019-11-05,Oregon Ducks,Fresno State Bulldogs,71,57,2020
+2019-11-05,Baylor Bears,Central Arkansas Bears,105,61,2020
+2019-11-05,Utah State Aggies,Montana State Bobcats,81,73,2020
+2019-11-05,Xavier Musketeers,Jacksonville Dolphins,76,57,2020
+2019-11-05,Auburn Tigers,Georgia Southern Eagles,83,74,2020
+2019-11-05,VCU Rams,Saint Francis Red Flash,72,58,2020
+2019-11-06,North Carolina Tar Heels,Notre Dame Fighting Irish,76,65,2020
+2019-11-06,Syracuse Orange,Virginia Cavaliers,34,48,2020
+2019-11-06,Ohio State Buckeyes,Cincinnati Bearcats,64,56,2020
+2019-11-06,Arizona Wildcats,Northern Arizona Lumberjacks,91,52,2020
+2019-11-06,Purdue Boilermakers,Green Bay Phoenix,79,57,2020
+2019-11-07,Omaha Mavericks,Midland University Midland,72,53,2020
+2019-11-07,Morehead State Eagles,Spalding Pelicans,92,44,2020
+2019-11-07,Purdue Fort Wayne Mastodons,Manchester Spartans,91,80,2020
+2019-11-07,Marshall Thundering Herd,Robert Morris Colonials,67,60,2020
+2019-11-07,App State Mountaineers,Ferrum Panthers,83,56,2020
+2019-11-07,Hartford Hawks,Winthrop Eagles,57,67,2020
+2019-11-07,Clemson Tigers,Presbyterian Blue Hose,79,45,2020
+2019-11-07,North Florida Ospreys,Florida National Conquistadors,89,81,2020
+2019-11-07,Rutgers Scarlet Knights,Bryant Bulldogs,73,71,2020
+2019-11-07,Samford Bulldogs,Kentucky Wesleyan Panthers,68,42,2020
+2019-11-07,South Dakota State Jackrabbits,Peru State PERU STATE,86,58,2020
+2019-11-07,North Dakota State Bison,Mayville St Comets,93,53,2020
+2019-11-07,North Dakota Fighting Hawks,Crown Polars,86,61,2020
+2019-11-07,Central Arkansas Bears,Hendrix College Warriors,71,51,2020
+2019-11-07,Troy Trojans,UAB Blazers,75,76,2020
+2019-11-07,Drake Bulldogs,Kennesaw State Owls,86,55,2020
+2019-11-07,TCU Horned Frogs,Southwestern (TX) Pirates,83,62,2020
+2019-11-07,Washington State Cougars,Seattle U Redhawks,85,54,2020
+2019-11-07,Air Force Falcons,Idaho State Bengals,79,89,2020
+2019-11-07,UC Davis Aggies,Jessup University Warriors,109,63,2020
+2019-11-08,Kentucky Wildcats,Eastern Kentucky Colonels,91,49,2020
+2019-11-08,Kansas Jayhawks,UNC Greensboro Spartans,74,62,2020
+2019-11-08,Duke Blue Devils,Colorado State Rams,89,55,2020
+2019-11-08,UNC Wilmington Seahawks,North Carolina Tar Heels,62,78,2020
+2019-11-08,Utah State Aggies,Weber State Wildcats,89,34,2020
+2019-11-08,Xavier Musketeers,Siena Saints,81,63,2020
+2019-11-08,LSU Tigers,Bowling Green Falcons,88,79,2020
+2019-11-08,VCU Rams,North Texas Mean Green,59,56,2020
+2019-11-09,Maryland Terrapins,Rhode Island Rams,73,55,2020
+2019-11-09,Gonzaga Bulldogs,Arkansas-Pine Bluff Golden Lions,110,60,2020
+2019-11-09,Seton Hall Pirates,Stony Brook Seawolves,74,57,2020
+2019-11-09,Texas Tech Red Raiders,Bethune-Cookman Wildcats,79,44,2020
+2019-11-09,Oregon Ducks,Boise State Broncos,106,75,2020
+2019-11-09,Purdue Boilermakers,Texas Longhorns,66,70,2020
+2019-11-10,Michigan State Spartans,Binghamton Bearcats,100,47,2020
+2019-11-10,Florida Gators,Florida State Seminoles,51,63,2020
+2019-11-10,Virginia Cavaliers,James Madison Dukes,65,34,2020
+2019-11-10,Ohio State Buckeyes,UMass Lowell River Hawks,76,56,2020
+2019-11-10,Arizona Wildcats,Illinois Fighting Illini,90,69,2020
+2019-11-11,Saint Mary's Gaels,Winthrop Eagles,59,61,2020
+2019-11-12,Kentucky Wildcats,Evansville Purple Aces,64,67,2020
+2019-11-12,Gonzaga Bulldogs,North Dakota Fighting Hawks,97,66,2020
+2019-11-12,Utah State Aggies,Denver Pioneers,97,56,2020
+2019-11-12,Washington Huskies,Mount St. Mary's Mountaineers,56,46,2020
+2019-11-12,Xavier Musketeers,Missouri Tigers,63,58,2020
+2019-11-12,South Alabama Jaguars,Auburn Tigers,69,70,2020
+2019-11-13,Louisville Cardinals,Indiana State Sycamores,91,62,2020
+2019-11-13,VCU Rams,LSU Tigers,84,82,2020
+2019-11-14,Florida Gators,Towson Tigers,66,60,2020
+2019-11-14,Saint Mary's Gaels,Long Beach State Beach,81,63,2020
+2019-11-14,Arizona Wildcats,San José State Spartans,87,39,2020
+2019-11-15,Kansas Jayhawks,Monmouth Hawks,112,57,2020
+2019-11-15,North Carolina Tar Heels,Gardner-Webb Runnin' Bulldogs,77,61,2020
+2019-11-15,Texas A&M Aggies,Gonzaga Bulldogs,49,79,2020
+2019-11-15,Utah State Aggies,North Carolina A&T Aggies,81,54,2020
+2019-11-15,Xavier Musketeers,Missouri State Bears,59,56,2020
+2019-11-15,Baylor Bears,Texas State Bobcats,72,63,2020
+2019-11-16,Maryland Terrapins,Oakland Golden Grizzlies,80,50,2020
+2019-11-16,LSU Tigers,Nicholls Colonels,75,65,2020
+2019-11-16,Colorado Buffaloes,San Diego Toreros,71,53,2020
+2019-11-17,Saint Louis Billikens,Seton Hall Pirates,66,83,2020
+2019-11-17,Oregon Ducks,UT Arlington Mavericks,67,47,2020
+2019-11-17,UConn Huskies,Florida Gators,62,59,2020
+2019-11-17,Saint Mary's Gaels,Cal Poly Mustangs,79,48,2020
+2019-11-17,Arizona Wildcats,New Mexico State Aggies,83,53,2020
+2019-11-18,Utah State Aggies,UTSA Roadrunners,82,50,2020
+2019-11-18,Colorado Buffaloes,UC Irvine Anteaters,69,53,2020
+2019-11-19,Maryland Terrapins,Fairfield Stags,74,55,2020
+2019-11-19,Washington Huskies,Maine Black Bears,72,53,2020
+2019-11-20,Miami (OH) RedHawks,Central State Marauders,80,45,2020
+2019-11-20,Florida State Seminoles,Chattanooga Mocs,89,53,2020
+2019-11-20,VMI Keydets,Christendom Crusaders,96,20,2020
+2019-11-20,Wright State Raiders,Urbana Blue Knights,88,51,2020
+2019-11-20,Ball State Cardinals,Northern Kentucky Norse,57,59,2020
+2019-11-20,Old Dominion Monarchs,James Madison Dukes,78,80,2020
+2019-11-20,Saint Peter's Peacocks,Wagner Seahawks,77,81,2020
+2019-11-20,Yale Bulldogs,Siena Saints,100,89,2020
+2019-11-20,Drexel Dragons,Bryant Bulldogs,86,74,2020
+2019-11-20,NJIT Highlanders,Binghamton Bearcats,75,77,2020
+2019-11-20,Massachusetts Minutemen,Rider Broncs,82,72,2020
+2019-11-20,Tennessee Volunteers,Alabama State Hornets,76,41,2020
+2019-11-20,St. John's Red Storm,Columbia Lions,82,63,2020
+2019-11-20,Virginia Tech Hokies,Delaware State Hornets,100,64,2020
+2019-11-20,Louisville Cardinals,South Carolina Upstate Spartans,76,50,2020
+2019-11-20,Georgia Bulldogs,Georgia Tech Yellow Jackets,82,78,2020
+2019-11-20,Boston College Eagles,Eastern Washington Eagles,72,68,2020
+2019-11-20,Indiana Hoosiers,Princeton Tigers,79,54,2020
+2019-11-20,Rutgers Scarlet Knights,Stephen F. Austin Lumberjacks,69,57,2020
+2019-11-20,Sam Houston Bearkats,LeTourneau Yellow Jackets,88,58,2020
+2019-11-20,Lipscomb Bisons,Belmont Bruins,67,73,2020
+2019-11-20,Florida Gulf Coast Eagles,Florida Atlantic Owls,72,70,2020
+2019-11-20,Syracuse Orange,Cornell Big Red,72,53,2020
+2019-11-20,UAB Blazers,Mount St. Mary's Mountaineers,58,51,2020
+2019-11-20,Northern Iowa Panthers,Cornell (IA) Rams,88,66,2020
+2019-11-20,Loyola Chicago Ramblers,IU Indianapolis Jaguars,85,62,2020
+2019-11-20,Saint Louis Billikens,High Point Panthers,67,55,2020
+2019-11-20,Tulsa Golden Hurricane,SE Louisiana Lions,73,66,2020
+2019-11-20,Memphis Tigers,Little Rock Trojans,68,58,2020
+2019-11-20,Vanderbilt Commodores,Austin Peay Governors,90,72,2020
+2019-11-20,Texas A&M Aggies,Troy Trojans,56,52,2020
+2019-11-20,Missouri Tigers,Morehead State Eagles,70,52,2020
+2019-11-20,Northern Arizona Lumberjacks,Benedictine Mesa Redhawks,93,56,2020
+2019-11-20,Chicago State Cougars,North Park Vikings,79,66,2020
+2019-11-20,Western Illinois Leathernecks,Northern Illinois Huskies,81,86,2020
+2019-11-20,North Carolina Tar Heels,Elon Phoenix,75,61,2020
+2019-11-20,Colorado State Rams,Arkansas State Red Wolves,78,80,2020
+2019-11-20,Illinois Fighting Illini,The Citadel Bulldogs,85,57,2020
+2019-11-20,Boise State Broncos,BYU Cougars,72,68,2020
+2019-11-20,San José State Spartans,Grambling Tigers,83,76,2020
+2019-11-20,UNLV Rebels,Texas State Bobcats,57,64,2020
+2019-11-20,Oregon State Beavers,UC Santa Barbara Gauchos,78,67,2020
+2019-11-20,Portland State Vikings,Portland Pilots,75,82,2020
+2019-11-20,San Diego Toreros,San Diego State Aztecs,49,66,2020
+2019-11-21,Arizona Wildcats,South Dakota State Jackrabbits,71,64,2020
+2019-11-22,Maryland Terrapins,George Mason Patriots,86,63,2020
+2019-11-22,Ohio State Buckeyes,Purdue Fort Wayne Mastodons,85,46,2020
+2019-11-22,Oregon Ducks,Houston Cougars,78,66,2020
+2019-11-22,Washington Huskies,Montana Grizzlies,73,56,2020
+2019-11-23,Gonzaga Bulldogs,Cal State Bakersfield Roadrunners,77,49,2020
+2019-11-23,Seton Hall Pirates,Florida A&M Rattlers,87,51,2020
+2019-11-23,Memphis Tigers,Ole Miss Rebels,87,86,2020
+2019-11-23,VCU Rams,Florida Gulf Coast Eagles,78,48,2020
+2019-11-24,Washington Huskies,San Diego Toreros,88,69,2020
+2019-11-25,VCU Rams,Alabama State Hornets,78,62,2020
+2019-11-26,Duke Blue Devils,Stephen F. Austin Lumberjacks,83,85,2020
+2019-11-27,Virginia Cavaliers,Maine Black Bears,46,26,2020
+2019-11-28,Elon Phoenix,UT Arlington Mavericks,67,77,2020
+2019-11-29,Duke Blue Devils,Winthrop Eagles,83,70,2020
+2019-11-29,Ohio State Buckeyes,Morgan State Bears,90,57,2020
+2019-11-29,Saint Mary's Gaels,Utah State Aggies,81,73,2020
+2019-11-29,Florida Gators,Marshall Thundering Herd,73,67,2020
+2019-11-30,Colorado Buffaloes,Sacramento State Hornets,59,45,2020
+2019-11-30,Xavier Musketeers,Lipscomb Bisons,87,62,2020
+2019-12-01,Villanova Wildcats,La Salle Explorers,83,72,2020
+2019-12-02,Washington Huskies,South Dakota Coyotes,75,55,2020
+2019-12-03,Memphis Tigers,Bradley Braves,71,56,2020
+2019-12-03,Baylor Bears,Maryland Eastern Shore Hawks,78,46,2020
+2019-12-03,Dayton Flyers,Houston Christian Huskies,99,68,2020
+2019-12-03,Ole Miss Rebels,Butler Bulldogs,58,67,2020
+2019-12-04,Gonzaga Bulldogs,Texas Southern Tigers,101,62,2020
+2019-12-04,Colorado Buffaloes,Loyola Marymount Lions,76,64,2020
+2019-12-04,Tennessee Volunteers,Florida A&M Rattlers,72,43,2020
+2019-12-04,Washington Huskies,Eastern Washington Eagles,90,80,2020
+2019-12-04,Villanova Wildcats,Pennsylvania Quakers,80,69,2020
+2019-12-04,San José State Spartans,Utah State Aggies,59,71,2020
+2019-12-05,Auburn Tigers,Furman Paladins,81,78,2020
+2019-12-06,Louisville Cardinals,Pittsburgh Panthers,64,46,2020
+2019-12-06,Michigan Wolverines,Iowa Hawkeyes,103,91,2020
+2019-12-06,Virginia Tech Hokies,Duke Blue Devils,63,77,2020
+2019-12-07,Kansas Jayhawks,Colorado Buffaloes,72,58,2020
+2019-12-07,Maryland Terrapins,Illinois Fighting Illini,59,58,2020
+2019-12-07,Ohio State Buckeyes,Penn State Nittany Lions,106,74,2020
+2019-12-07,Kentucky Wildcats,Fairleigh Dickinson Knights,83,52,2020
+2019-12-07,Baylor Bears,Arizona Wildcats,63,58,2020
+2019-12-07,Oregon Ducks,Hawai'i Rainbow Warriors,89,64,2020
+2019-12-07,UAB Blazers,Memphis Tigers,57,65,2020
+2019-12-07,Saint Joseph's Hawks,Villanova Wildcats,66,78,2020
+2019-12-07,Butler Bulldogs,Florida Gators,76,62,2020
+2019-12-07,Utah State Aggies,Fresno State Bulldogs,77,70,2020
+2019-12-08,Virginia Cavaliers,North Carolina Tar Heels,56,47,2020
+2019-12-08,Washington Huskies,Gonzaga Bulldogs,76,83,2020
+2019-12-08,Michigan State Spartans,Rutgers Scarlet Knights,77,65,2020
+2019-12-08,Iowa State Cyclones,Seton Hall Pirates,76,66,2020
+2019-12-08,Florida State Seminoles,Clemson Tigers,72,53,2020
+2019-12-09,Alcorn State Braves,Rust Bearcats,108,62,2020
+2019-12-09,Duquesne Dukes,Columbia Lions,90,54,2020
+2019-12-09,South Dakota Coyotes,Alabama State Hornets,73,59,2020
+2019-12-09,Iowa Hawkeyes,Minnesota Golden Gophers,72,52,2020
+2019-12-10,Kansas Jayhawks,Milwaukee Panthers,95,68,2020
+2019-12-10,Penn State Nittany Lions,Maryland Terrapins,76,69,2020
+2019-12-10,Baylor Bears,Butler Bulldogs,53,52,2020
+2019-12-10,Colorado Buffaloes,Northern Iowa Panthers,76,79,2020
+2019-12-11,Illinois Fighting Illini,Michigan Wolverines,71,62,2020
+2019-12-11,Arizona Wildcats,Omaha Mavericks,99,49,2020
+2019-12-12,Wright State Raiders,Southern Jaguars,85,62,2020
+2019-12-12,Abilene Christian Wildcats,Howard Payne Yellow Jackets,105,36,2020
+2019-12-12,West Virginia Mountaineers,Austin Peay Governors,84,53,2020
+2019-12-12,Iowa State Cyclones,Iowa Hawkeyes,68,84,2020
+2019-12-12,Grand Canyon Lopes,Northern Iowa Panthers,58,82,2020
+2019-12-12,Portland State Vikings,Portland Bible PORTLAND BIBLE,101,48,2020
+2019-12-13,Colorado State Rams,Colorado Buffaloes,48,56,2020
+2019-12-14,Louisville Cardinals,Eastern Kentucky Colonels,99,67,2020
+2019-12-14,Kansas Jayhawks,Kansas City Roos,98,57,2020
+2019-12-14,Michigan Wolverines,Oregon Ducks,70,71,2020
+2019-12-14,Arizona Wildcats,Gonzaga Bulldogs,80,84,2020
+2019-12-14,Kentucky Wildcats,Georgia Tech Yellow Jackets,67,53,2020
+2019-12-14,Tennessee Volunteers,Memphis Tigers,47,51,2020
+2019-12-14,Dayton Flyers,Drake Bulldogs,78,47,2020
+2019-12-14,Butler Bulldogs,Southern Jaguars,66,41,2020
+2019-12-15,Minnesota Golden Gophers,Ohio State Buckeyes,84,71,2020
+2019-12-15,North Carolina Tar Heels,Wofford Terriers,64,68,2020
+2019-12-16,Texas Tech Red Raiders,Southern Miss Golden Eagles,71,65,2020
+2019-12-17,Ohio State Buckeyes,Southeast Missouri State Redhawks,80,48,2020
+2019-12-17,Dayton Flyers,North Texas Mean Green,71,58,2020
+2019-12-17,Florida State Seminoles,North Florida Ospreys,98,81,2020
+2019-12-17,Washington Huskies,Seattle U Redhawks,81,59,2020
+2019-12-18,Gonzaga Bulldogs,North Carolina Tar Heels,94,81,2020
+2019-12-18,Louisville Cardinals,Miami (OH) RedHawks,70,46,2020
+2019-12-18,Oregon Ducks,Montana Grizzlies,81,48,2020
+2019-12-18,Virginia Cavaliers,Stony Brook Seawolves,56,44,2020
+2019-12-18,Northwestern Wildcats,Michigan State Spartans,72,77,2020
+2019-12-18,San Diego State Aztecs,San Diego Christian Hawks,92,48,2020
+2019-12-18,Cincinnati Bearcats,Tennessee Volunteers,78,66,2020
+2019-12-19,Seton Hall Pirates,Maryland Terrapins,52,48,2020
+2019-12-19,Auburn Tigers,NC State Wolfpack,79,73,2020
+2019-12-20,Penn State Nittany Lions,Central Connecticut Blue Devils,87,58,2020
+2019-12-21,Villanova Wildcats,Kansas Jayhawks,56,55,2020
+2019-12-21,Gonzaga Bulldogs,Eastern Washington Eagles,112,77,2020
+2019-12-21,Oregon Ducks,Texas Southern Tigers,84,78,2020
+2019-12-21,Memphis Tigers,Jackson State Tigers,77,49,2020
+2019-12-21,Auburn Tigers,Lehigh Mountain Hawks,74,51,2020
+2019-12-21,Michigan Wolverines,Presbyterian Blue Hose,86,44,2020
+2019-12-21,Michigan State Spartans,Eastern Michigan Eagles,101,48,2020
+2019-12-21,Tennessee Volunteers,Jacksonville State Gamecocks,75,53,2020
+2019-12-21,Texas Tech Red Raiders,UT Rio Grande Valley Vaqueros,68,58,2020
+2019-12-21,Youngstown State Penguins,West Virginia Mountaineers,64,75,2020
+2019-12-22,Virginia Cavaliers,South Carolina Gamecocks,59,70,2020
+2019-12-23,Dayton Flyers,Grambling Tigers,81,53,2020
+2019-12-25,Hawai'i Rainbow Warriors,Georgia Tech Yellow Jackets,53,70,2020
+2019-12-27,Mount St. Mary's Mountaineers,Coppin State Eagles,79,55,2020
+2019-12-27,Loyola Maryland Greyhounds,UMass Lowell River Hawks,93,81,2020
+2019-12-28,Kentucky Wildcats,Louisville Cardinals,78,70,2020
+2019-12-28,Duke Blue Devils,Brown Bears,75,50,2020
+2019-12-28,Memphis Tigers,New Orleans Privateers,97,55,2020
+2019-12-28,Butler Bulldogs,UL Monroe Warhawks,67,36,2020
+2019-12-28,San Diego State Aztecs,Cal Poly Mustangs,73,57,2020
+2019-12-28,Florida State Seminoles,North Alabama Lions,88,71,2020
+2019-12-29,Stanford Cardinal,Kansas Jayhawks,56,72,2020
+2019-12-29,Oregon Ducks,Alabama State Hornets,98,59,2020
+2019-12-29,Auburn Tigers,Lipscomb Bisons,86,59,2020
+2019-12-29,Michigan Wolverines,UMass Lowell River Hawks,86,60,2020
+2019-12-29,Maryland Terrapins,Bryant Bulldogs,84,70,2020
+2019-12-29,Michigan State Spartans,Western Michigan Broncos,95,62,2020
+2019-12-29,Virginia Cavaliers,Navy Midshipmen,65,56,2020
+2019-12-29,Penn State Nittany Lions,Cornell Big Red,90,59,2020
+2019-12-29,Texas Tech Red Raiders,Cal State Bakersfield Roadrunners,73,58,2020
+2019-12-29,Iowa Hawkeyes,Kennesaw State Owls,93,51,2020
+2019-12-30,Gonzaga Bulldogs,Detroit Mercy Titans,93,72,2020
+2019-12-30,Baylor Bears,Jackson State Tigers,83,57,2020
+2019-12-30,Memphis Tigers,Tulane Green Wave,84,73,2020
+2019-12-30,Villanova Wildcats,Xavier Musketeers,68,62,2020
+2019-12-30,Dayton Flyers,North Florida Ospreys,77,59,2020
+2019-12-31,Duke Blue Devils,Boston College Eagles,88,49,2020
+2019-12-31,St. John's Red Storm,Butler Bulldogs,58,60,2020
+2019-12-31,Florida State Seminoles,Georgia Tech Yellow Jackets,70,58,2020
+2020-01-01,San Diego State Aztecs,Fresno State Bulldogs,61,52,2020
+2020-01-01,Wichita State Shockers,East Carolina Pirates,75,69,2020
+2020-01-02,Portland Pilots,Gonzaga Bulldogs,72,85,2020
+2020-01-02,Colorado Buffaloes,Oregon Ducks,74,65,2020
+2020-01-02,Michigan State Spartans,Illinois Fighting Illini,76,56,2020
+2020-01-02,La Salle Explorers,Dayton Flyers,58,84,2020
+2020-01-03,Ohio State Buckeyes,Wisconsin Badgers,57,61,2020
+2020-01-04,Gonzaga Bulldogs,Pepperdine Waves,75,70,2020
+2020-01-04,Miami Hurricanes,Duke Blue Devils,62,95,2020
+2020-01-04,Kansas Jayhawks,West Virginia Mountaineers,60,53,2020
+2020-01-04,Utah Utes,Oregon Ducks,64,69,2020
+2020-01-04,Baylor Bears,Texas Longhorns,59,44,2020
+2020-01-04,Louisville Cardinals,Florida State Seminoles,65,78,2020
+2020-01-04,Mississippi State Bulldogs,Auburn Tigers,68,80,2020
+2020-01-04,Memphis Tigers,Georgia Bulldogs,62,65,2020
+2020-01-04,Marquette Golden Eagles,Villanova Wildcats,71,60,2020
+2020-01-04,Butler Bulldogs,Creighton Bluejays,71,57,2020
+2020-01-04,Utah State Aggies,San Diego State Aztecs,68,77,2020
+2020-01-04,Maryland Terrapins,Indiana Hoosiers,75,59,2020
+2020-01-04,Kentucky Wildcats,Missouri Tigers,71,59,2020
+2020-01-04,Virginia Cavaliers,Virginia Tech Hokies,65,39,2020
+2020-01-04,Texas Tech Red Raiders,Oklahoma State Cowboys,85,50,2020
+2020-01-04,Wichita State Shockers,Ole Miss Rebels,74,54,2020
+2020-01-04,Arizona Wildcats,Arizona State Sun Devils,75,47,2020
+2020-01-05,Michigan State Spartans,Michigan Wolverines,87,69,2020
+2020-01-05,Saint Joseph's Hawks,Dayton Flyers,67,80,2020
+2020-01-06,Oklahoma State Cowboys,West Virginia Mountaineers,41,55,2020
+2020-01-07,Texas Tech Red Raiders,Baylor Bears,52,57,2020
+2020-01-07,Maryland Terrapins,Ohio State Buckeyes,67,55,2020
+2020-01-07,Louisville Cardinals,Miami Hurricanes,74,58,2020
+2020-01-07,Georgia Bulldogs,Kentucky Wildcats,69,78,2020
+2020-01-07,Creighton Bluejays,Villanova Wildcats,59,64,2020
+2020-01-07,Boston College Eagles,Virginia Cavaliers,60,53,2020
+2020-01-07,Rutgers Scarlet Knights,Penn State Nittany Lions,72,61,2020
+2020-01-08,Georgia Tech Yellow Jackets,Duke Blue Devils,64,73,2020
+2020-01-08,Iowa State Cyclones,Kansas Jayhawks,53,79,2020
+2020-01-08,Auburn Tigers,Vanderbilt Commodores,83,79,2020
+2020-01-08,Wyoming Cowboys,San Diego State Aztecs,52,72,2020
+2020-01-08,Wake Forest Demon Deacons,Florida State Seminoles,68,78,2020
+2020-01-09,San Diego Toreros,Gonzaga Bulldogs,50,94,2020
+2020-01-09,Michigan State Spartans,Minnesota Golden Gophers,74,58,2020
+2020-01-09,Oregon Ducks,Arizona Wildcats,74,73,2020
+2020-01-09,Michigan Wolverines,Purdue Boilermakers,84,78,2020
+2020-01-09,Wichita State Shockers,Memphis Tigers,76,67,2020
+2020-01-10,Providence Friars,Butler Bulldogs,58,70,2020
+2020-01-10,Iowa Hawkeyes,Maryland Terrapins,67,49,2020
+2020-01-11,Loyola Marymount Lions,Gonzaga Bulldogs,62,87,2020
+2020-01-11,Duke Blue Devils,Wake Forest Demon Deacons,90,59,2020
+2020-01-11,Kansas Jayhawks,Baylor Bears,55,67,2020
+2020-01-11,Auburn Tigers,Georgia Bulldogs,82,60,2020
+2020-01-11,San Diego State Aztecs,Boise State Broncos,83,65,2020
+2020-01-11,Oregon Ducks,Arizona State Sun Devils,78,69,2020
+2020-01-11,Indiana Hoosiers,Ohio State Buckeyes,66,54,2020
+2020-01-11,Notre Dame Fighting Irish,Louisville Cardinals,64,67,2020
+2020-01-11,Kentucky Wildcats,Alabama Crimson Tide,76,67,2020
+2020-01-11,Dayton Flyers,Massachusetts Minutemen,88,60,2020
+2020-01-11,Villanova Wildcats,Georgetown Hoyas,80,66,2020
+2020-01-11,West Virginia Mountaineers,Texas Tech Red Raiders,66,54,2020
+2020-01-11,Virginia Cavaliers,Syracuse Orange,55,63,2020
+2020-01-11,Penn State Nittany Lions,Wisconsin Badgers,49,58,2020
+2020-01-12,Purdue Boilermakers,Michigan State Spartans,71,42,2020
+2020-01-12,Minnesota Golden Gophers,Michigan Wolverines,75,67,2020
+2020-01-12,South Florida Bulls,Memphis Tigers,64,68,2020
+2020-01-12,UConn Huskies,Wichita State Shockers,86,89,2020
+2020-01-12,Oregon State Beavers,Arizona Wildcats,82,65,2020
+2020-01-12,Colorado Buffaloes,Utah Utes,91,52,2020
+2020-01-13,Southern Jaguars,Jackson State Tigers,56,50,2020
+2020-01-13,Cornell Big Red,Elmira Soaring Eagles,70,33,2020
+2020-01-13,Loyola Maryland Greyhounds,Boston University Terriers,53,85,2020
+2020-01-13,Maryland Eastern Shore Hawks,North Carolina Central Eagles,64,69,2020
+2020-01-13,Howard Bison,South Carolina State Bulldogs,95,101,2020
+2020-01-13,Delaware State Hornets,North Carolina A&T Aggies,77,98,2020
+2020-01-13,Bethune-Cookman Wildcats,Morgan State Bears,85,78,2020
+2020-01-13,Florida A&M Rattlers,Coppin State Eagles,65,54,2020
+2020-01-13,Alabama State Hornets,Arkansas-Pine Bluff Golden Lions,56,61,2020
+2020-01-13,Alcorn State Braves,Grambling Tigers,87,69,2020
+2020-01-13,Alabama A&M Bulldogs,Mississippi Valley State Delta Devils,66,72,2020
+2020-01-13,Montana Grizzlies,Portland State Vikings,85,70,2020
+2020-01-14,Clemson Tigers,Duke Blue Devils,79,72,2020
+2020-01-14,Oklahoma Sooners,Kansas Jayhawks,52,66,2020
+2020-01-14,Fresno State Bulldogs,San Diego State Aztecs,55,64,2020
+2020-01-14,Pittsburgh Panthers,Louisville Cardinals,68,73,2020
+2020-01-14,West Virginia Mountaineers,TCU Horned Frogs,81,49,2020
+2020-01-14,Dayton Flyers,VCU Rams,79,65,2020
+2020-01-14,Villanova Wildcats,DePaul Blue Demons,79,75,2020
+2020-01-14,Wisconsin Badgers,Maryland Terrapins,56,54,2020
+2020-01-14,Ohio State Buckeyes,Nebraska Cornhuskers,80,68,2020
+2020-01-14,Kansas State Wildcats,Texas Tech Red Raiders,63,77,2020
+2020-01-15,Baylor Bears,Iowa State Cyclones,68,55,2020
+2020-01-15,Alabama Crimson Tide,Auburn Tigers,83,64,2020
+2020-01-15,Butler Bulldogs,Seton Hall Pirates,70,78,2020
+2020-01-15,Florida State Seminoles,Virginia Cavaliers,54,50,2020
+2020-01-15,South Carolina Gamecocks,Kentucky Wildcats,81,78,2020
+2020-01-15,Temple Owls,Wichita State Shockers,65,53,2020
+2020-01-15,Georgetown Hoyas,Creighton Bluejays,83,80,2020
+2020-01-16,Gonzaga Bulldogs,Santa Clara Broncos,104,54,2020
+2020-01-16,Washington State Cougars,Oregon Ducks,72,61,2020
+2020-01-16,Arizona State Sun Devils,Colorado Buffaloes,61,68,2020
+2020-01-16,Memphis Tigers,Cincinnati Bearcats,60,49,2020
+2020-01-17,Saint Louis Billikens,Dayton Flyers,76,78,2020
+2020-01-17,Michigan State Spartans,Wisconsin Badgers,67,55,2020
+2020-01-17,Iowa Hawkeyes,Michigan Wolverines,90,83,2020
+2020-01-18,Gonzaga Bulldogs,BYU Cougars,92,69,2020
+2020-01-18,Oklahoma State Cowboys,Baylor Bears,68,75,2020
+2020-01-18,Duke Blue Devils,Louisville Cardinals,73,79,2020
+2020-01-18,Florida Gators,Auburn Tigers,69,47,2020
+2020-01-18,DePaul Blue Demons,Butler Bulldogs,79,66,2020
+2020-01-18,Texas Longhorns,Kansas Jayhawks,57,66,2020
+2020-01-18,San Diego State Aztecs,Nevada Wolf Pack,68,55,2020
+2020-01-18,Washington Huskies,Oregon Ducks,61,64,2020
+2020-01-18,Miami Hurricanes,Florida State Seminoles,79,83,2020
+2020-01-18,Arkansas Razorbacks,Kentucky Wildcats,66,73,2020
+2020-01-18,Kansas State Wildcats,West Virginia Mountaineers,84,68,2020
+2020-01-18,Villanova Wildcats,UConn Huskies,61,55,2020
+2020-01-18,Wichita State Shockers,Houston Cougars,54,65,2020
+2020-01-18,Maryland Terrapins,Purdue Boilermakers,57,50,2020
+2020-01-18,St. John's Red Storm,Seton Hall Pirates,79,82,2020
+2020-01-18,Arizona Wildcats,Colorado Buffaloes,75,54,2020
+2020-01-18,Penn State Nittany Lions,Ohio State Buckeyes,90,76,2020
+2020-01-18,Texas Tech Red Raiders,Iowa State Cyclones,72,52,2020
+2020-01-18,Illinois Fighting Illini,Northwestern Wildcats,75,71,2020
+2020-01-18,Creighton Bluejays,Providence Friars,78,74,2020
+2020-01-19,Fordham Rams,Davidson Wildcats,62,74,2020
+2020-01-19,Niagara Purple Eagles,Siena Saints,72,71,2020
+2020-01-19,Rutgers Scarlet Knights,Minnesota Golden Gophers,64,56,2020
+2020-01-19,Chicago State Cougars,Cal State Bakersfield Roadrunners,54,72,2020
+2020-01-19,North Dakota State Bison,North Dakota Fighting Hawks,83,74,2020
+2020-01-19,Marist Red Foxes,Iona Gaels,83,73,2020
+2020-01-19,Canisius Golden Griffins,Rider Broncs,95,86,2020
+2020-01-19,Maine Black Bears,Binghamton Bearcats,86,63,2020
+2020-01-19,Illinois State Redbirds,Loyola Chicago Ramblers,50,62,2020
+2020-01-19,Southern Illinois Salukis,Drake Bulldogs,66,49,2020
+2020-01-19,South Dakota Coyotes,South Dakota State Jackrabbits,99,84,2020
+2020-01-19,Kansas City Roos,Grand Canyon Lopes,66,69,2020
+2020-01-19,Cincinnati Bearcats,East Carolina Pirates,82,57,2020
+2020-01-19,Wake Forest Demon Deacons,Boston College Eagles,80,62,2020
+2020-01-19,UCLA Bruins,California Golden Bears,50,40,2020
+2020-01-20,Baylor Bears,Oklahoma Sooners,61,57,2020
+2020-01-20,West Virginia Mountaineers,Texas Longhorns,97,59,2020
+2020-01-21,Kansas Jayhawks,Kansas State Wildcats,81,60,2020
+2020-01-21,San Diego State Aztecs,Wyoming Cowboys,72,55,2020
+2020-01-21,Duke Blue Devils,Miami Hurricanes,89,59,2020
+2020-01-21,Villanova Wildcats,Butler Bulldogs,76,61,2020
+2020-01-21,Kentucky Wildcats,Georgia Bulldogs,89,79,2020
+2020-01-21,Northwestern Wildcats,Maryland Terrapins,66,77,2020
+2020-01-21,TCU Horned Frogs,Texas Tech Red Raiders,65,54,2020
+2020-01-21,Purdue Boilermakers,Illinois Fighting Illini,62,79,2020
+2020-01-22,Louisville Cardinals,Georgia Tech Yellow Jackets,68,64,2020
+2020-01-22,Dayton Flyers,St. Bonaventure Bonnies,86,60,2020
+2020-01-22,Seton Hall Pirates,Providence Friars,73,64,2020
+2020-01-22,Auburn Tigers,South Carolina Gamecocks,80,67,2020
+2020-01-22,Iowa Hawkeyes,Rutgers Scarlet Knights,85,80,2020
+2020-01-22,Tulsa Golden Hurricane,Memphis Tigers,80,40,2020
+2020-01-23,Indiana Hoosiers,Michigan State Spartans,67,63,2020
+2020-01-23,Oregon Ducks,USC Trojans,79,70,2020
+2020-01-23,Colorado Buffaloes,Washington State Cougars,78,56,2020
+2020-01-23,Houston Cougars,UConn Huskies,63,59,2020
+2020-01-24,Butler Bulldogs,Marquette Golden Eagles,89,85,2020
+2020-01-25,Gonzaga Bulldogs,Pacific Tigers,92,59,2020
+2020-01-25,Florida State Seminoles,Notre Dame Fighting Irish,85,84,2020
+2020-01-25,Louisville Cardinals,Clemson Tigers,80,62,2020
+2020-01-25,Richmond Spiders,Dayton Flyers,79,87,2020
+2020-01-25,Providence Friars,Villanova Wildcats,60,64,2020
+2020-01-25,Memphis Tigers,SMU Mustangs,70,74,2020
+2020-01-25,Michigan Wolverines,Illinois Fighting Illini,62,64,2020
+2020-01-25,Arizona State Sun Devils,Arizona Wildcats,66,65,2020
+2020-01-25,Colorado Buffaloes,Washington Huskies,76,62,2020
+2020-01-25,Rutgers Scarlet Knights,Nebraska Cornhuskers,75,72,2020
+2020-01-26,UNLV Rebels,San Diego State Aztecs,67,71,2020
+2020-01-26,Minnesota Golden Gophers,Michigan State Spartans,52,70,2020
+2020-01-26,Oregon Ducks,UCLA Bruins,96,75,2020
+2020-01-26,Indiana Hoosiers,Maryland Terrapins,76,77,2020
+2020-01-26,Houston Cougars,South Florida Bulls,68,49,2020
+2020-01-27,Oklahoma State Cowboys,Kansas Jayhawks,50,65,2020
+2020-01-27,Iowa Hawkeyes,Wisconsin Badgers,68,62,2020
+2020-01-28,Virginia Cavaliers,Florida State Seminoles,61,56,2020
+2020-01-28,St. John's Red Storm,Villanova Wildcats,59,79,2020
+2020-01-28,Duke Blue Devils,Pittsburgh Panthers,79,67,2020
+2020-01-28,Georgetown Hoyas,Butler Bulldogs,64,69,2020
+2020-01-28,Ole Miss Rebels,Auburn Tigers,82,83,2020
+2020-01-28,Rutgers Scarlet Knights,Purdue Boilermakers,70,63,2020
+2020-01-29,Iowa State Cyclones,Baylor Bears,53,67,2020
+2020-01-29,New Mexico Lobos,San Diego State Aztecs,57,85,2020
+2020-01-29,Boston College Eagles,Louisville Cardinals,69,86,2020
+2020-01-29,Duquesne Dukes,Dayton Flyers,69,73,2020
+2020-01-29,Seton Hall Pirates,DePaul Blue Demons,64,57,2020
+2020-01-29,Texas Tech Red Raiders,West Virginia Mountaineers,89,81,2020
+2020-01-29,Kentucky Wildcats,Vanderbilt Commodores,71,62,2020
+2020-01-29,Michigan State Spartans,Northwestern Wildcats,79,50,2020
+2020-01-29,East Carolina Pirates,Houston Cougars,59,69,2020
+2020-01-29,LSU Tigers,Alabama Crimson Tide,90,76,2020
+2020-01-29,Penn State Nittany Lions,Indiana Hoosiers,64,49,2020
+2020-01-30,Santa Clara Broncos,Gonzaga Bulldogs,72,87,2020
+2020-01-30,California Golden Bears,Oregon Ducks,72,77,2020
+2020-01-30,Maryland Terrapins,Iowa Hawkeyes,82,72,2020
+2020-01-30,Illinois Fighting Illini,Minnesota Golden Gophers,59,51,2020
+2020-01-30,UCLA Bruins,Colorado Buffaloes,72,68,2020
+2020-01-31,Pennsylvania Quakers,Harvard Crimson,75,72,2020
+2020-01-31,Kent State Golden Flashes,Akron Zips,68,67,2020
+2020-01-31,Buffalo Bulls,Bowling Green Falcons,77,78,2020
+2020-01-31,Detroit Mercy Titans,Oakland Golden Grizzlies,64,77,2020
+2020-01-31,Princeton Tigers,Dartmouth Big Green,66,44,2020
+2020-01-31,Yale Bulldogs,Columbia Lions,93,62,2020
+2020-01-31,Brown Bears,Cornell Big Red,74,63,2020
+2020-01-31,Niagara Purple Eagles,Marist Red Foxes,48,67,2020
+2020-01-31,Saint Peter's Peacocks,Manhattan Jaspers,70,53,2020
+2020-01-31,Iona Gaels,Siena Saints,64,87,2020
+2020-01-31,Rider Broncs,Fairfield Stags,68,52,2020
+2020-01-31,Canisius Golden Griffins,Quinnipiac Bobcats,73,90,2020
+2020-01-31,Rhode Island Rams,VCU Rams,87,75,2020
+2020-01-31,Milwaukee Panthers,Wright State Raiders,61,65,2020
+2020-01-31,Green Bay Phoenix,Northern Kentucky Norse,62,71,2020
+2020-02-01,Baylor Bears,TCU Horned Frogs,68,52,2020
+2020-02-01,San Francisco Dons,Gonzaga Bulldogs,79,83,2020
+2020-02-01,Kansas Jayhawks,Texas Tech Red Raiders,78,75,2020
+2020-02-01,San Diego State Aztecs,Utah State Aggies,80,68,2020
+2020-02-01,Virginia Tech Hokies,Florida State Seminoles,63,74,2020
+2020-02-01,NC State Wolfpack,Louisville Cardinals,57,77,2020
+2020-02-01,Dayton Flyers,Fordham Rams,70,56,2020
+2020-02-01,Villanova Wildcats,Creighton Bluejays,61,76,2020
+2020-02-01,Syracuse Orange,Duke Blue Devils,88,97,2020
+2020-02-01,Seton Hall Pirates,Xavier Musketeers,62,74,2020
+2020-02-01,Stanford Cardinal,Oregon Ducks,70,60,2020
+2020-02-01,West Virginia Mountaineers,Kansas State Wildcats,66,57,2020
+2020-02-01,Auburn Tigers,Kentucky Wildcats,75,66,2020
+2020-02-01,Wisconsin Badgers,Michigan State Spartans,64,63,2020
+2020-02-01,Butler Bulldogs,Providence Friars,61,65,2020
+2020-02-01,USC Trojans,Colorado Buffaloes,57,78,2020
+2020-02-01,Cincinnati Bearcats,Houston Cougars,64,62,2020
+2020-02-01,LSU Tigers,Ole Miss Rebels,73,63,2020
+2020-02-01,Tulsa Golden Hurricane,Wichita State Shockers,54,51,2020
+2020-02-01,Nebraska Cornhuskers,Penn State Nittany Lions,64,76,2020
+2020-02-02,Iowa Hawkeyes,Illinois Fighting Illini,72,65,2020
+2020-02-03,Kansas State Wildcats,Baylor Bears,67,73,2020
+2020-02-03,Kansas Jayhawks,Texas Longhorns,69,58,2020
+2020-02-03,Florida State Seminoles,North Carolina Tar Heels,65,59,2020
+2020-02-04,Boston College Eagles,Duke Blue Devils,55,63,2020
+2020-02-04,Maryland Terrapins,Rutgers Scarlet Knights,56,51,2020
+2020-02-04,Arkansas Razorbacks,Auburn Tigers,76,79,2020
+2020-02-04,Kentucky Wildcats,Mississippi State Bulldogs,80,72,2020
+2020-02-04,Michigan State Spartans,Penn State Nittany Lions,70,75,2020
+2020-02-05,Louisville Cardinals,Wake Forest Demon Deacons,86,76,2020
+2020-02-05,Butler Bulldogs,Villanova Wildcats,79,76,2020
+2020-02-05,Georgetown Hoyas,Seton Hall Pirates,71,78,2020
+2020-02-05,West Virginia Mountaineers,Iowa State Cyclones,76,61,2020
+2020-02-05,Purdue Boilermakers,Iowa Hawkeyes,104,68,2020
+2020-02-05,Vanderbilt Commodores,LSU Tigers,99,90,2020
+2020-02-05,Providence Friars,Creighton Bluejays,73,56,2020
+2020-02-06,Gonzaga Bulldogs,Loyola Marymount Lions,85,67,2020
+2020-02-06,Arizona Wildcats,USC Trojans,85,80,2020
+2020-02-06,Colorado Buffaloes,California Golden Bears,71,65,2020
+2020-02-06,Houston Cougars,Tulane Green Wave,75,62,2020
+2020-02-07,Illinois Fighting Illini,Maryland Terrapins,66,75,2020
+2020-02-08,Baylor Bears,Oklahoma State Cowboys,78,70,2020
+2020-02-08,Saint Mary's Gaels,Gonzaga Bulldogs,60,90,2020
+2020-02-08,TCU Horned Frogs,Kansas Jayhawks,46,60,2020
+2020-02-08,Air Force Falcons,San Diego State Aztecs,74,89,2020
+2020-02-08,Louisville Cardinals,Virginia Cavaliers,80,73,2020
+2020-02-08,Dayton Flyers,Saint Louis Billikens,71,65,2020
+2020-02-08,North Carolina Tar Heels,Duke Blue Devils,96,98,2020
+2020-02-08,Florida State Seminoles,Miami Hurricanes,99,81,2020
+2020-02-08,Villanova Wildcats,Seton Hall Pirates,64,70,2020
+2020-02-08,Auburn Tigers,LSU Tigers,91,90,2020
+2020-02-08,Oklahoma Sooners,West Virginia Mountaineers,69,59,2020
+2020-02-08,Oregon State Beavers,Oregon Ducks,63,53,2020
+2020-02-08,Tennessee Volunteers,Kentucky Wildcats,64,77,2020
+2020-02-08,Michigan Wolverines,Michigan State Spartans,77,68,2020
+2020-02-08,Iowa Hawkeyes,Nebraska Cornhuskers,96,72,2020
+2020-02-08,Creighton Bluejays,St. John's Red Storm,94,82,2020
+2020-02-08,Penn State Nittany Lions,Minnesota Golden Gophers,83,77,2020
+2020-02-08,Arizona Wildcats,UCLA Bruins,52,65,2020
+2020-02-08,Colorado Buffaloes,Stanford Cardinal,81,74,2020
+2020-02-09,Marquette Golden Eagles,Butler Bulldogs,76,57,2020
+2020-02-09,Houston Cougars,Wichita State Shockers,76,43,2020
+2020-02-10,Texas Longhorns,Baylor Bears,45,52,2020
+2020-02-10,Duke Blue Devils,Florida State Seminoles,70,65,2020
+2020-02-10,Texas Tech Red Raiders,TCU Horned Frogs,88,42,2020
+2020-02-11,San Diego State Aztecs,New Mexico Lobos,82,59,2020
+2020-02-11,Dayton Flyers,Rhode Island Rams,81,67,2020
+2020-02-11,Maryland Terrapins,Nebraska Cornhuskers,72,70,2020
+2020-02-11,Vanderbilt Commodores,Kentucky Wildcats,64,78,2020
+2020-02-11,Purdue Boilermakers,Penn State Nittany Lions,76,88,2020
+2020-02-11,Illinois Fighting Illini,Michigan State Spartans,69,70,2020
+2020-02-11,LSU Tigers,Missouri Tigers,82,78,2020
+2020-02-12,West Virginia Mountaineers,Kansas Jayhawks,49,58,2020
+2020-02-12,Georgia Tech Yellow Jackets,Louisville Cardinals,64,58,2020
+2020-02-12,Seton Hall Pirates,Creighton Bluejays,82,87,2020
+2020-02-12,Auburn Tigers,Alabama Crimson Tide,95,91,2020
+2020-02-12,Villanova Wildcats,Marquette Golden Eagles,72,71,2020
+2020-02-12,Butler Bulldogs,Xavier Musketeers,66,61,2020
+2020-02-12,South Florida Bulls,Houston Cougars,58,62,2020
+2020-02-13,Oregon Ducks,Colorado Buffaloes,68,60,2020
+2020-02-13,Indiana Hoosiers,Iowa Hawkeyes,89,77,2020
+2020-02-14,Toledo Rockets,Buffalo Bulls,67,83,2020
+2020-02-14,Northern Kentucky Norse,IU Indianapolis Jaguars,84,70,2020
+2020-02-14,Central Michigan Chippewas,Akron Zips,67,80,2020
+2020-02-14,Princeton Tigers,Yale Bulldogs,64,88,2020
+2020-02-14,Harvard Crimson,Cornell Big Red,85,63,2020
+2020-02-14,Dartmouth Big Green,Columbia Lions,65,63,2020
+2020-02-14,Pennsylvania Quakers,Brown Bears,63,75,2020
+2020-02-14,Saint Peter's Peacocks,Quinnipiac Bobcats,84,72,2020
+2020-02-14,Iona Gaels,Manhattan Jaspers,80,57,2020
+2020-02-14,Marist Red Foxes,Fairfield Stags,53,57,2020
+2020-02-14,Canisius Golden Griffins,Monmouth Hawks,71,85,2020
+2020-02-14,St. Bonaventure Bonnies,Davidson Wildcats,64,93,2020
+2020-02-14,North Dakota State Bison,Purdue Fort Wayne Mastodons,80,70,2020
+2020-02-14,South Dakota State Jackrabbits,Denver Pioneers,90,78,2020
+2020-02-14,Wright State Raiders,UIC Flames,75,58,2020
+2020-02-14,Siena Saints,Rider Broncs,73,64,2020
+2020-02-15,Baylor Bears,West Virginia Mountaineers,70,59,2020
+2020-02-15,Pepperdine Waves,Gonzaga Bulldogs,77,89,2020
+2020-02-15,Kansas Jayhawks,Oklahoma Sooners,87,70,2020
+2020-02-15,Clemson Tigers,Louisville Cardinals,77,62,2020
+2020-02-15,Massachusetts Minutemen,Dayton Flyers,63,71,2020
+2020-02-15,Duke Blue Devils,Notre Dame Fighting Irish,94,60,2020
+2020-02-15,Florida State Seminoles,Syracuse Orange,80,77,2020
+2020-02-15,Michigan State Spartans,Maryland Terrapins,60,67,2020
+2020-02-15,Providence Friars,Seton Hall Pirates,74,71,2020
+2020-02-15,Missouri Tigers,Auburn Tigers,85,73,2020
+2020-02-15,Kentucky Wildcats,Ole Miss Rebels,67,62,2020
+2020-02-15,Penn State Nittany Lions,Northwestern Wildcats,77,61,2020
+2020-02-15,Oregon State Beavers,Colorado Buffaloes,47,69,2020
+2020-02-15,Butler Bulldogs,Georgetown Hoyas,66,73,2020
+2020-02-15,SMU Mustangs,Houston Cougars,73,72,2020
+2020-02-15,Rutgers Scarlet Knights,Illinois Fighting Illini,72,57,2020
+2020-02-15,Creighton Bluejays,DePaul Blue Demons,93,64,2020
+2020-02-15,Oklahoma State Cowboys,Texas Tech Red Raiders,73,70,2020
+2020-02-15,Alabama Crimson Tide,LSU Tigers,88,82,2020
+2020-02-16,Boise State Broncos,San Diego State Aztecs,55,72,2020
+2020-02-16,Temple Owls,Villanova Wildcats,56,76,2020
+2020-02-16,Oregon Ducks,Utah Utes,80,62,2020
+2020-02-16,Minnesota Golden Gophers,Iowa Hawkeyes,55,58,2020
+2020-02-17,Kansas Jayhawks,Iowa State Cyclones,91,71,2020
+2020-02-18,Oklahoma Sooners,Baylor Bears,54,65,2020
+2020-02-18,VCU Rams,Dayton Flyers,61,66,2020
+2020-02-18,Florida State Seminoles,Pittsburgh Panthers,82,67,2020
+2020-02-18,Penn State Nittany Lions,Illinois Fighting Illini,56,62,2020
+2020-02-18,LSU Tigers,Kentucky Wildcats,76,79,2020
+2020-02-18,Marquette Golden Eagles,Creighton Bluejays,65,73,2020
+2020-02-18,West Virginia Mountaineers,Oklahoma State Cowboys,65,47,2020
+2020-02-19,NC State Wolfpack,Duke Blue Devils,88,66,2020
+2020-02-19,Louisville Cardinals,Syracuse Orange,90,66,2020
+2020-02-19,DePaul Blue Demons,Villanova Wildcats,71,91,2020
+2020-02-19,Georgia Bulldogs,Auburn Tigers,65,55,2020
+2020-02-19,Seton Hall Pirates,Butler Bulldogs,74,72,2020
+2020-02-19,Houston Cougars,Tulsa Golden Hurricane,76,43,2020
+2020-02-20,Gonzaga Bulldogs,San Francisco Dons,71,54,2020
+2020-02-20,Arizona State Sun Devils,Oregon Ducks,77,72,2020
+2020-02-20,Colorado Buffaloes,USC Trojans,70,66,2020
+2020-02-20,Iowa Hawkeyes,Ohio State Buckeyes,85,76,2020
+2020-02-20,BYU Cougars,Santa Clara Broncos,85,75,2020
+2020-02-20,Arizona Wildcats,Oregon State Beavers,89,63,2020
+2020-02-21,Merrimack Warriors,Sacred Heart Pioneers,64,57,2020
+2020-02-21,Kent State Golden Flashes,Buffalo Bulls,98,104,2020
+2020-02-21,Detroit Mercy Titans,Green Bay Phoenix,67,84,2020
+2020-02-21,Harvard Crimson,Princeton Tigers,61,60,2020
+2020-02-21,Dartmouth Big Green,Pennsylvania Quakers,66,59,2020
+2020-02-21,Cornell Big Red,Yale Bulldogs,80,81,2020
+2020-02-21,Columbia Lions,Brown Bears,66,72,2020
+2020-02-21,Marist Red Foxes,Monmouth Hawks,61,65,2020
+2020-02-21,Manhattan Jaspers,Saint Peter's Peacocks,64,67,2020
+2020-02-21,Iona Gaels,Rider Broncs,70,69,2020
+2020-02-21,Fairfield Stags,Niagara Purple Eagles,61,60,2020
+2020-02-21,Quinnipiac Bobcats,Canisius Golden Griffins,66,64,2020
+2020-02-21,Robert Morris Colonials,Mount St. Mary's Mountaineers,68,60,2020
+2020-02-21,Wagner Seahawks,Central Connecticut Blue Devils,68,56,2020
+2020-02-21,St. Francis Brooklyn Terriers,Bryant Bulldogs,74,82,2020
+2020-02-21,Fairleigh Dickinson Knights,Long Island University Sharks,81,86,2020
+2020-02-21,Oakland Golden Grizzlies,Milwaukee Panthers,75,68,2020
+2020-02-21,Saint Louis Billikens,VCU Rams,80,62,2020
+2020-02-22,Baylor Bears,Kansas Jayhawks,61,64,2020
+2020-02-22,BYU Cougars,Gonzaga Bulldogs,91,78,2020
+2020-02-22,San Diego State Aztecs,UNLV Rebels,63,66,2020
+2020-02-22,Dayton Flyers,Duquesne Dukes,80,70,2020
+2020-02-22,Duke Blue Devils,Virginia Tech Hokies,88,64,2020
+2020-02-22,NC State Wolfpack,Florida State Seminoles,61,67,2020
+2020-02-22,Kentucky Wildcats,Florida Gators,65,59,2020
+2020-02-22,Louisville Cardinals,North Carolina Tar Heels,72,55,2020
+2020-02-22,Xavier Musketeers,Villanova Wildcats,55,64,2020
+2020-02-22,Auburn Tigers,Tennessee Volunteers,73,66,2020
+2020-02-22,Arizona Wildcats,Oregon Ducks,72,73,2020
+2020-02-22,TCU Horned Frogs,West Virginia Mountaineers,67,60,2020
+2020-02-22,Colorado Buffaloes,UCLA Bruins,63,70,2020
+2020-02-22,Providence Friars,Marquette Golden Eagles,84,72,2020
+2020-02-22,Memphis Tigers,Houston Cougars,60,59,2020
+2020-02-23,Ohio State Buckeyes,Maryland Terrapins,79,72,2020
+2020-02-23,Indiana Hoosiers,Penn State Nittany Lions,68,60,2020
+2020-02-23,Creighton Bluejays,Butler Bulldogs,81,59,2020
+2020-02-23,Seton Hall Pirates,St. John's Red Storm,81,65,2020
+2020-02-24,Kansas Jayhawks,Oklahoma State Cowboys,83,58,2020
+2020-02-24,Florida State Seminoles,Louisville Cardinals,82,67,2020
+2020-02-24,Texas Longhorns,West Virginia Mountaineers,67,57,2020
+2020-02-25,Baylor Bears,Kansas State Wildcats,85,66,2020
+2020-02-25,George Mason Patriots,Dayton Flyers,55,62,2020
+2020-02-25,San Diego State Aztecs,Colorado State Rams,66,60,2020
+2020-02-25,Wake Forest Demon Deacons,Duke Blue Devils,113,101,2020
+2020-02-25,Texas A&M Aggies,Kentucky Wildcats,60,69,2020
+2020-02-25,Auburn Tigers,Ole Miss Rebels,67,58,2020
+2020-02-25,Michigan State Spartans,Iowa Hawkeyes,78,70,2020
+2020-02-25,Oklahoma Sooners,Texas Tech Red Raiders,65,51,2020
+2020-02-26,Minnesota Golden Gophers,Maryland Terrapins,73,74,2020
+2020-02-26,Villanova Wildcats,St. John's Red Storm,71,60,2020
+2020-02-26,Penn State Nittany Lions,Rutgers Scarlet Knights,65,64,2020
+2020-02-27,Gonzaga Bulldogs,San Diego Toreros,94,59,2020
+2020-02-27,Oregon Ducks,Oregon State Beavers,69,54,2020
+2020-02-27,Michigan Wolverines,Wisconsin Badgers,74,81,2020
+2020-02-27,California Golden Bears,Colorado Buffaloes,76,62,2020
+2020-02-27,Nebraska Cornhuskers,Ohio State Buckeyes,54,75,2020
+2020-02-28,Dayton Flyers,Davidson Wildcats,82,67,2020
+2020-02-29,Kansas State Wildcats,Kansas Jayhawks,58,62,2020
+2020-02-29,TCU Horned Frogs,Baylor Bears,75,72,2020
+2020-02-29,Gonzaga Bulldogs,Saint Mary's Gaels,86,76,2020
+2020-02-29,Nevada Wolf Pack,San Diego State Aztecs,76,83,2020
+2020-02-29,Clemson Tigers,Florida State Seminoles,70,69,2020
+2020-02-29,Virginia Cavaliers,Duke Blue Devils,52,50,2020
+2020-02-29,Kentucky Wildcats,Auburn Tigers,73,66,2020
+2020-02-29,Maryland Terrapins,Michigan State Spartans,66,78,2020
+2020-02-29,Villanova Wildcats,Providence Friars,54,58,2020
+2020-02-29,Marquette Golden Eagles,Seton Hall Pirates,79,88,2020
+2020-02-29,Iowa Hawkeyes,Penn State Nittany Lions,77,68,2020
+2020-02-29,Pepperdine Waves,BYU Cougars,64,81,2020
+2020-02-29,West Virginia Mountaineers,Oklahoma Sooners,62,73,2020
+2020-02-29,Texas Tech Red Raiders,Texas Longhorns,58,68,2020
+2020-03-01,St. John's Red Storm,Creighton Bluejays,91,71,2020
+2020-03-01,Louisville Cardinals,Virginia Tech Hokies,68,52,2020
+2020-03-01,Ohio State Buckeyes,Michigan Wolverines,77,63,2020
+2020-03-01,Stanford Cardinal,Colorado Buffaloes,72,64,2020
+2020-03-01,Houston Cougars,Cincinnati Bearcats,68,55,2020
+2020-03-02,Baylor Bears,Texas Tech Red Raiders,71,68,2020
+2020-03-02,Duke Blue Devils,NC State Wolfpack,88,69,2020
+2020-03-03,Kentucky Wildcats,Tennessee Volunteers,73,81,2020
+2020-03-03,Rutgers Scarlet Knights,Maryland Terrapins,78,67,2020
+2020-03-03,Penn State Nittany Lions,Michigan State Spartans,71,79,2020
+2020-03-03,Iowa Hawkeyes,Purdue Boilermakers,68,77,2020
+2020-03-04,Kansas Jayhawks,TCU Horned Frogs,75,66,2020
+2020-03-04,Rhode Island Rams,Dayton Flyers,57,84,2020
+2020-03-04,Notre Dame Fighting Irish,Florida State Seminoles,71,73,2020
+2020-03-04,Seton Hall Pirates,Villanova Wildcats,77,79,2020
+2020-03-04,Creighton Bluejays,Georgetown Hoyas,91,76,2020
+2020-03-04,Auburn Tigers,Texas A&M Aggies,75,78,2020
+2020-03-04,Miami Hurricanes,Virginia Cavaliers,44,46,2020
+2020-03-04,Wisconsin Badgers,Northwestern Wildcats,63,48,2020
+2020-03-05,Oregon Ducks,California Golden Bears,90,56,2020
+2020-03-05,Ohio State Buckeyes,Illinois Fighting Illini,71,63,2020
+2020-03-05,UConn Huskies,Houston Cougars,77,71,2020
+2020-03-05,Michigan Wolverines,Nebraska Cornhuskers,82,58,2020
+2020-03-06,Bowling Green Falcons,Buffalo Bulls,84,88,2020
+2020-03-06,Akron Zips,Kent State Golden Flashes,79,76,2020
+2020-03-06,Miami (OH) RedHawks,Ohio Bobcats,65,67,2020
+2020-03-06,Central Michigan Chippewas,Western Michigan Broncos,85,68,2020
+2020-03-06,Toledo Rockets,Eastern Michigan Eagles,79,57,2020
+2020-03-06,Dartmouth Big Green,Yale Bulldogs,61,72,2020
+2020-03-06,Pennsylvania Quakers,Cornell Big Red,78,64,2020
+2020-03-06,Princeton Tigers,Columbia Lions,81,58,2020
+2020-03-06,Harvard Crimson,Brown Bears,55,64,2020
+2020-03-06,Monmouth Hawks,Siena Saints,72,86,2020
+2020-03-06,Saint Peter's Peacocks,Iona Gaels,68,65,2020
+2020-03-06,Manhattan Jaspers,Fairfield Stags,50,66,2020
+2020-03-06,Canisius Golden Griffins,Niagara Purple Eagles,67,63,2020
+2020-03-06,Duquesne Dukes,Richmond Spiders,62,73,2020
+2020-03-06,NC State Wolfpack,Wake Forest Demon Deacons,84,64,2020
+2020-03-06,Clemson Tigers,Georgia Tech Yellow Jackets,62,65,2020
+2020-03-06,Radford Highlanders,Hampton Pirates,78,86,2020
+2020-03-06,Northern Illinois Huskies,Ball State Cardinals,54,75,2020
+2020-03-06,Davidson Wildcats,VCU Rams,75,65,2020
+2020-03-07,Texas Tech Red Raiders,Kansas Jayhawks,62,66,2020
+2020-03-07,Dayton Flyers,George Washington Revolutionaries,76,51,2020
+2020-03-07,West Virginia Mountaineers,Baylor Bears,76,64,2020
+2020-03-07,Florida Gators,Kentucky Wildcats,70,71,2020
+2020-03-07,Florida State Seminoles,Boston College Eagles,80,62,2020
+2020-03-07,Creighton Bluejays,Seton Hall Pirates,77,60,2020
+2020-03-07,Virginia Cavaliers,Louisville Cardinals,57,54,2020
+2020-03-07,Duke Blue Devils,North Carolina Tar Heels,89,76,2020
+2020-03-07,Oregon Ducks,Stanford Cardinal,80,67,2020
+2020-03-07,Georgetown Hoyas,Villanova Wildcats,69,70,2020
+2020-03-07,Tennessee Volunteers,Auburn Tigers,63,85,2020
+2020-03-07,Northwestern Wildcats,Penn State Nittany Lions,80,69,2020
+2020-03-07,Indiana Hoosiers,Wisconsin Badgers,56,60,2020
+2020-03-08,Maryland Terrapins,Michigan Wolverines,83,70,2020
+2020-03-08,Michigan State Spartans,Ohio State Buckeyes,80,69,2020
+2020-03-08,Illinois Fighting Illini,Iowa Hawkeyes,78,76,2020
+2020-03-08,Houston Cougars,Memphis Tigers,64,57,2020
+2020-03-09,Ohio Bobcats,Central Michigan Chippewas,85,65,2020
+2020-03-09,Toledo Rockets,Western Michigan Broncos,76,73,2020
+2020-03-09,Kent State Golden Flashes,Eastern Michigan Eagles,86,76,2020
+2020-03-09,Georgia Southern Eagles,Louisiana Ragin' Cajuns,82,81,2020
+2020-03-09,App State Mountaineers,Coastal Carolina Chanticleers,70,65,2020
+2020-03-09,Buffalo Bulls,Miami (OH) RedHawks,79,85,2020
+2020-03-10,Prairie View A&M Panthers,Alabama A&M Bulldogs,82,60,2020
+2020-03-10,Vermont Catamounts,UMBC Retrievers,81,74,2020
+2020-03-10,Stony Brook Seawolves,Hartford Hawks,58,64,2020
+2020-03-10,Robert Morris Colonials,Saint Francis Red Flash,77,67,2020
+2020-03-10,Texas Southern Tigers,Grambling Tigers,75,62,2020
+2020-03-10,Jackson State Tigers,Alcorn State Braves,69,52,2020
+2020-03-10,Southern Jaguars,Alabama State Hornets,67,53,2020
+2020-03-11,Georgia State Panthers,Georgia Southern Eagles,62,81,2020
+2020-03-11,Colgate Raiders,Boston University Terriers,61,64,2020
+2020-03-11,Texas State Bobcats,App State Mountaineers,85,68,2020

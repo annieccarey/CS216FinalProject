@@ -1,0 +1,833 @@
+date,home_team,away_team,home_score,away_score,season
+2022-11-07,North Carolina Tar Heels,UNC Wilmington Seahawks,69,56,2023
+2022-11-07,Houston Cougars,Northern Colorado Bears,83,36,2023
+2022-11-07,Kentucky Wildcats,Howard Bison,95,63,2023
+2022-11-07,Baylor Bears,Mississippi Valley State Delta Devils,117,53,2023
+2022-11-07,Kansas Jayhawks,Omaha Mavericks,89,64,2023
+2022-11-07,Duke Blue Devils,Jacksonville Dolphins,71,44,2023
+2022-11-07,UCLA Bruins,Sacramento State Hornets,76,50,2023
+2022-11-07,Creighton Bluejays,St. Thomas-Minnesota Tommies,72,60,2023
+2022-11-07,Arkansas Razorbacks,North Dakota State Bison,76,58,2023
+2022-11-07,Tennessee Volunteers,Tennessee Tech Golden Eagles,75,43,2023
+2022-11-07,Texas Longhorns,UTEP Miners,72,57,2023
+2022-11-07,Indiana Hoosiers,Morehead State Eagles,88,53,2023
+2022-11-07,TCU Horned Frogs,Arkansas-Pine Bluff Golden Lions,73,72,2023
+2022-11-07,Auburn Tigers,George Mason Patriots,70,52,2023
+2022-11-07,Villanova Wildcats,La Salle Explorers,81,68,2023
+2022-11-07,Arizona Wildcats,Nicholls Colonels,117,75,2023
+2022-11-07,Virginia Cavaliers,North Carolina Central Eagles,73,61,2023
+2022-11-07,San Diego State Aztecs,Cal State Fullerton Titans,80,57,2023
+2022-11-07,Alabama Crimson Tide,Longwood Lancers,75,54,2023
+2022-11-07,Michigan Wolverines,Purdue Fort Wayne Mastodons,75,56,2023
+2022-11-07,Illinois Fighting Illini,Eastern Illinois Panthers,87,57,2023
+2022-11-07,Dayton Flyers,Lindenwood Lions,73,46,2023
+2022-11-07,Texas Tech Red Raiders,Northwestern State Demons,73,49,2023
+2022-11-08,Immaculata Mighty Macs,UAlbany Great Danes,47,74,2023
+2022-11-08,Providence Friars,Rider Broncs,66,65,2023
+2022-11-08,Purdue Boilermakers,Milwaukee Panthers,84,53,2023
+2022-11-08,Detroit Mercy Titans,Rochester University (MI) Warriors,93,65,2023
+2022-11-08,Hartford Hawks,Sacred Heart Pioneers,70,77,2023
+2022-11-08,East Carolina Pirates,Mercer Bears,77,75,2023
+2022-11-08,Duquesne Dukes,Montana Grizzlies,91,63,2023
+2022-11-08,South Carolina Gamecocks,South Carolina State Bulldogs,80,77,2023
+2022-11-08,Georgetown Hoyas,Coppin State Eagles,99,89,2023
+2022-11-08,San José State Spartans,Georgia Southern Eagles,63,48,2023
+2022-11-09,Western Illinois Leathernecks,Rockford Regents,113,56,2023
+2022-11-09,Howard Bison,District of Columbia Firebirds,87,74,2023
+2022-11-09,Prairie View A&M Panthers,North American Stallions,95,68,2023
+2022-11-09,Robert Morris Colonials,Pittsburgh-Greensburg GREENSBURG,84,49,2023
+2022-11-09,Wright State Raiders,Davidson Wildcats,97,102,2023
+2022-11-09,Winthrop Eagles,Piedmont Lions,78,56,2023
+2022-11-09,Marist Red Foxes,American University Eagles,73,69,2023
+2022-11-09,James Madison Dukes,Hampton Pirates,106,58,2023
+2022-11-09,Youngstown State Penguins,UT Martin Skyhawks,90,72,2023
+2022-11-09,Fairleigh Dickinson Knights,Mercy Mavericks,106,66,2023
+2022-11-09,Norfolk State Spartans,Cairn University Highlanders,87,59,2023
+2022-11-09,South Alabama Jaguars,Mobile Rams,97,59,2023
+2022-11-09,Arkansas-Pine Bluff Golden Lions,Champion Christian Tigers,87,55,2023
+2022-11-09,Missouri State Bears,Missouri S&T Miners,82,47,2023
+2022-11-09,Drake Bulldogs,IU Indianapolis Jaguars,80,48,2023
+2022-11-09,Utah Valley Wolverines,Western Colorado Mountaineers,91,64,2023
+2022-11-09,LSU Tigers,Kansas City Roos,74,63,2023
+2022-11-09,South Dakota Coyotes,Lipscomb Bisons,85,77,2023
+2022-11-09,Seton Hall Pirates,Monmouth Hawks,79,52,2023
+2022-11-09,Boise State Broncos,South Dakota State Jackrabbits,66,68,2023
+2022-11-09,Grand Canyon Lopes,San Diego Christian Hawks,101,50,2023
+2022-11-09,UC Davis Aggies,Cal Maritime Keelhaulers,90,67,2023
+2022-11-09,Louisville Cardinals,Bellarmine Knights,66,67,2023
+2022-11-09,Seattle U Redhawks,Puget Sound Loggers,106,55,2023
+2022-11-09,San Diego Toreros,Florida Gulf Coast Eagles,79,73,2023
+2022-11-09,Portland Pilots,Florida A&M Rattlers,91,54,2023
+2022-11-10,Kansas Jayhawks,North Dakota State Bison,82,59,2023
+2022-11-10,Creighton Bluejays,North Dakota Fighting Hawks,96,61,2023
+2022-11-10,Indiana Hoosiers,Bethune-Cookman Wildcats,101,49,2023
+2022-11-10,Texas Tech Red Raiders,Texas Southern Tigers,78,54,2023
+2022-11-11,North Carolina Tar Heels,Charleston Cougars,102,86,2023
+2022-11-11,Kentucky Wildcats,Duquesne Dukes,77,52,2023
+2022-11-11,Baylor Bears,Norfolk State Spartans,87,70,2023
+2022-11-11,Duke Blue Devils,South Carolina Upstate Spartans,84,38,2023
+2022-11-11,UCLA Bruins,Long Beach State Beach,93,69,2023
+2022-11-11,Arkansas Razorbacks,Fordham Rams,74,48,2023
+2022-11-11,TCU Horned Frogs,Lamar Cardinals,77,66,2023
+2022-11-11,Auburn Tigers,South Florida Bulls,67,59,2023
+2022-11-11,Temple Owls,Villanova Wildcats,68,64,2023
+2022-11-11,Virginia Cavaliers,Monmouth Hawks,89,42,2023
+2022-11-11,San Diego State Aztecs,BYU Cougars,82,75,2023
+2022-11-11,Alabama Crimson Tide,Liberty Flames,95,59,2023
+2022-11-11,Oregon Ducks,UC Irvine Anteaters,56,69,2023
+2022-11-11,Illinois Fighting Illini,Kansas City Roos,86,48,2023
+2022-11-11,Dayton Flyers,SMU Mustangs,74,62,2023
+2022-11-12,Georgetown Hoyas,Green Bay Phoenix,92,58,2023
+2022-11-12,Tennessee State Tigers,South Carolina State Bulldogs,80,61,2023
+2022-11-12,Seton Hall Pirates,Saint Peter's Peacocks,80,44,2023
+2022-11-12,Miami (OH) RedHawks,Goshen Maple Leafs,87,44,2023
+2022-11-12,Purdue Fort Wayne Mastodons,SIU Edwardsville Cougars,81,76,2023
+2022-11-12,Army Black Knights,Stonehill Skyhawks,77,82,2023
+2022-11-12,Buffalo Bulls,James Madison Dukes,62,97,2023
+2022-11-12,Ohio Bobcats,Cleveland State Vikings,81,70,2023
+2022-11-12,Louisville Cardinals,Wright State Raiders,72,73,2023
+2022-11-12,Northern Kentucky Norse,Cincinnati Clermont Cougars,89,49,2023
+2022-11-12,Indiana State Sycamores,Ball State Cardinals,83,71,2023
+2022-11-12,Rutgers Scarlet Knights,UMass Lowell River Hawks,73,65,2023
+2022-11-12,Samford Bulldogs,Belhaven Blazers,90,38,2023
+2022-11-12,Tulsa Golden Hurricane,Jackson State Tigers,85,79,2023
+2022-11-12,UNC Asheville Bulldogs,Brevard Tornados,94,46,2023
+2022-11-12,UT Martin Skyhawks,Champion Christian Tigers,124,65,2023
+2022-11-12,La Salle Explorers,Wagner Seahawks,77,69,2023
+2022-11-12,San José State Spartans,Bethesda Flames,90,68,2023
+2022-11-12,Rider Broncs,College of New Jersey Lions,87,50,2023
+2022-11-12,Maryland Eastern Shore Hawks,Bryn Athyn Lions,90,43,2023
+2022-11-12,Bucknell Bison,Niagara Purple Eagles,68,50,2023
+2022-11-12,Wichita State Shockers,Alcorn State Braves,57,66,2023
+2022-11-12,Winthrop Eagles,Middle Tennessee Blue Raiders,76,68,2023
+2022-11-12,High Point Panthers,Wofford Terriers,91,80,2023
+2022-11-12,East Carolina Pirates,Presbyterian Blue Hose,77,57,2023
+2022-11-12,Utah Valley Wolverines,Northern Arizona Lumberjacks,73,69,2023
+2022-11-12,Rhode Island Rams,Texas State Bobcats,66,70,2023
+2022-11-12,Nevada Wolf Pack,Grand Canyon Lopes,59,46,2023
+2022-11-12,Southeast Missouri State Redhawks,Lyon Scots,83,46,2023
+2022-11-12,New Orleans Privateers,St. Francis (IL) Fighting Saints,65,63,2023
+2022-11-12,Lipscomb Bisons,Campbellsville (HB) Pioneers,107,54,2023
+2022-11-12,South Dakota Coyotes,Dakota State Trojans,82,64,2023
+2022-11-12,UNLV Rebels,Incarnate Word Cardinals,88,63,2023
+2022-11-12,LSU Tigers,Arkansas State Red Wolves,61,52,2023
+2022-11-12,St. John's Red Storm,Lafayette Leopards,83,68,2023
+2022-11-12,Saint Francis Red Flash,Hartford Hawks,77,53,2023
+2022-11-12,Milwaukee Panthers,Cardinal Stritch Wolves,112,38,2023
+2022-11-12,Western Kentucky Hilltoppers,Kentucky State Thorobreds,127,61,2023
+2022-11-12,Marist Red Foxes,Binghamton Bearcats,75,78,2023
+2022-11-12,Georgia Southern Eagles,Trinity College of Jacksonville Eagles,53,32,2023
+2022-11-12,VCU Rams,Morgan State Bears,69,54,2023
+2022-11-12,Canisius Golden Griffins,St. Bonaventure Bonnies,84,80,2023
+2022-11-12,Saint Louis Billikens,Evansville Purple Aces,83,65,2023
+2022-11-12,Dartmouth Big Green,Massachusetts College of Liberal Arts Mohawks,107,52,2023
+2022-11-12,Georgia State Panthers,Georgia Tech Yellow Jackets,57,59,2023
+2022-11-12,Siena Saints,UAlbany Great Danes,75,62,2023
+2022-11-12,Murray State Racers,Lindsey Wilson Blue Raiders,90,53,2023
+2022-11-12,Hampton Pirates,Regent Royals,89,60,2023
+2022-11-12,Northwestern State Demons,Illinois State Redbirds,67,69,2023
+2022-11-12,UT Rio Grande Valley Vaqueros,Southwestern Adventist Knights,115,33,2023
+2022-11-12,Morehead State Eagles,Bellarmine Knights,62,55,2023
+2022-11-12,Providence Friars,Northeastern Huskies,89,65,2023
+2022-11-12,UT Arlington Mavericks,Southwestern (TX) Pirates,103,61,2023
+2022-11-12,Southern Utah Thunderbirds,University of Saint Katherine Saint Katherine,91,48,2023
+2022-11-12,Utah Tech Trailblazers,Cal State Northridge Matadors,69,63,2023
+2022-11-12,UTEP Miners,New Mexico State Aggies,67,64,2023
+2022-11-12,Loyola Marymount Lions,UC Davis Aggies,85,75,2023
+2022-11-12,UC San Diego Tritons,Sacramento State Hornets,55,65,2023
+2022-11-14,Baylor Bears,Northern Colorado Bears,95,62,2023
+2022-11-14,UCLA Bruins,Norfolk State Spartans,86,56,2023
+2022-11-14,Creighton Bluejays,Holy Cross Crusaders,94,65,2023
+2022-11-14,TCU Horned Frogs,Northwestern State Demons,63,64,2023
+2022-11-14,Illinois Fighting Illini,Monmouth Hawks,103,65,2023
+2022-11-14,Texas Tech Red Raiders,Louisiana Tech Bulldogs,64,55,2023
+2022-11-15,North Carolina Tar Heels,Gardner-Webb Runnin' Bulldogs,72,66,2023
+2022-11-15,Auburn Tigers,Winthrop Eagles,89,65,2023
+2022-11-15,Stanford Cardinal,San Diego State Aztecs,62,74,2023
+2022-11-15,South Alabama Jaguars,Alabama Crimson Tide,55,65,2023
+2022-11-15,UNLV Rebels,Dayton Flyers,60,52,2023
+2022-11-15,UConn Huskies,Buffalo Bulls,84,64,2023
+2022-11-16,Texas Longhorns,Gonzaga Bulldogs,93,74,2023
+2022-11-16,Arkansas Razorbacks,South Dakota State Jackrabbits,71,56,2023
+2022-11-16,Tennessee Volunteers,Florida Gulf Coast Eagles,81,50,2023
+2022-11-17,Kentucky Wildcats,South Carolina State Bulldogs,106,63,2023
+2022-11-17,Creighton Bluejays,UC Riverside Highlanders,80,51,2023
+2022-11-17,Arizona Wildcats,Utah Tech Trailblazers,104,77,2023
+2022-11-18,Kansas Jayhawks,Southern Utah Thunderbirds,82,76,2023
+2022-11-18,Duke Blue Devils,Delaware Blue Hens,92,58,2023
+2022-11-18,Auburn Tigers,Texas Southern Tigers,72,56,2023
+2022-11-18,Alabama Crimson Tide,Jacksonville State Gamecocks,104,62,2023
+2022-11-18,UConn Huskies,UNC Wilmington Seahawks,86,50,2023
+2022-11-19,Dayton Flyers,Robert Morris Colonials,60,51,2023
+2022-11-20,North Carolina Tar Heels,James Madison Dukes,80,64,2023
+2022-11-20,Gonzaga Bulldogs,Kentucky Wildcats,88,72,2023
+2022-11-20,Oregon Ducks,Houston Cougars,56,66,2023
+2022-11-20,Michigan Wolverines,Ohio Bobcats,70,66,2023
+2022-11-20,UConn Huskies,Delaware State Hornets,95,60,2023
+2022-11-21,Duke Blue Devils,Bellarmine Knights,74,57,2023
+2022-11-22,Sacred Heart Pioneers,NJIT Highlanders,75,85,2023
+2022-11-22,Cornell Big Red,Canisius Golden Griffins,79,70,2023
+2022-11-22,Hartford Hawks,FDU Florham Devils,82,45,2023
+2022-11-22,North Carolina A&T Aggies,St. Andrews Knights,109,57,2023
+2022-11-22,Arkansas State Red Wolves,UT Martin Skyhawks,70,64,2023
+2022-11-22,Notre Dame Fighting Irish,Bowling Green Falcons,82,66,2023
+2022-11-22,Troy Trojans,Southern-New Orleans Knights,118,61,2023
+2022-11-22,Tennessee Tech Golden Eagles,Truett-McConnell Bears,84,48,2023
+2022-11-22,Towson Tigers,Coppin State Eagles,83,67,2023
+2022-11-22,UNC Greensboro Spartans,UMBC Retrievers,76,72,2023
+2022-11-22,George Washington Revolutionaries,UC San Diego Tritons,70,75,2023
+2022-11-22,Fordham Rams,Stonehill Skyhawks,71,60,2023
+2022-11-22,Yale Bulldogs,Vermont Catamounts,73,44,2023
+2022-11-22,St. Bonaventure Bonnies,Southern Indiana Screaming Eagles,80,66,2023
+2022-11-22,Norfolk State Spartans,St. Mary's (MD) Seahawks,91,41,2023
+2022-11-22,Rutgers Scarlet Knights,Rider Broncs,76,46,2023
+2022-11-22,Morehead State Eagles,Kentucky State Thorobreds,114,49,2023
+2022-11-22,Southeast Missouri State Redhawks,William Woods Owls,87,49,2023
+2022-11-22,Jacksonville State Gamecocks,Elon Phoenix,78,53,2023
+2022-11-22,Incarnate Word Cardinals,Our Lady of the Lake Saints,85,76,2023
+2022-11-22,UT Rio Grande Valley Vaqueros,Northern Arizona Lumberjacks,91,79,2023
+2022-11-22,North Texas Mean Green,Paul Quinn Tigers,76,46,2023
+2022-11-22,Nicholls Colonels,Jarvis Christian Bulldogs,97,52,2023
+2022-11-22,Arkansas-Pine Bluff Golden Lions,Crowley's Ridge Pioneers,70,56,2023
+2022-11-22,Northern Colorado Bears,Colorado Christian Cougars,69,70,2023
+2022-11-22,Maryland Eastern Shore Hawks,Marist Red Foxes,70,59,2023
+2022-11-22,North Dakota Fighting Hawks,Wisconsin-Stout Blue Devils,92,61,2023
+2022-11-22,UTSA Roadrunners,Prairie View A&M Panthers,82,75,2023
+2022-11-22,SMU Mustangs,Louisiana Ragin' Cajuns,72,76,2023
+2022-11-22,Lafayette Leopards,Pennsylvania Quakers,68,74,2023
+2022-11-22,Pittsburgh Panthers,Fairleigh Dickinson Knights,83,61,2023
+2022-11-22,Montana Grizzlies,Montana State-Northern Lights,63,51,2023
+2022-11-22,Utah State Aggies,Oral Roberts Golden Eagles,95,85,2023
+2022-11-22,UTEP Miners,Alcorn State Braves,73,61,2023
+2022-11-22,Arizona State Sun Devils,Grambling Tigers,80,49,2023
+2022-11-22,Cal State Fullerton Titans,Westcliff Warriors,78,57,2023
+2022-11-22,Pacific Tigers,Mount St. Mary's Mountaineers,65,69,2023
+2022-11-23,Baylor Bears,McNeese Cowboys,89,60,2023
+2022-11-23,Kentucky Wildcats,North Florida Ospreys,96,56,2023
+2022-11-24,New Orleans Privateers,IU Indianapolis Jaguars,87,84,2023
+2022-11-25,Virginia Cavaliers,Maryland Eastern Shore Hawks,72,45,2023
+2022-11-25,Illinois Fighting Illini,Lindenwood Lions,92,59,2023
+2022-11-25,Maryland Terrapins,Coppin State Eagles,95,79,2023
+2022-11-26,Houston Cougars,Kent State Golden Flashes,49,44,2023
+2022-11-27,Auburn Tigers,Saint Louis Billikens,65,60,2023
+2022-11-27,UCLA Bruins,Bellarmine Knights,81,60,2023
+2022-11-28,Kansas Jayhawks,Texas Southern Tigers,87,55,2023
+2022-11-28,Arkansas Razorbacks,Troy Trojans,74,61,2023
+2022-11-29,Houston Cougars,Norfolk State Spartans,100,52,2023
+2022-11-29,Kentucky Wildcats,Bellarmine Knights,60,41,2023
+2022-11-29,San Diego State Aztecs,UC Irvine Anteaters,72,69,2023
+2022-11-30,Tennessee Volunteers,McNeese Cowboys,76,40,2023
+2022-11-30,Iowa State Cyclones,North Dakota Fighting Hawks,63,44,2023
+2022-12-01,Utah Utes,Arizona Wildcats,81,66,2023
+2022-12-01,Stanford Cardinal,UCLA Bruins,66,80,2023
+2022-12-02,Auburn Tigers,Colgate Raiders,93,66,2023
+2022-12-02,Maryland Terrapins,Illinois Fighting Illini,71,66,2023
+2022-12-02,San Diego State Aztecs,Occidental Tigers,95,57,2023
+2022-12-03,Virginia Cavaliers,Florida State Seminoles,62,57,2023
+2022-12-03,Rutgers Scarlet Knights,Indiana Hoosiers,63,48,2023
+2022-12-03,Arkansas Razorbacks,San José State Spartans,99,58,2023
+2022-12-03,Alabama Crimson Tide,South Dakota State Jackrabbits,78,65,2023
+2022-12-03,Duke Blue Devils,Boston College Eagles,75,59,2023
+2022-12-03,Ohio State Buckeyes,Saint Francis Red Flash,96,59,2023
+2022-12-04,Arizona Wildcats,California Golden Bears,81,68,2023
+2022-12-04,Purdue Boilermakers,Minnesota Golden Gophers,89,70,2023
+2022-12-04,Creighton Bluejays,Nebraska Cornhuskers,53,63,2023
+2022-12-04,Tennessee Volunteers,Alcorn State Braves,94,40,2023
+2022-12-04,Virginia Tech Hokies,North Carolina Tar Heels,80,72,2023
+2022-12-04,Michigan State Spartans,Northwestern Wildcats,63,70,2023
+2022-12-04,UCLA Bruins,Oregon Ducks,65,56,2023
+2022-12-05,Gonzaga Bulldogs,Kent State Golden Flashes,73,66,2023
+2022-12-05,San Diego State Aztecs,Troy Trojans,60,55,2023
+2022-12-06,Houston Cougars,North Florida Ospreys,76,42,2023
+2022-12-06,Virginia Cavaliers,James Madison Dukes,55,50,2023
+2022-12-06,Arkansas Razorbacks,UNC Greensboro Spartans,65,58,2023
+2022-12-06,Baylor Bears,Tarleton State Texans,80,57,2023
+2022-12-06,Wisconsin Badgers,Maryland Terrapins,64,59,2023
+2022-12-06,TCU Horned Frogs,Jackson State Tigers,78,51,2023
+2022-12-07,Purdue Boilermakers,Hofstra Pride,85,66,2023
+2022-12-07,Florida Gators,UConn Huskies,54,75,2023
+2022-12-07,Tennessee Volunteers,Eastern Kentucky Colonels,84,49,2023
+2022-12-07,Indiana Hoosiers,Nebraska Cornhuskers,81,65,2023
+2022-12-08,Iowa Hawkeyes,Iowa State Cyclones,75,56,2023
+2022-12-08,Ohio State Buckeyes,Rutgers Scarlet Knights,67,66,2023
+2022-12-09,Gonzaga Bulldogs,Washington Huskies,77,60,2023
+2022-12-10,Houston Cougars,Alabama Crimson Tide,65,71,2023
+2022-12-10,Nebraska Cornhuskers,Purdue Boilermakers,62,65,2023
+2022-12-10,UConn Huskies,Long Island University Sharks,114,61,2023
+2022-12-10,Missouri Tigers,Kansas Jayhawks,67,95,2023
+2022-12-10,Duke Blue Devils,Maryland Eastern Shore Hawks,82,55,2023
+2022-12-10,Kentucky Wildcats,Yale Bulldogs,69,59,2023
+2022-12-10,Illinois Fighting Illini,Penn State Nittany Lions,59,74,2023
+2022-12-10,UCLA Bruins,Denver Pioneers,87,64,2023
+2022-12-11,Iowa State Cyclones,McNeese Cowboys,77,40,2023
+2022-12-11,Minnesota Golden Gophers,Mississippi State Bulldogs,51,69,2023
+2022-12-12,Texas Longhorns,Rice Owls,87,81,2023
+2022-12-12,Gonzaga Bulldogs,Northern Illinois Huskies,88,67,2023
+2022-12-13,Alabama Crimson Tide,Memphis Tigers,91,88,2023
+2022-12-13,Houston Cougars,North Carolina A&T Aggies,74,46,2023
+2022-12-13,Arizona Wildcats,Texas A&M-Corpus Christi Islanders,99,61,2023
+2022-12-14,Maryland Terrapins,UCLA Bruins,60,87,2023
+2022-12-14,Auburn Tigers,Georgia State Panthers,72,64,2023
+2022-12-15,Wisconsin Badgers,Lehigh Mountain Hawks,78,56,2023
+2022-12-16,Texas A&M-Corpus Christi Islanders,Schreiner Mountaineers,104,69,2023
+2022-12-16,Incarnate Word Cardinals,Bethune-Cookman Wildcats,77,65,2023
+2022-12-16,Georgetown Hoyas,Xavier Musketeers,89,102,2023
+2022-12-16,Manhattan Jaspers,Central Connecticut Blue Devils,67,78,2023
+2022-12-16,Princeton Tigers,Delaware Blue Hens,69,76,2023
+2022-12-16,South Florida Bulls,Dartmouth Big Green,59,55,2023
+2022-12-16,St. Bonaventure Bonnies,Florida Gulf Coast Eagles,58,71,2023
+2022-12-16,Murray State Racers,Austin Peay Governors,68,60,2023
+2022-12-16,Youngstown State Penguins,Southern Jaguars,85,81,2023
+2022-12-16,Tulsa Golden Hurricane,Mississippi Valley State Delta Devils,66,51,2023
+2022-12-16,Southern Illinois Salukis,Chicago State Cougars,63,52,2023
+2022-12-16,Oral Roberts Golden Eagles,Missouri State Bears,80,77,2023
+2022-12-16,Utah Valley Wolverines,Antelope Valley ANTELOPE VALLEY,80,54,2023
+2022-12-16,Stanford Cardinal,Green Bay Phoenix,85,40,2023
+2022-12-16,Marquette Golden Eagles,Creighton Bluejays,69,58,2023
+2022-12-16,Western Illinois Leathernecks,Eureka Red Devils,79,50,2023
+2022-12-16,Idaho Vandals,Northwest Indian RedHawks,125,51,2023
+2022-12-16,Cal Poly Mustangs,Weber State Wildcats,45,74,2023
+2022-12-17,Virginia Cavaliers,Houston Cougars,61,69,2023
+2022-12-17,Butler Bulldogs,UConn Huskies,46,68,2023
+2022-12-17,Arizona Wildcats,Tennessee Volunteers,75,70,2023
+2022-12-17,Kansas Jayhawks,Indiana Hoosiers,84,62,2023
+2022-12-17,Arkansas Razorbacks,Bradley Braves,76,57,2023
+2022-12-17,Mississippi State Bulldogs,Nicholls Colonels,68,66,2023
+2022-12-17,Illinois Fighting Illini,Alabama A&M Bulldogs,68,47,2023
+2022-12-17,Virginia Tech Hokies,Grambling Tigers,74,48,2023
+2022-12-17,Miami Hurricanes,Saint Francis Red Flash,91,76,2023
+2022-12-18,USC Trojans,Auburn Tigers,74,71,2023
+2022-12-18,TCU Horned Frogs,Mississippi Valley State Delta Devils,88,43,2023
+2022-12-19,Bowling Green Falcons,Fairmount State Falcons,93,74,2023
+2022-12-19,Gardner-Webb Runnin' Bulldogs,Bob Jones Bruins,116,55,2023
+2022-12-19,Pepperdine Waves,Cal State Los Angeles Golden Eagles,92,69,2023
+2022-12-19,Nicholls Colonels,Trinity College of Jacksonville Eagles,90,46,2023
+2022-12-19,North Florida Ospreys,Davis & Elkins Senators,105,66,2023
+2022-12-19,Marshall Thundering Herd,Glenville State Pioneers,99,73,2023
+2022-12-19,Rider Broncs,Delaware Blue Hens,59,60,2023
+2022-12-19,Presbyterian Blue Hose,Allen Yellow Jackets,90,70,2023
+2022-12-19,Akron Zips,Maine Black Bears,87,55,2023
+2022-12-19,New Hampshire Wildcats,Holy Cross Crusaders,78,60,2023
+2022-12-19,South Florida Bulls,Hofstra Pride,77,70,2023
+2022-12-19,Purdue Fort Wayne Mastodons,East Texas A&M Lions,85,68,2023
+2022-12-19,UT Martin Skyhawks,Crowley's Ridge Pioneers,120,59,2023
+2022-12-19,Siena Saints,St. Bonaventure Bonnies,76,70,2023
+2022-12-19,Saint Joseph's Hawks,Sacred Heart Pioneers,77,59,2023
+2022-12-19,Marist Red Foxes,Manhattan Jaspers,69,80,2023
+2022-12-19,Liberty Flames,Grambling Tigers,75,56,2023
+2022-12-19,Furman Paladins,Anderson (SC) Trojans,106,79,2023
+2022-12-19,Western Illinois Leathernecks,North Dakota State Bison,79,60,2023
+2022-12-19,Stephen F. Austin Lumberjacks,North American Stallions,83,51,2023
+2022-12-19,Coastal Carolina Chanticleers,Charleston Cougars,69,83,2023
+2022-12-19,South Alabama Jaguars,Spring Hill Badgers,82,53,2023
+2022-12-19,Illinois State Redbirds,Chicago State Cougars,66,52,2023
+2022-12-19,New Orleans Privateers,Dillard Blue Devils,79,71,2023
+2022-12-19,Arkansas State Red Wolves,Alabama State Hornets,72,65,2023
+2022-12-19,Bradley Braves,Stonehill Skyhawks,79,50,2023
+2022-12-19,Rice Owls,Jarvis Christian Bulldogs,109,64,2023
+2022-12-19,St. Thomas-Minnesota Tommies,North Dakota Fighting Hawks,75,62,2023
+2022-12-19,Oral Roberts Golden Eagles,South Dakota State Jackrabbits,79,40,2023
+2022-12-19,Kansas City Roos,South Dakota Coyotes,62,45,2023
+2022-12-19,Omaha Mavericks,Denver Pioneers,83,66,2023
+2022-12-19,Utah Tech Trailblazers,Westmont Warriors,80,53,2023
+2022-12-19,Utah State Aggies,Weber State Wildcats,72,75,2023
+2022-12-19,Cal State Fullerton Titans,San Diego Christian Hawks,87,35,2023
+2022-12-19,San Francisco Dons,UT Arlington Mavericks,63,68,2023
+2022-12-19,Cal State Northridge Matadors,Idaho Vandals,73,76,2023
+2022-12-19,Long Beach State Beach,Life Pacific Warriors,97,52,2023
+2022-12-20,UConn Huskies,Georgetown Hoyas,84,73,2023
+2022-12-20,Arizona Wildcats,Montana State Bobcats,85,64,2023
+2022-12-20,Miami Hurricanes,Virginia Cavaliers,66,64,2023
+2022-12-20,Alabama Crimson Tide,Jackson State Tigers,84,64,2023
+2022-12-20,Gonzaga Bulldogs,Montana Grizzlies,85,75,2023
+2022-12-20,Baylor Bears,Northwestern State Demons,58,48,2023
+2022-12-20,Wake Forest Demon Deacons,Duke Blue Devils,81,70,2023
+2022-12-20,Indiana Hoosiers,Elon Phoenix,96,72,2023
+2022-12-20,Providence Friars,Marquette Golden Eagles,103,98,2023
+2022-12-21,Purdue Boilermakers,New Orleans Privateers,74,53,2023
+2022-12-21,Houston Cougars,McNeese Cowboys,83,44,2023
+2022-12-21,Tennessee Volunteers,Austin Peay Governors,86,44,2023
+2022-12-21,Arkansas Razorbacks,UNC Asheville Bulldogs,85,51,2023
+2022-12-21,UCLA Bruins,UC Davis Aggies,81,54,2023
+2022-12-21,Kentucky Wildcats,Florida A&M Rattlers,88,68,2023
+2022-12-21,Utah Utes,TCU Horned Frogs,71,75,2023
+2022-12-21,Boston College Eagles,Virginia Tech Hokies,70,65,2023
+2022-12-21,Washington Huskies,Auburn Tigers,61,84,2023
+2022-12-21,San Francisco Dons,Arizona State Sun Devils,97,60,2023
+2022-12-22,Kansas Jayhawks,Harvard Crimson,68,54,2023
+2022-12-22,Arizona Wildcats,Morgan State Bears,93,68,2023
+2022-12-23,Indiana Hoosiers,Kennesaw State Owls,69,55,2023
+2022-12-25,Creighton Bluejays,DePaul Blue Demons,80,65,2023
+2022-12-25,Hawai'i Rainbow Warriors,SMU Mustangs,58,57,2023
+2022-12-27,Texas Longhorns,East Texas A&M Lions,97,72,2023
+2022-12-28,UConn Huskies,Villanova Wildcats,74,66,2023
+2022-12-28,Tulsa Golden Hurricane,Houston Cougars,50,89,2023
+2022-12-28,Ole Miss Rebels,Tennessee Volunteers,59,63,2023
+2022-12-28,Mississippi State Bulldogs,Alabama Crimson Tide,67,78,2023
+2022-12-28,LSU Tigers,Arkansas Razorbacks,60,57,2023
+2022-12-28,Gonzaga Bulldogs,Eastern Oregon Mountaineers,120,42,2023
+2022-12-28,Baylor Bears,Nicholls Colonels,85,56,2023
+2022-12-28,Virginia Cavaliers,UAlbany Great Danes,66,46,2023
+2022-12-28,TCU Horned Frogs,Central Arkansas Bears,103,57,2023
+2022-12-28,Missouri Tigers,Kentucky Wildcats,89,75,2023
+2022-12-28,Auburn Tigers,Florida Gators,61,58,2023
+2022-12-28,St. John's Red Storm,Xavier Musketeers,79,84,2023
+2022-12-28,New Mexico Lobos,Colorado State Rams,88,69,2023
+2022-12-29,Purdue Boilermakers,Florida A&M Rattlers,82,49,2023
+2022-12-30,Washington State Cougars,UCLA Bruins,66,67,2023
+2022-12-30,Notre Dame Fighting Irish,Miami Hurricanes,65,76,2023
+2022-12-30,Wisconsin Badgers,Western Michigan Broncos,76,66,2023
+2022-12-30,Pittsburgh Panthers,North Carolina Tar Heels,76,74,2023
+2022-12-31,Xavier Musketeers,UConn Huskies,83,73,2023
+2022-12-31,Houston Cougars,UCF Knights,71,65,2023
+2022-12-31,Kansas Jayhawks,Oklahoma State Cowboys,69,67,2023
+2022-12-31,Arizona State Sun Devils,Arizona Wildcats,60,69,2023
+2022-12-31,Oklahoma Sooners,Texas Longhorns,69,70,2023
+2022-12-31,Gonzaga Bulldogs,Pepperdine Waves,111,88,2023
+2022-12-31,Iowa State Cyclones,Baylor Bears,77,62,2023
+2022-12-31,Georgia Tech Yellow Jackets,Virginia Cavaliers,56,74,2023
+2022-12-31,Duke Blue Devils,Florida State Seminoles,86,67,2023
+2022-12-31,TCU Horned Frogs,Texas Tech Red Raiders,67,61,2023
+2022-12-31,Kentucky Wildcats,Louisville Cardinals,86,63,2023
+2022-12-31,Wyoming Cowboys,New Mexico Lobos,75,76,2023
+2022-12-31,Kansas State Wildcats,West Virginia Mountaineers,82,76,2023
+2023-01-01,Washington Huskies,UCLA Bruins,49,74,2023
+2023-01-02,Purdue Boilermakers,Rutgers Scarlet Knights,64,65,2023
+2023-01-03,Texas Tech Red Raiders,Kansas Jayhawks,72,75,2023
+2023-01-03,Texas Longhorns,Kansas State Wildcats,103,116,2023
+2023-01-03,Alabama Crimson Tide,Ole Miss Rebels,84,62,2023
+2023-01-03,Tennessee Volunteers,Mississippi State Bulldogs,87,53,2023
+2023-01-03,Pittsburgh Panthers,Virginia Cavaliers,68,65,2023
+2023-01-03,Wisconsin Badgers,Minnesota Golden Gophers,63,60,2023
+2023-01-03,Fresno State Bulldogs,New Mexico Lobos,71,67,2023
+2023-01-04,Providence Friars,UConn Huskies,73,61,2023
+2023-01-04,Georgia Tech Yellow Jackets,Miami Hurricanes,76,70,2023
+2023-01-04,Arkansas Razorbacks,Missouri Tigers,74,68,2023
+2023-01-04,NC State Wolfpack,Duke Blue Devils,84,60,2023
+2023-01-04,Baylor Bears,TCU Horned Frogs,87,88,2023
+2023-01-04,Georgia Bulldogs,Auburn Tigers,76,64,2023
+2023-01-04,North Carolina A&T Aggies,Charleston Cougars,79,92,2023
+2023-01-04,Oklahoma Sooners,Iowa State Cyclones,60,63,2023
+2023-01-05,Ohio State Buckeyes,Purdue Boilermakers,69,71,2023
+2023-01-05,Houston Cougars,SMU Mustangs,87,53,2023
+2023-01-05,Arizona Wildcats,Washington Huskies,70,67,2023
+2023-01-05,San Francisco Dons,Gonzaga Bulldogs,75,77,2023
+2023-01-05,UCLA Bruins,USC Trojans,60,58,2023
+2023-01-05,Iowa Hawkeyes,Indiana Hoosiers,91,89,2023
+2023-01-06,Toledo Rockets,Western Michigan Broncos,102,74,2023
+2023-01-06,Columbia Lions,Princeton Tigers,49,68,2023
+2023-01-06,Cornell Big Red,Pennsylvania Quakers,88,69,2023
+2023-01-06,Yale Bulldogs,Dartmouth Big Green,77,81,2023
+2023-01-06,Brown Bears,Harvard Crimson,68,70,2023
+2023-01-06,Siena Saints,Saint Peter's Peacocks,70,60,2023
+2023-01-06,Rider Broncs,Quinnipiac Bobcats,63,72,2023
+2023-01-06,Marist Red Foxes,Iona Gaels,57,84,2023
+2023-01-06,Manhattan Jaspers,Canisius Golden Griffins,57,64,2023
+2023-01-06,Fairfield Stags,Niagara Purple Eagles,69,77,2023
+2023-01-06,Northern Kentucky Norse,Oakland Golden Grizzlies,63,64,2023
+2023-01-06,Wright State Raiders,Detroit Mercy Titans,90,85,2023
+2023-01-06,Ball State Cardinals,Akron Zips,70,63,2023
+2023-01-06,California Golden Bears,Stanford Cardinal,92,70,2023
+2023-01-07,West Virginia Mountaineers,Kansas Jayhawks,62,76,2023
+2023-01-07,UConn Huskies,Creighton Bluejays,69,60,2023
+2023-01-07,Arizona Wildcats,Washington State Cougars,61,74,2023
+2023-01-07,Oklahoma State Cowboys,Texas Longhorns,46,56,2023
+2023-01-07,Alabama Crimson Tide,Kentucky Wildcats,78,52,2023
+2023-01-07,South Carolina Gamecocks,Tennessee Volunteers,42,85,2023
+2023-01-07,Santa Clara Broncos,Gonzaga Bulldogs,76,81,2023
+2023-01-07,Virginia Cavaliers,Syracuse Orange,73,66,2023
+2023-01-07,Auburn Tigers,Arkansas Razorbacks,72,59,2023
+2023-01-07,Illinois Fighting Illini,Wisconsin Badgers,79,69,2023
+2023-01-07,Boston College Eagles,Duke Blue Devils,64,65,2023
+2023-01-07,TCU Horned Frogs,Iowa State Cyclones,67,69,2023
+2023-01-07,Villanova Wildcats,Xavier Musketeers,80,88,2023
+2023-01-07,Baylor Bears,Kansas State Wildcats,95,97,2023
+2023-01-07,Missouri Tigers,Vanderbilt Commodores,85,82,2023
+2023-01-07,New Mexico Lobos,UNLV Rebels,77,84,2023
+2023-01-07,Charleston Cougars,Delaware Blue Hens,75,64,2023
+2023-01-08,Cincinnati Bearcats,Houston Cougars,59,72,2023
+2023-01-08,Indiana Hoosiers,Northwestern Wildcats,83,84,2023
+2023-01-08,Maryland Terrapins,Ohio State Buckeyes,80,73,2023
+2023-01-09,Alcorn State Braves,Alabama State Hornets,92,76,2023
+2023-01-09,Morgan State Bears,South Carolina State Bulldogs,90,85,2023
+2023-01-09,Army Black Knights,Colgate Raiders,75,77,2023
+2023-01-09,Robert Morris Colonials,IU Indianapolis Jaguars,77,70,2023
+2023-01-09,Coppin State Eagles,North Carolina Central Eagles,59,64,2023
+2023-01-09,Chicago State Cougars,East West Phantoms,90,70,2023
+2023-01-09,Maryland Eastern Shore Hawks,Howard Bison,82,73,2023
+2023-01-09,Delaware State Hornets,Norfolk State Spartans,65,78,2023
+2023-01-09,New Mexico Lobos,Oral Roberts Golden Eagles,82,75,2023
+2023-01-09,Jackson State Tigers,Alabama A&M Bulldogs,72,64,2023
+2023-01-09,Mississippi Valley State Delta Devils,Texas Southern Tigers,71,67,2023
+2023-01-09,Grambling Tigers,Florida A&M Rattlers,62,57,2023
+2023-01-09,Southern Jaguars,Bethune-Cookman Wildcats,102,75,2023
+2023-01-09,Arkansas-Pine Bluff Golden Lions,Prairie View A&M Panthers,63,55,2023
+2023-01-10,Kansas Jayhawks,Oklahoma Sooners,79,75,2023
+2023-01-10,Tennessee Volunteers,Vanderbilt Commodores,77,68,2023
+2023-01-10,Kansas State Wildcats,Oklahoma State Cowboys,65,57,2023
+2023-01-10,Virginia Cavaliers,North Carolina Tar Heels,65,58,2023
+2023-01-10,Iowa State Cyclones,Texas Tech Red Raiders,84,50,2023
+2023-01-10,Wisconsin Badgers,Michigan State Spartans,65,69,2023
+2023-01-10,Ole Miss Rebels,Auburn Tigers,73,82,2023
+2023-01-10,San Diego State Aztecs,Nevada Wolf Pack,74,65,2023
+2023-01-11,Houston Cougars,South Florida Bulls,83,77,2023
+2023-01-11,Arkansas Razorbacks,Alabama Crimson Tide,69,84,2023
+2023-01-11,Marquette Golden Eagles,UConn Huskies,82,76,2023
+2023-01-11,Texas Longhorns,TCU Horned Frogs,79,75,2023
+2023-01-11,Xavier Musketeers,Creighton Bluejays,90,87,2023
+2023-01-11,Miami Hurricanes,Boston College Eagles,88,72,2023
+2023-01-11,Texas A&M Aggies,Missouri Tigers,82,64,2023
+2023-01-11,UNC Wilmington Seahawks,Charleston Cougars,69,71,2023
+2023-01-11,Duke Blue Devils,Pittsburgh Panthers,77,69,2023
+2023-01-12,UCLA Bruins,Utah Utes,68,49,2023
+2023-01-12,BYU Cougars,Gonzaga Bulldogs,74,75,2023
+2023-01-12,Oregon State Beavers,Arizona Wildcats,74,86,2023
+2023-01-13,Purdue Boilermakers,Nebraska Cornhuskers,73,55,2023
+2023-01-14,Kansas Jayhawks,Iowa State Cyclones,62,60,2023
+2023-01-14,Alabama Crimson Tide,LSU Tigers,106,66,2023
+2023-01-14,Tennessee Volunteers,Kentucky Wildcats,56,63,2023
+2023-01-14,UCLA Bruins,Colorado Buffaloes,68,54,2023
+2023-01-14,Gonzaga Bulldogs,Portland Pilots,115,75,2023
+2023-01-14,Oregon Ducks,Arizona Wildcats,87,68,2023
+2023-01-14,TCU Horned Frogs,Kansas State Wildcats,82,68,2023
+2023-01-14,Florida State Seminoles,Virginia Cavaliers,58,67,2023
+2023-01-14,Vanderbilt Commodores,Arkansas Razorbacks,97,84,2023
+2023-01-14,NC State Wolfpack,Miami Hurricanes,83,81,2023
+2023-01-14,Indiana Hoosiers,Wisconsin Badgers,63,45,2023
+2023-01-14,Creighton Bluejays,Providence Friars,73,67,2023
+2023-01-14,Florida Gators,Missouri Tigers,73,64,2023
+2023-01-14,Auburn Tigers,Mississippi State Bulldogs,69,63,2023
+2023-01-14,Charleston Cougars,Elon Phoenix,78,60,2023
+2023-01-14,San Diego State Aztecs,New Mexico Lobos,67,76,2023
+2023-01-14,Clemson Tigers,Duke Blue Devils,72,64,2023
+2023-01-15,UConn Huskies,St. John's Red Storm,74,85,2023
+2023-01-15,Xavier Musketeers,Marquette Golden Eagles,80,76,2023
+2023-01-16,Michigan State Spartans,Purdue Boilermakers,63,64,2023
+2023-01-16,Miami Hurricanes,Syracuse Orange,82,78,2023
+2023-01-16,Charleston Cougars,William & Mary Tribe,82,54,2023
+2023-01-16,Western Kentucky Hilltoppers,Florida Atlantic Owls,62,76,2023
+2023-01-17,Tulane Green Wave,Houston Cougars,60,80,2023
+2023-01-17,Kansas State Wildcats,Kansas Jayhawks,83,82,2023
+2023-01-17,Vanderbilt Commodores,Alabama Crimson Tide,66,78,2023
+2023-01-17,Iowa State Cyclones,Texas Longhorns,78,67,2023
+2023-01-17,Mississippi State Bulldogs,Tennessee Volunteers,59,70,2023
+2023-01-17,Wake Forest Demon Deacons,Clemson Tigers,87,77,2023
+2023-01-17,Texas Tech Red Raiders,Baylor Bears,74,81,2023
+2023-01-18,DePaul Blue Demons,Xavier Musketeers,73,72,2023
+2023-01-18,Virginia Cavaliers,Virginia Tech Hokies,78,68,2023
+2023-01-18,West Virginia Mountaineers,TCU Horned Frogs,74,65,2023
+2023-01-18,Seton Hall Pirates,UConn Huskies,67,66,2023
+2023-01-18,LSU Tigers,Auburn Tigers,49,67,2023
+2023-01-18,Marquette Golden Eagles,Providence Friars,83,75,2023
+2023-01-18,Missouri Tigers,Arkansas Razorbacks,79,76,2023
+2023-01-19,Minnesota Golden Gophers,Purdue Boilermakers,39,61,2023
+2023-01-19,Arizona State Sun Devils,UCLA Bruins,62,74,2023
+2023-01-19,Gonzaga Bulldogs,Loyola Marymount Lions,67,68,2023
+2023-01-19,Arizona Wildcats,USC Trojans,81,66,2023
+2023-01-19,Monmouth Hawks,Charleston Cougars,55,69,2023
+2023-01-19,Michigan State Spartans,Rutgers Scarlet Knights,70,57,2023
+2023-01-19,UTSA Roadrunners,Florida Atlantic Owls,64,83,2023
+2023-01-20,Kent State Golden Flashes,Ball State Cardinals,86,65,2023
+2023-01-20,Siena Saints,Mount St. Mary's Mountaineers,72,57,2023
+2023-01-20,Rider Broncs,Niagara Purple Eagles,65,62,2023
+2023-01-20,Marist Red Foxes,Saint Peter's Peacocks,57,61,2023
+2023-01-20,Manhattan Jaspers,Iona Gaels,76,84,2023
+2023-01-20,Fairfield Stags,Canisius Golden Griffins,67,58,2023
+2023-01-20,St. John's Red Storm,Villanova Wildcats,49,57,2023
+2023-01-20,Richmond Spiders,VCU Rams,62,74,2023
+2023-01-20,Saint Francis Red Flash,St. Francis Brooklyn Terriers,87,61,2023
+2023-01-20,Long Island University Sharks,Stonehill Skyhawks,66,73,2023
+2023-01-20,Wagner Seahawks,Central Connecticut Blue Devils,72,50,2023
+2023-01-20,Fairleigh Dickinson Knights,Sacred Heart Pioneers,85,92,2023
+2023-01-20,Buffalo Bulls,Toledo Rockets,77,86,2023
+2023-01-20,New Mexico Lobos,Boise State Broncos,81,79,2023
+2023-01-21,Kansas Jayhawks,TCU Horned Frogs,60,83,2023
+2023-01-21,Missouri Tigers,Alabama Crimson Tide,64,85,2023
+2023-01-21,Arizona Wildcats,UCLA Bruins,58,52,2023
+2023-01-21,Pacific Tigers,Gonzaga Bulldogs,90,99,2023
+2023-01-21,West Virginia Mountaineers,Texas Longhorns,61,69,2023
+2023-01-21,Xavier Musketeers,Georgetown Hoyas,95,82,2023
+2023-01-21,LSU Tigers,Tennessee Volunteers,56,77,2023
+2023-01-21,Wake Forest Demon Deacons,Virginia Cavaliers,67,76,2023
+2023-01-21,Oklahoma State Cowboys,Iowa State Cyclones,61,59,2023
+2023-01-21,Kansas State Wildcats,Texas Tech Red Raiders,68,58,2023
+2023-01-21,South Carolina Gamecocks,Auburn Tigers,66,81,2023
+2023-01-21,Duke Blue Devils,Miami Hurricanes,68,66,2023
+2023-01-21,Northeastern Huskies,Charleston Cougars,61,87,2023
+2023-01-21,Clemson Tigers,Virginia Tech Hokies,51,50,2023
+2023-01-21,Seton Hall Pirates,Marquette Golden Eagles,53,74,2023
+2023-01-21,Oklahoma Sooners,Baylor Bears,60,62,2023
+2023-01-21,Providence Friars,DePaul Blue Demons,75,64,2023
+2023-01-21,UTEP Miners,Florida Atlantic Owls,59,67,2023
+2023-01-21,Arkansas Razorbacks,Ole Miss Rebels,69,57,2023
+2023-01-22,Houston Cougars,Temple Owls,55,56,2023
+2023-01-22,Purdue Boilermakers,Maryland Terrapins,58,55,2023
+2023-01-22,UConn Huskies,Butler Bulldogs,86,56,2023
+2023-01-23,Baylor Bears,Kansas Jayhawks,75,69,2023
+2023-01-23,Nevada Wolf Pack,New Mexico Lobos,97,94,2023
+2023-01-24,Iowa State Cyclones,Kansas State Wildcats,80,76,2023
+2023-01-24,Texas Longhorns,Oklahoma State Cowboys,89,75,2023
+2023-01-24,TCU Horned Frogs,Oklahoma Sooners,79,52,2023
+2023-01-24,Florida State Seminoles,Miami Hurricanes,63,86,2023
+2023-01-24,Clemson Tigers,Georgia Tech Yellow Jackets,72,51,2023
+2023-01-25,Alabama Crimson Tide,Mississippi State Bulldogs,66,63,2023
+2023-01-25,UCF Knights,Houston Cougars,71,82,2023
+2023-01-25,Tennessee Volunteers,Georgia Bulldogs,70,41,2023
+2023-01-25,UConn Huskies,Xavier Musketeers,79,82,2023
+2023-01-25,Auburn Tigers,Texas A&M Aggies,63,79,2023
+2023-01-25,Providence Friars,Butler Bulldogs,79,58,2023
+2023-01-26,Michigan Wolverines,Purdue Boilermakers,70,75,2023
+2023-01-26,Washington State Cougars,Arizona Wildcats,58,63,2023
+2023-01-26,USC Trojans,UCLA Bruins,77,64,2023
+2023-01-26,Florida Atlantic Owls,Middle Tennessee Blue Raiders,85,67,2023
+2023-01-27,New Mexico Lobos,Air Force Falcons,81,73,2023
+2023-01-28,Houston Cougars,Cincinnati Bearcats,75,69,2023
+2023-01-28,Washington Huskies,Arizona Wildcats,72,95,2023
+2023-01-28,Virginia Cavaliers,Boston College Eagles,76,57,2023
+2023-01-28,Creighton Bluejays,Xavier Musketeers,84,67,2023
+2023-01-28,Portland Pilots,Gonzaga Bulldogs,67,82,2023
+2023-01-28,DePaul Blue Demons,Marquette Golden Eagles,69,89,2023
+2023-01-28,Charleston Cougars,Hofstra Pride,81,85,2023
+2023-01-28,Pittsburgh Panthers,Miami Hurricanes,71,68,2023
+2023-01-28,Florida Atlantic Owls,Western Kentucky Hilltoppers,70,63,2023
+2023-01-28,Florida State Seminoles,Clemson Tigers,81,82,2023
+2023-01-29,Purdue Boilermakers,Michigan State Spartans,77,61,2023
+2023-01-29,Villanova Wildcats,Providence Friars,65,70,2023
+2023-01-30,Syracuse Orange,Virginia Cavaliers,62,67,2023
+2023-01-30,Texas Longhorns,Baylor Bears,76,71,2023
+2023-01-30,Texas Tech Red Raiders,Iowa State Cyclones,80,77,2023
+2023-01-31,Alabama Crimson Tide,Vanderbilt Commodores,101,44,2023
+2023-01-31,Kansas Jayhawks,Kansas State Wildcats,90,78,2023
+2023-01-31,TCU Horned Frogs,West Virginia Mountaineers,76,72,2023
+2023-01-31,Boston College Eagles,Clemson Tigers,62,54,2023
+2023-01-31,Maryland Terrapins,Indiana Hoosiers,66,55,2023
+2023-01-31,Nevada Wolf Pack,San Diego State Aztecs,75,66,2023
+2023-01-31,Miami Hurricanes,Virginia Tech Hokies,92,83,2023
+2023-01-31,DePaul Blue Demons,UConn Huskies,76,90,2023
+2023-02-01,Purdue Boilermakers,Penn State Nittany Lions,80,60,2023
+2023-02-01,Florida Gators,Tennessee Volunteers,67,54,2023
+2023-02-01,Marquette Golden Eagles,Villanova Wildcats,73,64,2023
+2023-02-01,Xavier Musketeers,Providence Friars,85,83,2023
+2023-02-02,Wichita State Shockers,Houston Cougars,61,70,2023
+2023-02-02,Arizona Wildcats,Oregon Ducks,91,76,2023
+2023-02-02,UCLA Bruins,Washington Huskies,70,61,2023
+2023-02-02,Gonzaga Bulldogs,Santa Clara Broncos,88,70,2023
+2023-02-02,Saint Mary's Gaels,San Francisco Dons,68,59,2023
+2023-02-02,UAB Blazers,Florida Atlantic Owls,86,77,2023
+2023-02-03,San Diego State Aztecs,Boise State Broncos,72,52,2023
+2023-02-04,Indiana Hoosiers,Purdue Boilermakers,79,74,2023
+2023-02-04,Tennessee Volunteers,Auburn Tigers,46,43,2023
+2023-02-04,LSU Tigers,Alabama Crimson Tide,69,79,2023
+2023-02-04,Arizona Wildcats,Oregon State Beavers,84,52,2023
+2023-02-04,Virginia Tech Hokies,Virginia Cavaliers,74,68,2023
+2023-02-04,Kansas State Wildcats,Texas Longhorns,66,69,2023
+2023-02-04,Iowa State Cyclones,Kansas Jayhawks,68,53,2023
+2023-02-04,UCLA Bruins,Washington State Cougars,76,52,2023
+2023-02-04,Baylor Bears,Texas Tech Red Raiders,89,62,2023
+2023-02-04,Saint Mary's Gaels,Gonzaga Bulldogs,78,70,2023
+2023-02-04,Marquette Golden Eagles,Butler Bulldogs,60,52,2023
+2023-02-04,Oklahoma State Cowboys,TCU Horned Frogs,79,73,2023
+2023-02-04,Xavier Musketeers,St. John's Red Storm,96,71,2023
+2023-02-04,Charlotte 49ers,Florida Atlantic Owls,52,67,2023
+2023-02-04,Clemson Tigers,Miami Hurricanes,74,78,2023
+2023-02-04,Georgetown Hoyas,UConn Huskies,62,68,2023
+2023-02-05,Temple Owls,Houston Cougars,65,81,2023
+2023-02-06,Kansas Jayhawks,Texas Longhorns,88,80,2023
+2023-02-06,Miami Hurricanes,Duke Blue Devils,81,59,2023
+2023-02-07,Virginia Cavaliers,NC State Wolfpack,63,50,2023
+2023-02-07,UConn Huskies,Marquette Golden Eagles,87,72,2023
+2023-02-07,Kansas State Wildcats,TCU Horned Frogs,82,61,2023
+2023-02-07,Indiana Hoosiers,Rutgers Scarlet Knights,66,60,2023
+2023-02-08,Houston Cougars,Tulsa Golden Hurricane,80,42,2023
+2023-02-08,Alabama Crimson Tide,Florida Gators,97,69,2023
+2023-02-08,Vanderbilt Commodores,Tennessee Volunteers,66,65,2023
+2023-02-08,West Virginia Mountaineers,Iowa State Cyclones,76,71,2023
+2023-02-08,Baylor Bears,Oklahoma Sooners,82,72,2023
+2023-02-08,Providence Friars,Georgetown Hoyas,74,62,2023
+2023-02-08,Seton Hall Pirates,Creighton Bluejays,62,75,2023
+2023-02-08,Utah State Aggies,San Diego State Aztecs,61,63,2023
+2023-02-09,Purdue Boilermakers,Iowa Hawkeyes,87,73,2023
+2023-02-09,California Golden Bears,Arizona Wildcats,62,85,2023
+2023-02-09,Oregon State Beavers,UCLA Bruins,47,62,2023
+2023-02-09,Loyola Marymount Lions,Saint Mary's Gaels,78,74,2023
+2023-02-09,Gonzaga Bulldogs,San Francisco Dons,99,81,2023
+2023-02-10,Butler Bulldogs,Xavier Musketeers,69,67,2023
+2023-02-11,Auburn Tigers,Alabama Crimson Tide,69,77,2023
+2023-02-11,Stanford Cardinal,Arizona Wildcats,88,79,2023
+2023-02-11,Texas Longhorns,West Virginia Mountaineers,94,60,2023
+2023-02-11,Tennessee Volunteers,Missouri Tigers,85,86,2023
+2023-02-11,Oregon Ducks,UCLA Bruins,63,70,2023
+2023-02-11,Oklahoma Sooners,Kansas Jayhawks,55,78,2023
+2023-02-11,Georgetown Hoyas,Marquette Golden Eagles,75,89,2023
+2023-02-11,Iowa State Cyclones,Oklahoma State Cowboys,56,64,2023
+2023-02-11,Texas Tech Red Raiders,Kansas State Wildcats,71,63,2023
+2023-02-11,TCU Horned Frogs,Baylor Bears,68,72,2023
+2023-02-11,Portland Pilots,Saint Mary's Gaels,64,81,2023
+2023-02-11,Gonzaga Bulldogs,BYU Cougars,88,81,2023
+2023-02-11,Michigan Wolverines,Indiana Hoosiers,61,62,2023
+2023-02-11,Miami Hurricanes,Louisville Cardinals,93,85,2023
+2023-02-11,St. John's Red Storm,Providence Friars,73,68,2023
+2023-02-11,Creighton Bluejays,UConn Huskies,56,53,2023
+2023-02-11,Boston College Eagles,NC State Wolfpack,62,92,2023
+2023-02-11,Illinois Fighting Illini,Rutgers Scarlet Knights,69,60,2023
+2023-02-11,San Diego State Aztecs,UNLV Rebels,82,71,2023
+2023-02-12,Northwestern Wildcats,Purdue Boilermakers,64,58,2023
+2023-02-13,Texas Tech Red Raiders,Texas Longhorns,74,67,2023
+2023-02-13,Baylor Bears,West Virginia Mountaineers,79,67,2023
+2023-02-13,North Carolina Tar Heels,Miami Hurricanes,72,80,2023
+2023-02-14,Oklahoma State Cowboys,Kansas Jayhawks,76,87,2023
+2023-02-14,Oklahoma Sooners,Kansas State Wildcats,79,65,2023
+2023-02-14,Providence Friars,Creighton Bluejays,94,86,2023
+2023-02-14,Syracuse Orange,NC State Wolfpack,75,72,2023
+2023-02-15,Tennessee Volunteers,Alabama Crimson Tide,68,59,2023
+2023-02-15,Louisville Cardinals,Virginia Cavaliers,58,61,2023
+2023-02-15,Marquette Golden Eagles,Xavier Musketeers,69,68,2023
+2023-02-15,Northwestern Wildcats,Indiana Hoosiers,64,62,2023
+2023-02-15,Iowa State Cyclones,TCU Horned Frogs,70,59,2023
+2023-02-15,Fresno State Bulldogs,San Diego State Aztecs,43,45,2023
+2023-02-16,SMU Mustangs,Houston Cougars,65,80,2023
+2023-02-16,Maryland Terrapins,Purdue Boilermakers,68,54,2023
+2023-02-16,UCLA Bruins,Stanford Cardinal,73,64,2023
+2023-02-16,Arizona Wildcats,Utah Utes,88,62,2023
+2023-02-16,Loyola Marymount Lions,Gonzaga Bulldogs,65,108,2023
+2023-02-16,San Diego Toreros,Saint Mary's Gaels,59,62,2023
+2023-02-16,Middle Tennessee Blue Raiders,Florida Atlantic Owls,74,70,2023
+2023-02-17,Cornell Big Red,Dartmouth Big Green,95,83,2023
+2023-02-17,Kent State Golden Flashes,Eastern Michigan Eagles,81,54,2023
+2023-02-17,Pennsylvania Quakers,Yale Bulldogs,66,64,2023
+2023-02-17,Columbia Lions,Harvard Crimson,65,83,2023
+2023-02-17,Princeton Tigers,Brown Bears,78,67,2023
+2023-02-17,Rider Broncs,Canisius Golden Griffins,78,81,2023
+2023-02-17,Mount St. Mary's Mountaineers,Niagara Purple Eagles,70,66,2023
+2023-02-17,Marist Red Foxes,Fairfield Stags,61,70,2023
+2023-02-17,Iona Gaels,Manhattan Jaspers,71,60,2023
+2023-02-17,Loyola Chicago Ramblers,Dayton Flyers,49,65,2023
+2023-02-17,Cleveland State Vikings,Wright State Raiders,85,68,2023
+2023-02-17,Purdue Fort Wayne Mastodons,Northern Kentucky Norse,50,63,2023
+2023-02-17,Oakland Golden Grizzlies,Detroit Mercy Titans,74,96,2023
+2023-02-17,Chicago State Cougars,Calumet St. Joseph Crimson Wave,103,56,2023
+2023-02-17,Siena Saints,Quinnipiac Bobcats,63,66,2023
+2023-02-17,Southern Utah Thunderbirds,Utah Tech Trailblazers,81,71,2023
+2023-02-17,Wyoming Cowboys,Air Force Falcons,69,75,2023
+2023-02-17,San José State Spartans,New Mexico Lobos,68,96,2023
+2023-02-17,Grand Canyon Lopes,Abilene Christian Wildcats,94,84,2023
+2023-02-18,Alabama Crimson Tide,Georgia Bulldogs,108,59,2023
+2023-02-18,UCLA Bruins,California Golden Bears,78,43,2023
+2023-02-18,Kansas Jayhawks,Baylor Bears,87,71,2023
+2023-02-18,Texas Longhorns,Oklahoma Sooners,85,83,2023
+2023-02-18,Virginia Cavaliers,Notre Dame Fighting Irish,57,55,2023
+2023-02-18,Arizona Wildcats,Colorado Buffaloes,78,68,2023
+2023-02-18,Kentucky Wildcats,Tennessee Volunteers,66,54,2023
+2023-02-18,Kansas State Wildcats,Iowa State Cyclones,61,55,2023
+2023-02-18,Pepperdine Waves,Gonzaga Bulldogs,88,97,2023
+2023-02-18,Indiana Hoosiers,Illinois Fighting Illini,71,68,2023
+2023-02-18,Miami Hurricanes,Wake Forest Demon Deacons,96,87,2023
+2023-02-18,Xavier Musketeers,DePaul Blue Demons,82,68,2023
+2023-02-18,Saint Mary's Gaels,BYU Cougars,71,65,2023
+2023-02-18,St. John's Red Storm,Creighton Bluejays,67,77,2023
+2023-02-18,UConn Huskies,Seton Hall Pirates,64,55,2023
+2023-02-18,TCU Horned Frogs,Oklahoma State Cowboys,100,75,2023
+2023-02-18,Providence Friars,Villanova Wildcats,85,72,2023
+2023-02-19,Houston Cougars,Memphis Tigers,72,64,2023
+2023-02-19,Purdue Boilermakers,Ohio State Buckeyes,82,55,2023
+2023-02-19,NC State Wolfpack,North Carolina Tar Heels,77,69,2023
+2023-02-20,TCU Horned Frogs,Kansas Jayhawks,58,63,2023
+2023-02-21,Texas Longhorns,Iowa State Cyclones,72,54,2023
+2023-02-21,Kansas State Wildcats,Baylor Bears,75,65,2023
+2023-02-21,Creighton Bluejays,Marquette Golden Eagles,71,73,2023
+2023-02-21,Texas A&M Aggies,Tennessee Volunteers,68,63,2023
+2023-02-21,Virginia Tech Hokies,Miami Hurricanes,70,76,2023
+2023-02-21,Xavier Musketeers,Villanova Wildcats,63,64,2023
+2023-02-21,Michigan State Spartans,Indiana Hoosiers,80,65,2023
+2023-02-21,San Diego State Aztecs,Colorado State Rams,77,58,2023
+2023-02-22,Houston Cougars,Tulane Green Wave,89,59,2023
+2023-02-22,South Carolina Gamecocks,Alabama Crimson Tide,76,78,2023
+2023-02-22,Boston College Eagles,Virginia Cavaliers,63,48,2023
+2023-02-22,UConn Huskies,Providence Friars,87,69,2023
+2023-02-23,Utah Utes,UCLA Bruins,71,78,2023
+2023-02-23,Gonzaga Bulldogs,San Diego Toreros,97,72,2023
+2023-02-23,Saint Mary's Gaels,Pacific Tigers,83,52,2023
+2023-02-23,Illinois Fighting Illini,Northwestern Wildcats,66,62,2023
+2023-02-24,Seton Hall Pirates,Xavier Musketeers,60,82,2023
+2023-02-25,East Carolina Pirates,Houston Cougars,57,76,2023
+2023-02-25,Alabama Crimson Tide,Arkansas Razorbacks,86,83,2023
+2023-02-25,Kansas Jayhawks,West Virginia Mountaineers,76,74,2023
+2023-02-25,Purdue Boilermakers,Indiana Hoosiers,71,79,2023
+2023-02-25,North Carolina Tar Heels,Virginia Cavaliers,71,63,2023
+2023-02-25,Arizona Wildcats,Arizona State Sun Devils,88,89,2023
+2023-02-25,Baylor Bears,Texas Longhorns,81,72,2023
+2023-02-25,Marquette Golden Eagles,DePaul Blue Demons,90,84,2023
+2023-02-25,Tennessee Volunteers,South Carolina Gamecocks,85,45,2023
+2023-02-25,Gonzaga Bulldogs,Saint Mary's Gaels,77,68,2023
+2023-02-25,Miami Hurricanes,Florida State Seminoles,84,85,2023
+2023-02-25,Oklahoma State Cowboys,Kansas State Wildcats,68,73,2023
+2023-02-25,St. John's Red Storm,UConn Huskies,86,95,2023
+2023-02-25,Villanova Wildcats,Creighton Bluejays,79,67,2023
+2023-02-25,New Mexico Lobos,San Diego State Aztecs,71,73,2023
+2023-02-25,Iowa State Cyclones,Oklahoma Sooners,50,61,2023
+2023-02-25,Texas Tech Red Raiders,TCU Horned Frogs,82,83,2023
+2023-02-25,Mississippi State Bulldogs,Texas A&M Aggies,69,62,2023
+2023-02-26,Colorado Buffaloes,UCLA Bruins,56,60,2023
+2023-02-26,Georgetown Hoyas,Providence Friars,68,88,2023
+2023-02-26,Maryland Terrapins,Northwestern Wildcats,75,59,2023
+2023-02-27,Oklahoma State Cowboys,Baylor Bears,68,74,2023
+2023-02-28,Kansas Jayhawks,Texas Tech Red Raiders,67,63,2023
+2023-02-28,Butler Bulldogs,Marquette Golden Eagles,56,72,2023
+2023-02-28,Tennessee Volunteers,Arkansas Razorbacks,75,57,2023
+2023-02-28,Virginia Cavaliers,Clemson Tigers,64,57,2023
+2023-02-28,Indiana Hoosiers,Iowa Hawkeyes,68,90,2023
+2023-02-28,Boise State Broncos,San Diego State Aztecs,66,60,2023
+2023-02-28,Ole Miss Rebels,Texas A&M Aggies,61,69,2023
+2023-03-01,Alabama Crimson Tide,Auburn Tigers,90,85,2023
+2023-03-01,TCU Horned Frogs,Texas Longhorns,75,73,2023
+2023-03-01,Gonzaga Bulldogs,Chicago State Cougars,104,65,2023
+2023-03-01,Kansas State Wildcats,Oklahoma Sooners,85,69,2023
+2023-03-01,UConn Huskies,DePaul Blue Demons,88,59,2023
+2023-03-01,Providence Friars,Xavier Musketeers,89,94,2023
+2023-03-01,Ohio State Buckeyes,Maryland Terrapins,73,62,2023
+2023-03-01,Kentucky Wildcats,Vanderbilt Commodores,66,68,2023
+2023-03-01,Notre Dame Fighting Irish,Pittsburgh Panthers,88,81,2023
+2023-03-02,Houston Cougars,Wichita State Shockers,83,66,2023
+2023-03-02,UCLA Bruins,Arizona State Sun Devils,79,61,2023
+2023-03-02,Wisconsin Badgers,Purdue Boilermakers,61,63,2023
+2023-03-02,USC Trojans,Arizona Wildcats,81,87,2023
+2023-03-03,Northern Illinois Huskies,Eastern Michigan Eagles,85,66,2023
+2023-03-03,Kent State Golden Flashes,Akron Zips,89,84,2023
+2023-03-03,Ball State Cardinals,Toledo Rockets,81,87,2023
+2023-03-03,Tulane Green Wave,East Carolina Pirates,81,78,2023
+2023-03-03,Saint Louis Billikens,Dayton Flyers,65,61,2023
+2023-03-03,Buffalo Bulls,Miami (OH) RedHawks,68,63,2023
+2023-03-03,Western Michigan Broncos,Central Michigan Chippewas,81,65,2023
+2023-03-03,Sam Houston Bearkats,Abilene Christian Wildcats,72,54,2023
+2023-03-03,Tarleton State Texans,New Mexico State Aggies,2,0,2023
+2023-03-03,Utah Valley Wolverines,Stephen F. Austin Lumberjacks,113,69,2023
+2023-03-03,Ohio Bobcats,Bowling Green Falcons,92,58,2023
+2023-03-03,Southern Utah Thunderbirds,California Baptist Lancers,81,71,2023
+2023-03-03,Utah Tech Trailblazers,Grand Canyon Lopes,61,71,2023
+2023-03-03,Seattle U Redhawks,UT Arlington Mavericks,80,56,2023
+2023-03-03,Colorado State Rams,New Mexico Lobos,92,84,2023
+2023-03-04,Texas A&M Aggies,Alabama Crimson Tide,67,61,2023
+2023-03-04,Texas Longhorns,Kansas Jayhawks,75,59,2023
+2023-03-04,UCLA Bruins,Arizona Wildcats,82,73,2023
+2023-03-04,Marquette Golden Eagles,St. John's Red Storm,96,94,2023
+2023-03-04,Baylor Bears,Iowa State Cyclones,58,73,2023
+2023-03-04,West Virginia Mountaineers,Kansas State Wildcats,89,81,2023
+2023-03-04,Auburn Tigers,Tennessee Volunteers,79,70,2023
+2023-03-04,Virginia Cavaliers,Louisville Cardinals,75,60,2023
+2023-03-04,Villanova Wildcats,UConn Huskies,59,71,2023
+2023-03-04,Miami Hurricanes,Pittsburgh Panthers,78,76,2023
+2023-03-04,San Diego State Aztecs,Wyoming Cowboys,67,50,2023
+2023-03-04,Xavier Musketeers,Butler Bulldogs,78,66,2023
+2023-03-04,Providence Friars,Seton Hall Pirates,58,82,2023
+2023-03-04,Oklahoma Sooners,TCU Horned Frogs,74,60,2023
+2023-03-04,Arkansas Razorbacks,Kentucky Wildcats,79,88,2023
+2023-03-05,Memphis Tigers,Houston Cougars,65,67,2023
+2023-03-05,Purdue Boilermakers,Illinois Fighting Illini,76,71,2023
+2023-03-05,Indiana Hoosiers,Michigan Wolverines,75,73,2023
+2023-03-05,Penn State Nittany Lions,Maryland Terrapins,65,64,2023
+2023-03-07,UMass Lowell River Hawks,New Hampshire Wildcats,75,64,2023
+2023-03-07,Vermont Catamounts,Binghamton Bearcats,79,57,2023
+2023-03-07,Merrimack Warriors,Fairleigh Dickinson Knights,67,66,2023
+2023-03-08,Colgate Raiders,Lafayette Leopards,79,61,2023
+2023-03-11,Vermont Catamounts,UMass Lowell River Hawks,72,59,2023
+2023-03-11,Princeton Tigers,Pennsylvania Quakers,77,70,2023

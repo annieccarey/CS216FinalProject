@@ -1,0 +1,743 @@
+date,home_team,away_team,home_score,away_score,season
+2023-11-06,Kansas Jayhawks,North Carolina Central Eagles,99,56,2024
+2023-11-06,Duke Blue Devils,Dartmouth Big Green,92,54,2024
+2023-11-06,Purdue Boilermakers,Samford Bulldogs,98,45,2024
+2023-11-06,Michigan State Spartans,James Madison Dukes,76,79,2024
+2023-11-06,Marquette Golden Eagles,Northern Illinois Huskies,92,70,2024
+2023-11-06,UConn Huskies,Northern Arizona Lumberjacks,95,52,2024
+2023-11-06,Houston Cougars,UL Monroe Warhawks,84,31,2024
+2023-11-06,Tennessee Volunteers,Tennessee Tech Golden Eagles,80,42,2024
+2023-11-06,Arizona Wildcats,Morgan State Bears,122,59,2024
+2023-11-06,Miami Hurricanes,NJIT Highlanders,101,60,2024
+2023-11-06,Arkansas Razorbacks,Alcorn State Braves,93,59,2024
+2023-11-06,Texas A&M Aggies,East Texas A&M Lions,78,46,2024
+2023-11-06,Kentucky Wildcats,New Mexico State Aggies,86,46,2024
+2023-11-06,San Diego State Aztecs,Cal State Fullerton Titans,83,57,2024
+2023-11-06,Texas Longhorns,Incarnate Word Cardinals,88,56,2024
+2023-11-06,North Carolina Tar Heels,Radford Highlanders,86,70,2024
+2023-11-06,Villanova Wildcats,American University Eagles,90,63,2024
+2023-11-06,Saint Mary's Gaels,Stanislaus State Warriors,107,28,2024
+2023-11-06,Alabama Crimson Tide,Morehead State Eagles,105,73,2024
+2023-11-06,Illinois Fighting Illini,Eastern Illinois Panthers,80,52,2024
+2023-11-07,Creighton Bluejays,Florida A&M Rattlers,105,54,2024
+2023-11-09,Michigan State Spartans,Southern Indiana Screaming Eagles,74,51,2024
+2023-11-09,Baylor Bears,John Brown Golden Eagles,96,70,2024
+2023-11-09,USC Trojans,Cal State Bakersfield Roadrunners,85,59,2024
+2023-11-09,Saint Mary's Gaels,New Mexico Lobos,72,58,2024
+2023-11-10,Kansas Jayhawks,Manhattan Jaspers,99,61,2024
+2023-11-10,Duke Blue Devils,Arizona Wildcats,73,78,2024
+2023-11-10,Purdue Boilermakers,Morehead State Eagles,87,57,2024
+2023-11-10,Marquette Golden Eagles,Rider Broncs,95,65,2024
+2023-11-10,Wisconsin Badgers,Tennessee Volunteers,70,80,2024
+2023-11-10,Gonzaga Bulldogs,Yale Bulldogs,86,71,2024
+2023-11-10,Miami Hurricanes,UCF Knights,88,72,2024
+2023-11-10,Arkansas Razorbacks,Gardner-Webb Runnin' Bulldogs,86,68,2024
+2023-11-10,Ohio State Buckeyes,Texas A&M Aggies,66,73,2024
+2023-11-10,Kentucky Wildcats,East Texas A&M Lions,81,61,2024
+2023-11-10,BYU Cougars,San Diego State Aztecs,74,65,2024
+2023-11-10,Texas Longhorns,Delaware State Hornets,86,59,2024
+2023-11-10,Villanova Wildcats,Le Moyne Dolphins,83,57,2024
+2023-11-10,Alabama Crimson Tide,Indiana State Sycamores,102,80,2024
+2023-11-10,Illinois Fighting Illini,Oakland Golden Grizzlies,64,53,2024
+2023-11-11,UConn Huskies,Stonehill Skyhawks,107,67,2024
+2023-11-11,Houston Cougars,Texas A&M-Corpus Christi Islanders,82,50,2024
+2023-11-11,Creighton Bluejays,North Dakota State Bison,89,60,2024
+2023-11-12,North Carolina Tar Heels,Lehigh Mountain Hawks,90,68,2024
+2023-11-12,Baylor Bears,Gardner-Webb Runnin' Bulldogs,77,62,2024
+2023-11-12,Saint Mary's Gaels,Weber State Wildcats,57,61,2024
+2023-11-13,Purdue Boilermakers,Xavier Musketeers,83,71,2024
+2023-11-13,Arizona Wildcats,Southern Jaguars,97,59,2024
+2023-11-13,Houston Cougars,Stetson Hatters,79,48,2024
+2023-11-13,Miami Hurricanes,Florida International Panthers,86,80,2024
+2023-11-13,Arkansas Razorbacks,Old Dominion Monarchs,86,77,2024
+2023-11-13,Pennsylvania Quakers,Villanova Wildcats,76,72,2024
+2023-11-14,Illinois Fighting Illini,Marquette Golden Eagles,64,71,2024
+2023-11-14,UConn Huskies,Mississippi Valley State Delta Devils,87,53,2024
+2023-11-14,Tennessee Volunteers,Wofford Terriers,82,61,2024
+2023-11-14,Creighton Bluejays,Iowa Hawkeyes,92,84,2024
+2023-11-14,Florida Atlantic Owls,Eastern Michigan Eagles,100,57,2024
+2023-11-14,Gonzaga Bulldogs,Eastern Oregon Mountaineers,123,57,2024
+2023-11-14,SMU Mustangs,Texas A&M Aggies,66,79,2024
+2023-11-14,Baylor Bears,Kansas City Roos,99,61,2024
+2023-11-14,USC Trojans,UC Irvine Anteaters,60,70,2024
+2023-11-14,Alabama Crimson Tide,South Alabama Jaguars,102,46,2024
+2023-11-14,Colorado Buffaloes,Milwaukee Panthers,106,79,2024
+2023-11-15,Texas Longhorns,Rice Owls,80,64,2024
+2023-11-17,Arizona Wildcats,Belmont Bruins,100,68,2024
+2023-11-17,Duke Blue Devils,Bucknell Bison,90,60,2024
+2023-11-17,Texas A&M Aggies,Oral Roberts Golden Eagles,74,66,2024
+2023-11-17,Arkansas Razorbacks,UNC Greensboro Spartans,72,78,2024
+2023-11-17,Kentucky Wildcats,Stonehill Skyhawks,101,67,2024
+2023-11-17,Michigan State Spartans,Butler Bulldogs,74,54,2024
+2023-11-17,North Carolina Tar Heels,UC Riverside Highlanders,77,52,2024
+2023-11-17,Villanova Wildcats,Maryland Terrapins,57,40,2024
+2023-11-17,Alabama Crimson Tide,Mercer Bears,98,67,2024
+2023-11-17,Illinois Fighting Illini,Valparaiso Beacons,87,64,2024
+2023-11-17,James Madison Dukes,Radford Highlanders,76,73,2024
+2023-11-18,Creighton Bluejays,Texas Southern Tigers,82,50,2024
+2023-11-18,Florida Atlantic Owls,Bryant Bulldogs,52,61,2024
+2023-11-19,Arizona Wildcats,UT Arlington Mavericks,101,56,2024
+2023-11-19,USC Trojans,Brown Bears,81,70,2024
+2023-11-19,Michigan State Spartans,Alcorn State Braves,81,49,2024
+2023-11-19,Illinois Fighting Illini,Southern Jaguars,88,60,2024
+2023-11-20,Kentucky Wildcats,Saint Joseph's Hawks,96,88,2024
+2023-11-21,Duke Blue Devils,La Salle Explorers,95,66,2024
+2023-11-24,UConn Huskies,Manhattan Jaspers,90,60,2024
+2023-11-24,Houston Cougars,Montana Grizzlies,79,44,2024
+2023-11-24,Duke Blue Devils,Southern Indiana Screaming Eagles,80,62,2024
+2023-11-24,Kentucky Wildcats,Marshall Thundering Herd,118,82,2024
+2023-11-24,Mississippi State Bulldogs,Nicholls Colonels,74,61,2024
+2023-11-26,Texas Longhorns,Wyoming Cowboys,86,63,2024
+2023-11-26,Colorado Buffaloes,Iona Gaels,85,68,2024
+2023-11-27,UConn Huskies,New Hampshire Wildcats,84,64,2024
+2023-11-28,Purdue Boilermakers,Texas Southern Tigers,99,67,2024
+2023-11-28,Marquette Golden Eagles,Southern Jaguars,93,56,2024
+2023-11-28,Kansas Jayhawks,Eastern Illinois Panthers,71,63,2024
+2023-11-28,Kentucky Wildcats,Miami Hurricanes,95,73,2024
+2023-11-28,Baylor Bears,Nicholls Colonels,108,70,2024
+2023-11-28,Gonzaga Bulldogs,Cal State Bakersfield Roadrunners,81,65,2024
+2023-11-28,Georgia Tech Yellow Jackets,Mississippi State Bulldogs,67,59,2024
+2023-11-28,Alabama Crimson Tide,Clemson Tigers,77,85,2024
+2023-11-29,Arkansas Razorbacks,Duke Blue Devils,80,75,2024
+2023-11-29,North Carolina Tar Heels,Tennessee Volunteers,100,92,2024
+2023-11-29,Virginia Cavaliers,Texas A&M Aggies,59,47,2024
+2023-11-29,Villanova Wildcats,Saint Joseph's Hawks,65,78,2024
+2023-11-29,Colorado State Rams,Colorado Buffaloes,88,83,2024
+2023-11-29,James Madison Dukes,Buffalo Bulls,81,66,2024
+2023-11-30,Florida Atlantic Owls,Liberty Flames,83,58,2024
+2023-11-30,Oklahoma State Cowboys,Creighton Bluejays,65,79,2024
+2023-11-30,Texas Longhorns,Texas State Bobcats,77,58,2024
+2023-11-30,Oklahoma Sooners,Arkansas-Pine Bluff Golden Lions,107,86,2024
+2023-12-01,Northwestern Wildcats,Purdue Boilermakers,92,88,2024
+2023-12-01,Kansas Jayhawks,UConn Huskies,69,65,2024
+2023-12-01,Xavier Musketeers,Houston Cougars,60,66,2024
+2023-12-02,Arizona Wildcats,Colgate Raiders,82,55,2024
+2023-12-02,Wisconsin Badgers,Marquette Golden Eagles,75,64,2024
+2023-12-02,Georgia Tech Yellow Jackets,Duke Blue Devils,72,68,2024
+2023-12-02,Miami Hurricanes,Notre Dame Fighting Irish,62,49,2024
+2023-12-02,Baylor Bears,Northwestern State Demons,91,40,2024
+2023-12-02,Kentucky Wildcats,UNC Wilmington Seahawks,73,80,2024
+2023-12-02,Florida Atlantic Owls,Charleston Cougars,90,74,2024
+2023-12-02,North Carolina Tar Heels,Florida State Seminoles,78,70,2024
+2023-12-02,Rutgers Scarlet Knights,Illinois Fighting Illini,58,76,2024
+2023-12-03,Nebraska Cornhuskers,Creighton Bluejays,60,89,2024
+2023-12-03,Mississippi State Bulldogs,Southern Jaguars,59,60,2024
+2023-12-03,James Madison Dukes,Keystone Giants,130,59,2024
+2023-12-04,Purdue Boilermakers,Iowa Hawkeyes,87,68,2024
+2023-12-05,Kansas Jayhawks,Kansas City Roos,88,69,2024
+2023-12-05,Baylor Bears,Seton Hall Pirates,78,60,2024
+2023-12-05,Gonzaga Bulldogs,Arkansas-Pine Bluff Golden Lions,111,71,2024
+2023-12-05,BYU Cougars,Evansville Purple Aces,96,55,2024
+2023-12-05,Tennessee Volunteers,George Mason Patriots,87,66,2024
+2023-12-05,Oklahoma Sooners,Providence Friars,72,51,2024
+2023-12-05,Michigan State Spartans,Wisconsin Badgers,57,70,2024
+2023-12-05,Grand Canyon Lopes,San Diego State Aztecs,79,73,2024
+2023-12-06,Houston Cougars,Rice Owls,75,39,2024
+2023-12-06,Marquette Golden Eagles,Texas Longhorns,86,65,2024
+2023-12-06,Colorado State Rams,Denver Pioneers,90,80,2024
+2023-12-06,Miami Hurricanes,Long Island University Sharks,97,49,2024
+2023-12-06,Texas A&M Aggies,DePaul Blue Demons,89,64,2024
+2023-12-06,Clemson Tigers,South Carolina Gamecocks,72,67,2024
+2023-12-07,Bellarmine Knights,Berea Mountaineers,98,59,2024
+2023-12-07,North Alabama Lions,Rust Bearcats,109,65,2024
+2023-12-07,Delaware State Hornets,Virginia-Lynchburg Dragons,106,73,2024
+2023-12-07,UNC Greensboro Spartans,Eastern Kentucky Colonels,87,85,2024
+2023-12-07,Wright State Raiders,Bethel (IN) Pilots,81,62,2024
+2023-12-07,Iowa State Cyclones,Iowa Hawkeyes,90,65,2024
+2023-12-07,Central Arkansas Bears,Little Rock Trojans,75,71,2024
+2023-12-07,Eastern Illinois Panthers,IU Indianapolis Jaguars,75,58,2024
+2023-12-07,North Dakota State Bison,Portland Pilots,78,67,2024
+2023-12-07,Cal State Northridge Matadors,Bethesda Flames,92,54,2024
+2023-12-08,Duquesne Dukes,Saint Peter's Peacocks,68,59,2024
+2023-12-08,Boston College Eagles,Holy Cross Crusaders,95,64,2024
+2023-12-08,Rider Broncs,Stonehill Skyhawks,73,56,2024
+2023-12-08,Manhattan Jaspers,Fairleigh Dickinson Knights,71,76,2024
+2023-12-08,Yale Bulldogs,Colby Sawyer Chargers,95,36,2024
+2023-12-08,Harvard Crimson,Army Black Knights,70,64,2024
+2023-12-08,High Point Panthers,North Carolina A&T Aggies,75,62,2024
+2023-12-08,Eastern Michigan Eagles,Oakland Golden Grizzlies,63,77,2024
+2023-12-08,Jacksonville State Gamecocks,UIC Flames,49,55,2024
+2023-12-08,Quinnipiac Bobcats,Navy Midshipmen,71,68,2024
+2023-12-09,Arizona Wildcats,Wisconsin Badgers,98,73,2024
+2023-12-09,Kansas Jayhawks,Missouri Tigers,73,64,2024
+2023-12-09,Houston Cougars,Jackson State Tigers,89,55,2024
+2023-12-09,UConn Huskies,Arkansas-Pine Bluff Golden Lions,101,63,2024
+2023-12-09,Washington Huskies,Gonzaga Bulldogs,78,73,2024
+2023-12-09,Marquette Golden Eagles,Notre Dame Fighting Irish,78,59,2024
+2023-12-09,Creighton Bluejays,Central Michigan Chippewas,109,64,2024
+2023-12-09,Texas Longhorns,Houston Christian Huskies,77,50,2024
+2023-12-09,Colorado State Rams,Saint Mary's Gaels,61,64,2024
+2023-12-09,Utah Utes,BYU Cougars,73,69,2024
+2023-12-09,Tennessee Volunteers,Illinois Fighting Illini,86,79,2024
+2023-12-09,Old Dominion Monarchs,James Madison Dukes,69,84,2024
+2023-12-09,Duke Blue Devils,Charlotte 49ers,80,56,2024
+2023-12-09,San Diego State Aztecs,UC Irvine Anteaters,63,62,2024
+2023-12-10,Texas A&M Aggies,Memphis Tigers,75,81,2024
+2023-12-11,Gonzaga Bulldogs,Mississippi Valley State Delta Devils,78,40,2024
+2023-12-12,Tennessee Volunteers,Georgia Southern Eagles,74,56,2024
+2023-12-12,Duke Blue Devils,Hofstra Pride,89,68,2024
+2023-12-13,Florida Atlantic Owls,Florida International Panthers,94,60,2024
+2023-12-13,BYU Cougars,Denver Pioneers,90,74,2024
+2023-12-13,Northwestern Wildcats,Chicago State Cougars,73,75,2024
+2023-12-14,Marquette Golden Eagles,St. Thomas-Minnesota Tommies,84,79,2024
+2023-12-14,Wisconsin Badgers,Jacksonville State Gamecocks,75,60,2024
+2023-12-16,Indiana Hoosiers,Kansas Jayhawks,71,75,2024
+2023-12-16,Creighton Bluejays,Alabama Crimson Tide,85,82,2024
+2023-12-16,Oklahoma Sooners,Green Bay Phoenix,81,47,2024
+2023-12-16,Memphis Tigers,Clemson Tigers,79,77,2024
+2023-12-16,BYU Cougars,Georgia State Panthers,86,54,2024
+2023-12-16,Hampton Pirates,James Madison Dukes,71,88,2024
+2023-12-16,Virginia Cavaliers,Northeastern Huskies,56,54,2024
+2023-12-16,Miami Hurricanes,La Salle Explorers,84,77,2024
+2023-12-16,DePaul Blue Demons,Northwestern Wildcats,46,56,2024
+2023-12-17,Illinois Fighting Illini,Colgate Raiders,74,57,2024
+2023-12-17,Colorado State Rams,CSU Pueblo Thunderwolves,86,54,2024
+2023-12-18,Drexel Dragons,Penn State Greater Allegheny Nittany Lions,117,49,2024
+2023-12-18,Jacksonville Dolphins,UL Monroe Warhawks,75,65,2024
+2023-12-18,East Texas A&M Lions,Arlington Baptist Patriots,130,53,2024
+2023-12-18,Texas A&M-Corpus Christi Islanders,Texas Lutheran Bulldogs,102,50,2024
+2023-12-18,Prairie View A&M Panthers,North American Stallions,92,61,2024
+2023-12-18,UNC Asheville Bulldogs,South Carolina State Bulldogs,79,75,2024
+2023-12-18,Charleston Cougars,Coastal Carolina Chanticleers,84,81,2024
+2023-12-18,Youngstown State Penguins,Westminster (PA) Titans,117,45,2024
+2023-12-18,Norfolk State Spartans,Southern Virginia Knights,108,52,2024
+2023-12-18,Le Moyne Dolphins,Houghton Highlanders,92,72,2024
+2023-12-18,Dartmouth Big Green,Thomas (ME) Terriers,77,48,2024
+2023-12-18,Campbell Fighting Camels,Morgan State Bears,83,76,2024
+2023-12-18,Michigan State Spartans,Oakland Golden Grizzlies,79,62,2024
+2023-12-18,Ohio Bobcats,Defiance Yellow Jackets,108,28,2024
+2023-12-18,Marist Red Foxes,Maryland Eastern Shore Hawks,76,52,2024
+2023-12-18,Marshall Thundering Herd,Bluefield Ramblin' Rams,103,70,2024
+2023-12-18,Wake Forest Demon Deacons,Delaware State Hornets,88,59,2024
+2023-12-18,Holy Cross Crusaders,Quinnipiac Bobcats,57,77,2024
+2023-12-18,UCF Knights,Maine Black Bears,74,51,2024
+2023-12-18,Little Rock Trojans,Murray State Racers,80,66,2024
+2023-12-18,Arkansas-Pine Bluff Golden Lions,Ecclesia Royals,125,75,2024
+2023-12-18,SIU Edwardsville Cougars,Central Christian (KS) Tigers,99,56,2024
+2023-12-18,Chicago State Cougars,UT Rio Grande Valley Vaqueros,78,68,2024
+2023-12-18,Texas State Bobcats,LeTourneau Yellow Jackets,110,68,2024
+2023-12-18,Tarleton State Texans,Jacksonville State Gamecocks,62,65,2024
+2023-12-18,Western Illinois Leathernecks,Eureka Red Devils,92,56,2024
+2023-12-18,Evansville Purple Aces,UT Martin Skyhawks,98,91,2024
+2023-12-18,Lamar Cardinals,Southern Miss Golden Eagles,79,82,2024
+2023-12-18,Northern Illinois Huskies,Calumet St. Joseph Crimson Wave,92,48,2024
+2023-12-18,Denver Pioneers,Adams State Grizzlies,89,83,2024
+2023-12-18,Sacramento State Hornets,UC San Diego Tritons,52,83,2024
+2023-12-18,Fresno State Bulldogs,Portland State Vikings,72,75,2024
+2023-12-18,Cal Poly Mustangs,Eastern Washington Eagles,53,62,2024
+2023-12-18,Loyola Marymount Lions,Detroit Mercy Titans,76,56,2024
+2023-12-18,Pacific Tigers,Stanislaus State Warriors,68,46,2024
+2023-12-19,Providence Friars,Marquette Golden Eagles,72,57,2024
+2023-12-19,James Madison Dukes,Coppin State Eagles,87,48,2024
+2023-12-19,Memphis Tigers,Virginia Cavaliers,77,54,2024
+2023-12-19,Ole Miss Rebels,Troy Trojans,74,53,2024
+2023-12-20,Seton Hall Pirates,UConn Huskies,75,60,2024
+2023-12-20,Creighton Bluejays,Villanova Wildcats,66,68,2024
+2023-12-20,Gonzaga Bulldogs,Jackson State Tigers,100,76,2024
+2023-12-21,Purdue Boilermakers,Jacksonville Dolphins,100,57,2024
+2023-12-21,Houston Cougars,Texas State Bobcats,72,37,2024
+2023-12-21,Tennessee Volunteers,Tarleton State Texans,65,46,2024
+2023-12-21,Louisville Cardinals,Kentucky Wildcats,76,95,2024
+2023-12-22,Kansas Jayhawks,Yale Bulldogs,75,60,2024
+2023-12-22,Marquette Golden Eagles,Georgetown Hoyas,81,51,2024
+2023-12-22,Baylor Bears,Mississippi Valley State Delta Devils,107,48,2024
+2023-12-22,Loyola Marymount Lions,Colorado State Rams,67,76,2024
+2023-12-22,BYU Cougars,Bellarmine Knights,101,59,2024
+2023-12-22,Clemson Tigers,Queens University Royals,109,79,2024
+2023-12-22,Texas Longhorns,Texas A&M-Corpus Christi Islanders,71,55,2024
+2023-12-22,Morgan State Bears,James Madison Dukes,75,89,2024
+2023-12-22,Wisconsin Badgers,Chicago State Cougars,80,53,2024
+2023-12-23,UConn Huskies,St. John's Red Storm,69,65,2024
+2023-12-23,Memphis Tigers,Vanderbilt Commodores,77,75,2024
+2023-12-24,Hawai'i Rainbow Warriors,TCU Horned Frogs,51,65,2024
+2023-12-27,Virginia Cavaliers,Morgan State Bears,79,44,2024
+2023-12-27,California Baptist Lancers,Chicago State Cougars,74,62,2024
+2023-12-28,Oklahoma Sooners,Central Arkansas Bears,88,72,2024
+2023-12-29,Purdue Boilermakers,Eastern Kentucky Colonels,80,53,2024
+2023-12-29,California Golden Bears,Arizona Wildcats,81,100,2024
+2023-12-29,Kentucky Wildcats,Illinois State Redbirds,96,70,2024
+2023-12-29,North Carolina Tar Heels,Charleston Southern Buccaneers,105,60,2024
+2023-12-29,Illinois Fighting Illini,Fairleigh Dickinson Knights,104,71,2024
+2023-12-29,Gonzaga Bulldogs,San Diego State Aztecs,74,84,2024
+2023-12-29,Colorado State Rams,Adams State Grizzlies,106,61,2024
+2023-12-29,Clemson Tigers,Radford Highlanders,93,58,2024
+2023-12-29,Texas Longhorns,UNC Greensboro Spartans,72,37,2024
+2023-12-30,Houston Cougars,Pennsylvania Quakers,81,42,2024
+2023-12-30,Florida Gulf Coast Eagles,Florida Atlantic Owls,72,68,2024
+2023-12-30,Marquette Golden Eagles,Creighton Bluejays,72,67,2024
+2023-12-30,BYU Cougars,Wyoming Cowboys,94,68,2024
+2023-12-30,Duke Blue Devils,Queens University Royals,106,69,2024
+2023-12-30,Memphis Tigers,Austin Peay Governors,81,70,2024
+2023-12-30,James Madison Dukes,Texas State Bobcats,82,65,2024
+2023-12-31,Stanford Cardinal,Arizona Wildcats,100,82,2024
+2023-12-31,Oklahoma Sooners,Monmouth Hawks,72,56,2024
+2023-12-31,Ole Miss Rebels,Bryant Bulldogs,95,78,2024
+2024-01-01,Texas Longhorns,UT Arlington Mavericks,79,62,2024
+2024-01-02,Maryland Terrapins,Purdue Boilermakers,53,67,2024
+2024-01-02,UConn Huskies,DePaul Blue Demons,85,56,2024
+2024-01-02,Tennessee Volunteers,Norfolk State Spartans,87,50,2024
+2024-01-02,Pittsburgh Panthers,North Carolina Tar Heels,57,70,2024
+2024-01-02,Illinois Fighting Illini,Northwestern Wildcats,96,66,2024
+2024-01-02,Colorado State Rams,New Mexico Lobos,76,68,2024
+2024-01-02,Duke Blue Devils,Syracuse Orange,86,66,2024
+2024-01-02,Florida Atlantic Owls,East Carolina Pirates,79,64,2024
+2024-01-02,Baylor Bears,Cornell Big Red,98,79,2024
+2024-01-02,Wisconsin Badgers,Iowa Hawkeyes,83,72,2024
+2024-01-02,Auburn Tigers,Pennsylvania Quakers,88,68,2024
+2024-01-03,Miami Hurricanes,Clemson Tigers,95,82,2024
+2024-01-03,Providence Friars,Seton Hall Pirates,57,61,2024
+2024-01-04,Arizona Wildcats,Colorado Buffaloes,97,50,2024
+2024-01-04,Tulsa Golden Hurricane,Memphis Tigers,75,78,2024
+2024-01-04,Louisiana Ragin' Cajuns,James Madison Dukes,61,68,2024
+2024-01-04,Gonzaga Bulldogs,Pepperdine Waves,86,60,2024
+2024-01-05,Purdue Boilermakers,Illinois Fighting Illini,83,78,2024
+2024-01-05,Butler Bulldogs,UConn Huskies,81,88,2024
+2024-01-06,Kansas Jayhawks,TCU Horned Frogs,83,81,2024
+2024-01-06,Houston Cougars,West Virginia Mountaineers,89,55,2024
+2024-01-06,Tennessee Volunteers,Ole Miss Rebels,90,64,2024
+2024-01-06,Florida Gators,Kentucky Wildcats,85,87,2024
+2024-01-06,Seton Hall Pirates,Marquette Golden Eagles,78,75,2024
+2024-01-06,Clemson Tigers,North Carolina Tar Heels,55,65,2024
+2024-01-06,Arizona Wildcats,Utah Utes,92,73,2024
+2024-01-06,Oklahoma Sooners,Iowa State Cyclones,71,63,2024
+2024-01-06,BYU Cougars,Cincinnati Bearcats,60,71,2024
+2024-01-06,Utah State Aggies,Colorado State Rams,77,72,2024
+2024-01-06,Notre Dame Fighting Irish,Duke Blue Devils,59,67,2024
+2024-01-06,Charlotte 49ers,Florida Atlantic Owls,70,68,2024
+2024-01-06,Oklahoma State Cowboys,Baylor Bears,70,75,2024
+2024-01-06,Southern Miss Golden Eagles,James Madison Dukes,81,71,2024
+2024-01-06,Texas Longhorns,Texas Tech Red Raiders,67,78,2024
+2024-01-06,Wisconsin Badgers,Nebraska Cornhuskers,88,72,2024
+2024-01-06,Creighton Bluejays,Providence Friars,69,60,2024
+2024-01-06,Gonzaga Bulldogs,San Diego Toreros,101,74,2024
+2024-01-06,Arkansas Razorbacks,Auburn Tigers,51,83,2024
+2024-01-07,Memphis Tigers,SMU Mustangs,62,59,2024
+2024-01-08,New Orleans Privateers,East Texas A&M Lions,88,85,2024
+2024-01-08,Monmouth Hawks,Northeastern Huskies,81,62,2024
+2024-01-08,South Carolina State Bulldogs,Howard Bison,78,82,2024
+2024-01-08,Morgan State Bears,Delaware State Hornets,66,78,2024
+2024-01-08,Southern Jaguars,Prairie View A&M Panthers,79,58,2024
+2024-01-08,North Carolina Central Eagles,Norfolk State Spartans,60,58,2024
+2024-01-08,Coppin State Eagles,Maryland Eastern Shore Hawks,58,55,2024
+2024-01-08,Northwestern State Demons,McNeese Cowboys,59,68,2024
+2024-01-08,Lamar Cardinals,Incarnate Word Cardinals,75,59,2024
+2024-01-08,Texas A&M-Corpus Christi Islanders,Houston Christian Huskies,81,59,2024
+2024-01-08,Grambling Tigers,Texas Southern Tigers,52,54,2024
+2024-01-08,Arkansas-Pine Bluff Golden Lions,Alabama State Hornets,72,83,2024
+2024-01-08,Mississippi Valley State Delta Devils,Alabama A&M Bulldogs,70,78,2024
+2024-01-09,Nebraska Cornhuskers,Purdue Boilermakers,88,72,2024
+2024-01-09,Iowa State Cyclones,Houston Cougars,57,53,2024
+2024-01-09,Kentucky Wildcats,Missouri Tigers,90,77,2024
+2024-01-09,Pittsburgh Panthers,Duke Blue Devils,53,75,2024
+2024-01-09,Baylor Bears,BYU Cougars,81,72,2024
+2024-01-09,Auburn Tigers,Texas A&M Aggies,66,55,2024
+2024-01-09,Boise State Broncos,Colorado State Rams,65,58,2024
+2024-01-09,San José State Spartans,San Diego State Aztecs,78,81,2024
+2024-01-09,Utah State Aggies,Wyoming Cowboys,83,59,2024
+2024-01-09,DePaul Blue Demons,Creighton Bluejays,58,84,2024
+2024-01-09,Cincinnati Bearcats,Texas Longhorns,73,74,2024
+2024-01-10,UCF Knights,Kansas Jayhawks,65,60,2024
+2024-01-10,Xavier Musketeers,UConn Huskies,75,80,2024
+2024-01-10,Mississippi State Bulldogs,Tennessee Volunteers,77,72,2024
+2024-01-10,NC State Wolfpack,North Carolina Tar Heels,54,67,2024
+2024-01-10,TCU Horned Frogs,Oklahoma Sooners,80,71,2024
+2024-01-10,Marquette Golden Eagles,Butler Bulldogs,62,69,2024
+2024-01-10,Memphis Tigers,UTSA Roadrunners,107,101,2024
+2024-01-10,Ohio State Buckeyes,Wisconsin Badgers,60,71,2024
+2024-01-10,Virginia Tech Hokies,Clemson Tigers,87,72,2024
+2024-01-11,Illinois Fighting Illini,Michigan State Spartans,71,68,2024
+2024-01-11,Santa Clara Broncos,Gonzaga Bulldogs,77,76,2024
+2024-01-11,Tulane Green Wave,Florida Atlantic Owls,84,85,2024
+2024-01-12,Milwaukee Panthers,Cleveland State Vikings,88,80,2024
+2024-01-12,Indiana Hoosiers,Minnesota Golden Gophers,74,62,2024
+2024-01-12,South Florida Bulls,Rice Owls,81,73,2024
+2024-01-12,Duquesne Dukes,Dayton Flyers,62,72,2024
+2024-01-12,Rider Broncs,Manhattan Jaspers,71,58,2024
+2024-01-12,Marist Red Foxes,Quinnipiac Bobcats,55,66,2024
+2024-01-12,Niagara Purple Eagles,Fairfield Stags,96,72,2024
+2024-01-12,Canisius Golden Griffins,Siena Saints,67,63,2024
+2024-01-12,Akron Zips,Buffalo Bulls,76,59,2024
+2024-01-12,Robert Morris Colonials,Purdue Fort Wayne Mastodons,91,88,2024
+2024-01-12,Queens University Royals,Stetson Hatters,66,84,2024
+2024-01-12,North Florida Ospreys,Jacksonville Dolphins,82,74,2024
+2024-01-12,Kennesaw State Owls,Florida Gulf Coast Eagles,78,75,2024
+2024-01-12,Villanova Wildcats,DePaul Blue Demons,94,69,2024
+2024-01-12,Youngstown State Penguins,Wright State Raiders,81,71,2024
+2024-01-12,Iowa Hawkeyes,Nebraska Cornhuskers,94,76,2024
+2024-01-12,Nevada Wolf Pack,Boise State Broncos,56,64,2024
+2024-01-13,Purdue Boilermakers,Penn State Nittany Lions,95,78,2024
+2024-01-13,TCU Horned Frogs,Houston Cougars,68,67,2024
+2024-01-13,Kansas Jayhawks,Oklahoma Sooners,78,66,2024
+2024-01-13,Georgia Bulldogs,Tennessee Volunteers,79,85,2024
+2024-01-13,Texas A&M Aggies,Kentucky Wildcats,97,92,2024
+2024-01-13,North Carolina Tar Heels,Syracuse Orange,103,67,2024
+2024-01-13,Washington State Cougars,Arizona Wildcats,73,70,2024
+2024-01-13,Duke Blue Devils,Georgia Tech Yellow Jackets,84,79,2024
+2024-01-13,Baylor Bears,Cincinnati Bearcats,62,59,2024
+2024-01-13,Wisconsin Badgers,Northwestern Wildcats,71,63,2024
+2024-01-13,Auburn Tigers,LSU Tigers,93,78,2024
+2024-01-13,UCF Knights,BYU Cougars,58,63,2024
+2024-01-13,New Mexico Lobos,San Diego State Aztecs,88,70,2024
+2024-01-13,UNLV Rebels,Utah State Aggies,86,87,2024
+2024-01-13,Clemson Tigers,Boston College Eagles,89,78,2024
+2024-01-13,Creighton Bluejays,St. John's Red Storm,66,65,2024
+2024-01-13,West Virginia Mountaineers,Texas Longhorns,76,73,2024
+2024-01-14,UConn Huskies,Georgetown Hoyas,80,67,2024
+2024-01-14,Illinois Fighting Illini,Maryland Terrapins,67,76,2024
+2024-01-14,Wichita State Shockers,Memphis Tigers,86,112,2024
+2024-01-14,Florida Atlantic Owls,UAB Blazers,86,73,2024
+2024-01-15,Marquette Golden Eagles,Villanova Wildcats,87,74,2024
+2024-01-16,Indiana Hoosiers,Purdue Boilermakers,66,87,2024
+2024-01-16,Oklahoma State Cowboys,Kansas Jayhawks,66,90,2024
+2024-01-16,Tennessee Volunteers,Florida Gators,85,66,2024
+2024-01-16,Kansas State Wildcats,Baylor Bears,68,64,2024
+2024-01-16,Penn State Nittany Lions,Wisconsin Badgers,87,83,2024
+2024-01-16,New Mexico Lobos,Utah State Aggies,99,86,2024
+2024-01-16,Cincinnati Bearcats,TCU Horned Frogs,81,77,2024
+2024-01-16,BYU Cougars,Iowa State Cyclones,87,72,2024
+2024-01-16,Dayton Flyers,Saint Louis Billikens,70,65,2024
+2024-01-17,UConn Huskies,Creighton Bluejays,62,48,2024
+2024-01-17,North Carolina Tar Heels,Louisville Cardinals,86,70,2024
+2024-01-17,Houston Cougars,Texas Tech Red Raiders,77,54,2024
+2024-01-17,Kentucky Wildcats,Mississippi State Bulldogs,90,77,2024
+2024-01-17,Arizona Wildcats,USC Trojans,82,67,2024
+2024-01-17,Vanderbilt Commodores,Auburn Tigers,65,80,2024
+2024-01-17,Oklahoma Sooners,West Virginia Mountaineers,77,63,2024
+2024-01-17,LSU Tigers,Ole Miss Rebels,89,80,2024
+2024-01-18,Memphis Tigers,South Florida Bulls,73,74,2024
+2024-01-18,Michigan Wolverines,Illinois Fighting Illini,73,88,2024
+2024-01-18,Florida Atlantic Owls,Wichita State Shockers,86,77,2024
+2024-01-19,Wisconsin Badgers,Indiana Hoosiers,91,79,2024
+2024-01-20,Villanova Wildcats,UConn Huskies,65,66,2024
+2024-01-20,Iowa Hawkeyes,Purdue Boilermakers,70,84,2024
+2024-01-20,West Virginia Mountaineers,Kansas Jayhawks,91,85,2024
+2024-01-20,Boston College Eagles,North Carolina Tar Heels,66,76,2024
+2024-01-20,Houston Cougars,UCF Knights,57,42,2024
+2024-01-20,Tennessee Volunteers,Alabama Crimson Tide,91,71,2024
+2024-01-20,Duke Blue Devils,Pittsburgh Panthers,76,80,2024
+2024-01-20,Kentucky Wildcats,Georgia Bulldogs,105,96,2024
+2024-01-20,Texas Longhorns,Baylor Bears,75,73,2024
+2024-01-20,Arizona Wildcats,UCLA Bruins,77,71,2024
+2024-01-20,Auburn Tigers,Ole Miss Rebels,82,59,2024
+2024-01-20,Cincinnati Bearcats,Oklahoma Sooners,65,69,2024
+2024-01-20,Utah State Aggies,Fresno State Bulldogs,83,62,2024
+2024-01-20,St. John's Red Storm,Marquette Golden Eagles,72,73,2024
+2024-01-20,Seton Hall Pirates,Creighton Bluejays,94,97,2024
+2024-01-20,TCU Horned Frogs,Iowa State Cyclones,72,73,2024
+2024-01-20,Texas Tech Red Raiders,BYU Cougars,85,78,2024
+2024-01-20,Dayton Flyers,Rhode Island Rams,96,62,2024
+2024-01-21,Tulane Green Wave,Memphis Tigers,81,79,2024
+2024-01-21,Illinois Fighting Illini,Rutgers Scarlet Knights,86,63,2024
+2024-01-21,UTSA Roadrunners,Florida Atlantic Owls,103,112,2024
+2024-01-22,North Carolina Tar Heels,Wake Forest Demon Deacons,85,64,2024
+2024-01-22,Kansas Jayhawks,Cincinnati Bearcats,74,69,2024
+2024-01-23,Purdue Boilermakers,Michigan Wolverines,99,67,2024
+2024-01-23,BYU Cougars,Houston Cougars,68,75,2024
+2024-01-23,South Carolina Gamecocks,Kentucky Wildcats,79,62,2024
+2024-01-23,Oklahoma Sooners,Texas Longhorns,60,75,2024
+2024-01-23,Louisville Cardinals,Duke Blue Devils,69,83,2024
+2024-01-23,Minnesota Golden Gophers,Wisconsin Badgers,59,61,2024
+2024-01-23,La Salle Explorers,Dayton Flyers,54,66,2024
+2024-01-23,Creighton Bluejays,Xavier Musketeers,85,78,2024
+2024-01-24,Alabama Crimson Tide,Auburn Tigers,79,75,2024
+2024-01-24,Northwestern Wildcats,Illinois Fighting Illini,96,91,2024
+2024-01-24,DePaul Blue Demons,Marquette Golden Eagles,73,86,2024
+2024-01-24,Rice Owls,Florida Atlantic Owls,56,69,2024
+2024-01-24,Iowa State Cyclones,Kansas State Wildcats,78,67,2024
+2024-01-24,Nevada Wolf Pack,Colorado State Rams,77,64,2024
+2024-01-24,San José State Spartans,New Mexico Lobos,75,95,2024
+2024-01-25,Oregon State Beavers,Arizona Wildcats,83,80,2024
+2024-01-26,Wisconsin Badgers,Michigan State Spartans,81,66,2024
+2024-01-27,Florida State Seminoles,North Carolina Tar Heels,68,75,2024
+2024-01-27,Houston Cougars,Kansas State Wildcats,74,52,2024
+2024-01-27,Vanderbilt Commodores,Tennessee Volunteers,62,75,2024
+2024-01-27,Arkansas Razorbacks,Kentucky Wildcats,57,63,2024
+2024-01-27,Iowa State Cyclones,Kansas Jayhawks,79,75,2024
+2024-01-27,Mississippi State Bulldogs,Auburn Tigers,64,58,2024
+2024-01-27,Oregon Ducks,Arizona Wildcats,78,87,2024
+2024-01-27,Illinois Fighting Illini,Indiana Hoosiers,70,62,2024
+2024-01-27,Oklahoma Sooners,Texas Tech Red Raiders,84,85,2024
+2024-01-27,Duke Blue Devils,Clemson Tigers,72,71,2024
+2024-01-27,Marquette Golden Eagles,Seton Hall Pirates,75,57,2024
+2024-01-27,Baylor Bears,TCU Horned Frogs,102,105,2024
+2024-01-27,Richmond Spiders,Dayton Flyers,69,64,2024
+2024-01-27,Creighton Bluejays,DePaul Blue Demons,85,62,2024
+2024-01-27,Boise State Broncos,Utah State Aggies,84,90,2024
+2024-01-27,BYU Cougars,Texas Longhorns,84,72,2024
+2024-01-27,Wyoming Cowboys,Colorado State Rams,79,76,2024
+2024-01-28,UConn Huskies,Xavier Musketeers,99,56,2024
+2024-01-28,Rutgers Scarlet Knights,Purdue Boilermakers,60,68,2024
+2024-01-28,UAB Blazers,Memphis Tigers,97,88,2024
+2024-01-28,Florida Atlantic Owls,North Texas Mean Green,66,63,2024
+2024-01-28,New Mexico Lobos,Nevada Wolf Pack,89,55,2024
+2024-01-29,Texas Longhorns,Houston Cougars,72,76,2024
+2024-01-29,Virginia Tech Hokies,Duke Blue Devils,67,77,2024
+2024-01-30,Georgia Tech Yellow Jackets,North Carolina Tar Heels,74,73,2024
+2024-01-30,Tennessee Volunteers,South Carolina Gamecocks,59,63,2024
+2024-01-30,Kansas Jayhawks,Oklahoma State Cowboys,83,54,2024
+2024-01-30,Villanova Wildcats,Marquette Golden Eagles,80,85,2024
+2024-01-30,Ohio State Buckeyes,Illinois Fighting Illini,75,87,2024
+2024-01-30,TCU Horned Frogs,Texas Tech Red Raiders,85,78,2024
+2024-01-30,Utah State Aggies,San José State Spartans,82,61,2024
+2024-01-30,Dayton Flyers,George Washington Revolutionaries,83,61,2024
+2024-01-30,Kansas State Wildcats,Oklahoma Sooners,53,73,2024
+2024-01-31,UConn Huskies,Providence Friars,74,65,2024
+2024-01-31,Purdue Boilermakers,Northwestern Wildcats,105,96,2024
+2024-01-31,Kentucky Wildcats,Florida Gators,91,94,2024
+2024-01-31,Auburn Tigers,Vanderbilt Commodores,81,54,2024
+2024-01-31,UCF Knights,Baylor Bears,69,77,2024
+2024-01-31,New Mexico Lobos,Boise State Broncos,78,86,2024
+2024-01-31,Georgia Bulldogs,Alabama Crimson Tide,76,85,2024
+2024-02-01,Nebraska Cornhuskers,Wisconsin Badgers,80,72,2024
+2024-02-01,Arizona Wildcats,California Golden Bears,91,65,2024
+2024-02-02,Creighton Bluejays,Butler Bulldogs,98,99,2024
+2024-02-02,Dayton Flyers,St. Bonaventure Bonnies,76,71,2024
+2024-02-03,St. John's Red Storm,UConn Huskies,64,77,2024
+2024-02-03,North Carolina Tar Heels,Duke Blue Devils,93,84,2024
+2024-02-03,Kansas Jayhawks,Houston Cougars,78,65,2024
+2024-02-03,Kentucky Wildcats,Tennessee Volunteers,92,103,2024
+2024-02-03,Georgetown Hoyas,Marquette Golden Eagles,57,91,2024
+2024-02-03,Baylor Bears,Iowa State Cyclones,70,68,2024
+2024-02-03,Texas Tech Red Raiders,Cincinnati Bearcats,72,75,2024
+2024-02-03,Ole Miss Rebels,Auburn Tigers,77,91,2024
+2024-02-03,San Diego State Aztecs,Utah State Aggies,81,67,2024
+2024-02-03,Florida Atlantic Owls,Tulsa Golden Hurricane,102,70,2024
+2024-02-03,West Virginia Mountaineers,BYU Cougars,73,86,2024
+2024-02-03,UCF Knights,Oklahoma Sooners,74,63,2024
+2024-02-03,Alabama Crimson Tide,Mississippi State Bulldogs,99,67,2024
+2024-02-03,TCU Horned Frogs,Texas Longhorns,66,77,2024
+2024-02-04,Wisconsin Badgers,Purdue Boilermakers,69,75,2024
+2024-02-04,Arizona Wildcats,Stanford Cardinal,82,71,2024
+2024-02-04,Illinois Fighting Illini,Nebraska Cornhuskers,87,84,2024
+2024-02-05,Kansas State Wildcats,Kansas Jayhawks,75,70,2024
+2024-02-06,UConn Huskies,Butler Bulldogs,71,62,2024
+2024-02-06,North Carolina Tar Heels,Clemson Tigers,76,80,2024
+2024-02-06,Houston Cougars,Oklahoma State Cowboys,79,63,2024
+2024-02-06,Baylor Bears,Texas Tech Red Raiders,79,73,2024
+2024-02-06,Texas Longhorns,Iowa State Cyclones,65,70,2024
+2024-02-06,South Carolina Gamecocks,Ole Miss Rebels,68,65,2024
+2024-02-06,Vanderbilt Commodores,Kentucky Wildcats,77,109,2024
+2024-02-06,Saint Joseph's Hawks,Dayton Flyers,79,94,2024
+2024-02-06,Oklahoma Sooners,BYU Cougars,82,66,2024
+2024-02-06,Utah State Aggies,Nevada Wolf Pack,63,77,2024
+2024-02-06,Air Force Falcons,San Diego State Aztecs,64,77,2024
+2024-02-06,Wyoming Cowboys,New Mexico Lobos,73,91,2024
+2024-02-07,Tennessee Volunteers,LSU Tigers,88,68,2024
+2024-02-07,Duke Blue Devils,Notre Dame Fighting Irish,71,53,2024
+2024-02-07,Michigan Wolverines,Wisconsin Badgers,72,68,2024
+2024-02-07,Auburn Tigers,Alabama Crimson Tide,99,81,2024
+2024-02-07,Providence Friars,Creighton Bluejays,91,87,2024
+2024-02-08,Utah Utes,Arizona Wildcats,99,105,2024
+2024-02-08,UAB Blazers,Florida Atlantic Owls,76,73,2024
+2024-02-09,VCU Rams,Dayton Flyers,49,47,2024
+2024-02-09,Nevada Wolf Pack,San Diego State Aztecs,70,66,2024
+2024-02-10,Georgetown Hoyas,UConn Huskies,64,89,2024
+2024-02-10,Purdue Boilermakers,Indiana Hoosiers,79,59,2024
+2024-02-10,Miami Hurricanes,North Carolina Tar Heels,72,75,2024
+2024-02-10,Kansas Jayhawks,Baylor Bears,64,61,2024
+2024-02-10,Cincinnati Bearcats,Houston Cougars,62,67,2024
+2024-02-10,Texas A&M Aggies,Tennessee Volunteers,85,69,2024
+2024-02-10,Marquette Golden Eagles,St. John's Red Storm,86,75,2024
+2024-02-10,Colorado Buffaloes,Arizona Wildcats,79,99,2024
+2024-02-10,Duke Blue Devils,Boston College Eagles,80,65,2024
+2024-02-10,Michigan State Spartans,Illinois Fighting Illini,88,80,2024
+2024-02-10,Rutgers Scarlet Knights,Wisconsin Badgers,78,56,2024
+2024-02-10,Florida Gators,Auburn Tigers,81,65,2024
+2024-02-10,Iowa State Cyclones,TCU Horned Frogs,71,59,2024
+2024-02-10,South Carolina Gamecocks,Vanderbilt Commodores,75,60,2024
+2024-02-10,LSU Tigers,Alabama Crimson Tide,92,109,2024
+2024-02-10,Kentucky Wildcats,Gonzaga Bulldogs,85,89,2024
+2024-02-10,Xavier Musketeers,Creighton Bluejays,71,78,2024
+2024-02-10,BYU Cougars,Kansas State Wildcats,72,66,2024
+2024-02-10,Utah State Aggies,Boise State Broncos,80,61,2024
+2024-02-10,Texas Tech Red Raiders,UCF Knights,66,59,2024
+2024-02-10,New Mexico Lobos,UNLV Rebels,77,80,2024
+2024-02-11,Wichita State Shockers,Florida Atlantic Owls,82,95,2024
+2024-02-12,Texas Tech Red Raiders,Kansas Jayhawks,79,50,2024
+2024-02-12,Duke Blue Devils,Wake Forest Demon Deacons,77,69,2024
+2024-02-13,Butler Bulldogs,Marquette Golden Eagles,72,78,2024
+2024-02-13,Syracuse Orange,North Carolina Tar Heels,86,79,2024
+2024-02-13,Cincinnati Bearcats,Iowa State Cyclones,59,68,2024
+2024-02-13,Baylor Bears,Oklahoma Sooners,79,62,2024
+2024-02-13,Illinois Fighting Illini,Michigan Wolverines,97,68,2024
+2024-02-13,Dayton Flyers,Duquesne Dukes,75,59,2024
+2024-02-13,Creighton Bluejays,Georgetown Hoyas,94,72,2024
+2024-02-13,BYU Cougars,UCF Knights,90,88,2024
+2024-02-13,Wisconsin Badgers,Ohio State Buckeyes,62,54,2024
+2024-02-13,Virginia Cavaliers,Pittsburgh Panthers,63,74,2024
+2024-02-13,Kentucky Wildcats,Ole Miss Rebels,75,63,2024
+2024-02-13,Indiana State Sycamores,Illinois State Redbirds,67,80,2024
+2024-02-14,DePaul Blue Demons,UConn Huskies,65,101,2024
+2024-02-14,Arkansas Razorbacks,Tennessee Volunteers,63,92,2024
+2024-02-14,Auburn Tigers,South Carolina Gamecocks,101,61,2024
+2024-02-15,Purdue Boilermakers,Minnesota Golden Gophers,84,76,2024
+2024-02-15,Saint Mary's Gaels,Pepperdine Waves,103,59,2024
+2024-02-15,Florida Atlantic Owls,Temple Owls,80,68,2024
+2024-02-16,Cornell Big Red,Harvard Crimson,75,62,2024
+2024-02-16,Georgetown Hoyas,Villanova Wildcats,54,70,2024
+2024-02-16,Saint Louis Billikens,VCU Rams,85,95,2024
+2024-02-16,Saint Peter's Peacocks,Siena Saints,75,53,2024
+2024-02-16,Rider Broncs,Mount St. Mary's Mountaineers,61,57,2024
+2024-02-16,Iona Gaels,Manhattan Jaspers,73,63,2024
+2024-02-16,Fairfield Stags,Niagara Purple Eagles,63,65,2024
+2024-02-16,Marist Red Foxes,Canisius Golden Griffins,78,55,2024
+2024-02-16,Columbia Lions,Dartmouth Big Green,73,63,2024
+2024-02-16,Pennsylvania Quakers,Yale Bulldogs,62,76,2024
+2024-02-16,Princeton Tigers,Brown Bears,72,63,2024
+2024-02-16,Queens University Royals,Jacksonville Dolphins,74,65,2024
+2024-02-16,Kennesaw State Owls,North Florida Ospreys,81,82,2024
+2024-02-16,Toledo Rockets,Ohio Bobcats,85,83,2024
+2024-02-16,San Diego State Aztecs,New Mexico Lobos,81,70,2024
+2024-02-17,UConn Huskies,Marquette Golden Eagles,81,53,2024
+2024-02-17,Houston Cougars,Texas Longhorns,82,61,2024
+2024-02-17,Arizona Wildcats,Arizona State Sun Devils,105,60,2024
+2024-02-17,Oklahoma Sooners,Kansas Jayhawks,57,67,2024
+2024-02-17,North Carolina Tar Heels,Virginia Tech Hokies,96,81,2024
+2024-02-17,Tennessee Volunteers,Vanderbilt Commodores,88,53,2024
+2024-02-17,Florida State Seminoles,Duke Blue Devils,67,76,2024
+2024-02-17,Iowa State Cyclones,Texas Tech Red Raiders,82,74,2024
+2024-02-17,South Carolina Gamecocks,LSU Tigers,63,64,2024
+2024-02-17,West Virginia Mountaineers,Baylor Bears,81,94,2024
+2024-02-17,Auburn Tigers,Kentucky Wildcats,59,70,2024
+2024-02-17,Maryland Terrapins,Illinois Fighting Illini,80,85,2024
+2024-02-17,Alabama Crimson Tide,Texas A&M Aggies,100,75,2024
+2024-02-17,Dayton Flyers,Fordham Rams,78,70,2024
+2024-02-17,Butler Bulldogs,Creighton Bluejays,57,79,2024
+2024-02-17,Oklahoma State Cowboys,BYU Cougars,93,83,2024
+2024-02-17,Iowa Hawkeyes,Wisconsin Badgers,88,86,2024
+2024-02-17,Virginia Cavaliers,Wake Forest Demon Deacons,49,47,2024
+2024-02-17,Southern Illinois Salukis,Indiana State Sycamores,74,69,2024
+2024-02-18,Ohio State Buckeyes,Purdue Boilermakers,73,69,2024
+2024-02-18,South Florida Bulls,Florida Atlantic Owls,90,86,2024
+2024-02-19,Houston Cougars,Iowa State Cyclones,73,65,2024
+2024-02-20,Creighton Bluejays,UConn Huskies,85,66,2024
+2024-02-20,Missouri Tigers,Tennessee Volunteers,67,72,2024
+2024-02-20,BYU Cougars,Baylor Bears,78,71,2024
+2024-02-20,Saint Mary's Gaels,San Francisco Dons,70,66,2024
+2024-02-20,Utah State Aggies,San Diego State Aztecs,68,63,2024
+2024-02-20,Texas Tech Red Raiders,TCU Horned Frogs,82,81,2024
+2024-02-21,Marquette Golden Eagles,DePaul Blue Demons,105,71,2024
+2024-02-21,Miami Hurricanes,Duke Blue Devils,55,84,2024
+2024-02-21,Penn State Nittany Lions,Illinois Fighting Illini,90,89,2024
+2024-02-21,Alabama Crimson Tide,Florida Gators,98,93,2024
+2024-02-21,George Mason Patriots,Dayton Flyers,71,67,2024
+2024-02-21,LSU Tigers,Kentucky Wildcats,75,74,2024
+2024-02-21,New Mexico Lobos,Colorado State Rams,68,66,2024
+2024-02-22,Purdue Boilermakers,Rutgers Scarlet Knights,96,68,2024
+2024-02-22,Arizona Wildcats,Washington State Cougars,74,77,2024
+2024-02-23,Akron Zips,Kent State Golden Flashes,83,70,2024
+2024-02-23,Jacksonville Dolphins,North Florida Ospreys,62,50,2024
+2024-02-23,Mount St. Mary's Mountaineers,Saint Peter's Peacocks,65,70,2024
+2024-02-23,Manhattan Jaspers,Marist Red Foxes,50,57,2024
+2024-02-23,Rider Broncs,Iona Gaels,78,75,2024
+2024-02-23,Canisius Golden Griffins,Niagara Purple Eagles,69,59,2024
+2024-02-23,Dartmouth Big Green,Pennsylvania Quakers,69,82,2024
+2024-02-23,Bowling Green Falcons,Toledo Rockets,76,68,2024
+2024-02-23,Green Bay Phoenix,Purdue Fort Wayne Mastodons,59,85,2024
+2024-02-23,Cornell Big Red,Yale Bulldogs,65,62,2024
+2024-02-23,Harvard Crimson,Princeton Tigers,53,66,2024
+2024-02-23,Columbia Lions,Brown Bears,64,66,2024
+2024-02-23,Milwaukee Panthers,Youngstown State Penguins,80,84,2024
+2024-02-23,Fordham Rams,Duquesne Dukes,79,67,2024
+2024-02-23,Quinnipiac Bobcats,Fairfield Stags,81,85,2024
+2024-02-23,San José State Spartans,Nevada Wolf Pack,63,84,2024
+2024-02-24,UConn Huskies,Villanova Wildcats,78,54,2024
+2024-02-24,Baylor Bears,Houston Cougars,76,82,2024
+2024-02-24,Arizona Wildcats,Washington Huskies,91,75,2024
+2024-02-24,Tennessee Volunteers,Texas A&M Aggies,86,51,2024
+2024-02-24,Iowa State Cyclones,West Virginia Mountaineers,71,64,2024
+2024-02-24,Wake Forest Demon Deacons,Duke Blue Devils,83,79,2024
+2024-02-24,Kansas Jayhawks,Texas Longhorns,86,67,2024
+2024-02-24,Virginia Cavaliers,North Carolina Tar Heels,44,54,2024
+2024-02-24,Illinois Fighting Illini,Iowa Hawkeyes,95,85,2024
+2024-02-24,Kentucky Wildcats,Alabama Crimson Tide,117,95,2024
+2024-02-24,Georgia Bulldogs,Auburn Tigers,76,97,2024
+2024-02-24,Saint Mary's Gaels,San Diego Toreros,88,62,2024
+2024-02-24,Fresno State Bulldogs,San Diego State Aztecs,41,73,2024
+2024-02-24,Ole Miss Rebels,South Carolina Gamecocks,59,72,2024
+2024-02-24,Arizona State Sun Devils,Washington State Cougars,73,61,2024
+2024-02-24,UNLV Rebels,Colorado State Rams,66,60,2024
+2024-02-24,UCF Knights,Texas Tech Red Raiders,75,61,2024
+2024-02-24,Florida Gators,Vanderbilt Commodores,77,64,2024
+2024-02-24,Kansas State Wildcats,BYU Cougars,84,74,2024
+2024-02-25,Michigan Wolverines,Purdue Boilermakers,76,84,2024
+2024-02-25,Marquette Golden Eagles,Xavier Musketeers,88,64,2024
+2024-02-25,St. John's Red Storm,Creighton Bluejays,80,66,2024
+2024-02-26,North Carolina Tar Heels,Miami Hurricanes,75,71,2024
+2024-02-26,TCU Horned Frogs,Baylor Bears,54,62,2024
+2024-02-27,Houston Cougars,Cincinnati Bearcats,67,59,2024
+2024-02-27,Kansas Jayhawks,BYU Cougars,68,76,2024
+2024-02-27,Mississippi State Bulldogs,Kentucky Wildcats,89,91,2024
+2024-02-27,San Diego State Aztecs,San José State Spartans,72,64,2024
+2024-02-27,Dayton Flyers,Davidson Wildcats,80,66,2024
+2024-02-27,Fresno State Bulldogs,Utah State Aggies,73,77,2024
+2024-02-28,Tennessee Volunteers,Auburn Tigers,92,84,2024
+2024-02-28,Marquette Golden Eagles,Providence Friars,91,69,2024
+2024-02-28,Arizona State Sun Devils,Arizona Wildcats,67,85,2024
+2024-02-28,Iowa State Cyclones,Oklahoma Sooners,58,45,2024
+2024-02-28,Duke Blue Devils,Louisville Cardinals,84,59,2024
+2024-02-28,Creighton Bluejays,Seton Hall Pirates,85,64,2024
+2024-02-28,Illinois Fighting Illini,Minnesota Golden Gophers,105,97,2024
+2024-02-28,Ole Miss Rebels,Alabama Crimson Tide,88,103,2024
+2024-02-28,Texas A&M Aggies,South Carolina Gamecocks,68,70,2024
+2024-02-28,Florida Gators,Missouri Tigers,83,74,2024
+2024-02-29,Pepperdine Waves,Saint Mary's Gaels,57,83,2024
+2024-02-29,Washington State Cougars,USC Trojans,75,72,2024
+2024-02-29,San Francisco Dons,Gonzaga Bulldogs,68,86,2024
+2024-03-01,Loyola Chicago Ramblers,Dayton Flyers,77,72,2024
+2024-03-01,Utah State Aggies,Air Force Falcons,72,60,2024
+2024-03-02,Oklahoma Sooners,Houston Cougars,85,87,2024
+2024-03-02,Purdue Boilermakers,Michigan State Spartans,80,74,2024
+2024-03-02,Alabama Crimson Tide,Tennessee Volunteers,74,81,2024
+2024-03-02,Creighton Bluejays,Marquette Golden Eagles,89,75,2024
+2024-03-02,Arizona Wildcats,Oregon Ducks,103,83,2024
+2024-03-02,Baylor Bears,Kansas Jayhawks,82,74,2024
+2024-03-02,UCF Knights,Iowa State Cyclones,52,60,2024
+2024-03-02,North Carolina Tar Heels,NC State Wolfpack,79,70,2024
+2024-03-02,Duke Blue Devils,Virginia Cavaliers,73,48,2024
+2024-03-02,Auburn Tigers,Mississippi State Bulldogs,78,63,2024
+2024-03-02,Wisconsin Badgers,Illinois Fighting Illini,83,91,2024
+2024-03-02,Kentucky Wildcats,Arkansas Razorbacks,111,102,2024
+2024-03-02,Saint Mary's Gaels,Gonzaga Bulldogs,57,70,2024
+2024-03-02,South Carolina Gamecocks,Florida Gators,82,76,2024
+2024-03-02,Washington State Cougars,UCLA Bruins,77,65,2024
+2024-03-02,Charlotte 49ers,South Florida Bulls,61,76,2024
+2024-03-03,UConn Huskies,Seton Hall Pirates,91,61,2024
+2024-03-04,NC State Wolfpack,Duke Blue Devils,64,79,2024
+2024-03-04,Baylor Bears,Texas Longhorns,93,85,2024
+2024-03-05,Illinois Fighting Illini,Purdue Boilermakers,71,77,2024
+2024-03-05,North Carolina Tar Heels,Notre Dame Fighting Irish,84,51,2024
+2024-03-05,Missouri Tigers,Auburn Tigers,74,101,2024
+2024-03-05,Kansas Jayhawks,Kansas State Wildcats,90,68,2024
+2024-03-05,Florida Gators,Alabama Crimson Tide,105,87,2024
+2024-03-05,UNLV Rebels,San Diego State Aztecs,62,58,2024
+2024-03-05,South Florida Bulls,Tulane Green Wave,85,72,2024
+2024-03-05,Saint Louis Billikens,Dayton Flyers,83,100,2024
+2024-03-06,UCF Knights,Houston Cougars,59,67,2024
+2024-03-06,Marquette Golden Eagles,UConn Huskies,67,74,2024
+2024-03-06,South Carolina Gamecocks,Tennessee Volunteers,59,66,2024
+2024-03-06,Iowa State Cyclones,BYU Cougars,68,63,2024
+2024-03-06,Kentucky Wildcats,Vanderbilt Commodores,93,77,2024
+2024-03-06,San José State Spartans,Utah State Aggies,70,90,2024
+2024-03-07,UCLA Bruins,Arizona Wildcats,65,88,2024
+2024-03-07,Washington State Cougars,Washington Huskies,68,74,2024
+2024-03-08,San Diego State Aztecs,Boise State Broncos,77,79,2024
+2024-03-08,Dayton Flyers,VCU Rams,91,86,2024
+2024-03-09,Houston Cougars,Kansas Jayhawks,76,46,2024
+2024-03-09,Providence Friars,UConn Huskies,60,74,2024
+2024-03-09,Tennessee Volunteers,Kentucky Wildcats,81,85,2024
+2024-03-09,USC Trojans,Arizona Wildcats,78,65,2024
+2024-03-09,Kansas State Wildcats,Iowa State Cyclones,65,58,2024
+2024-03-09,Duke Blue Devils,North Carolina Tar Heels,79,84,2024
+2024-03-09,Xavier Musketeers,Marquette Golden Eagles,80,86,2024
+2024-03-09,Villanova Wildcats,Creighton Bluejays,67,69,2024
+2024-03-09,Texas Tech Red Raiders,Baylor Bears,78,68,2024
+2024-03-09,Auburn Tigers,Georgia Bulldogs,92,78,2024
+2024-03-09,Alabama Crimson Tide,Arkansas Razorbacks,92,88,2024
+2024-03-09,Mississippi State Bulldogs,South Carolina Gamecocks,89,93,2024
+2024-03-09,BYU Cougars,Oklahoma State Cowboys,85,71,2024
+2024-03-09,Utah State Aggies,New Mexico Lobos,87,85,2024
+2024-03-09,Tulsa Golden Hurricane,South Florida Bulls,76,70,2024
+2024-03-10,Purdue Boilermakers,Wisconsin Badgers,78,70,2024
+2024-03-10,Iowa Hawkeyes,Illinois Fighting Illini,61,73,2024
+2024-03-15,UConn Huskies,St. John's Red Storm,95,90,2024
